@@ -1,0 +1,1001 @@
+claim_id,policy_number,incident_date,incident_type,collision_type,incident_severity,authorities_contacted,incident_state,incident_city,incident_location,incident_hour_of_the_day,number_of_vehicles_involved,property_damage,bodily_injuries,witnesses,police_report_available,total_claim_amount,injury_claim,property_claim,vehicle_claim,auto_make,auto_model,auto_year,fraud_reported
+CLM-00001,521585,2015-01-25,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,Columbus,9935 4th Drive,5,1,YES,1,2,YES,71610,6510,13020,52080,Saab,92x,2004,Y
+CLM-00002,342868,2015-01-21,Vehicle Theft,,Minor Damage,Police,VA,Riverwood,6608 MLK Hwy,8,1,,0,0,,5070,780,780,3510,Mercedes,E400,2007,Y
+CLM-00003,687698,2015-02-22,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Columbus,7121 Francis Lane,7,3,NO,2,3,NO,34650,7700,3850,23100,Dodge,RAM,2007,N
+CLM-00004,227811,2015-01-10,Single Vehicle Collision,Front Collision,Major Damage,Police,OH,Arlington,6956 Maple Drive,5,1,,1,2,NO,63400,6340,6340,50720,Chevrolet,Tahoe,2014,Y
+CLM-00005,367455,2015-02-17,Vehicle Theft,,Minor Damage,,NY,Arlington,3041 3rd Ave,20,1,NO,0,1,NO,6500,1300,650,4550,Accura,RSX,2009,N
+CLM-00006,104594,2015-01-02,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Arlington,8973 Washington St,19,3,NO,0,2,NO,64100,6410,6410,51280,Saab,95,2003,Y
+CLM-00007,413978,2015-01-13,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,Springfield,5846 Weaver Drive,0,3,,0,0,,78650,21450,7150,50050,Nissan,Pathfinder,2012,N
+CLM-00008,429027,2015-02-27,Multi-vehicle Collision,Front Collision,Total Loss,Police,VA,Columbus,3525 3rd Hwy,23,3,,2,2,YES,51590,9380,9380,32830,Audi,A5,2015,N
+CLM-00009,485665,2015-01-30,Single Vehicle Collision,Front Collision,Total Loss,Police,WV,Arlington,4872 Rock Ridge,21,1,NO,1,1,YES,27700,2770,2770,22160,Toyota,Camry,2012,N
+CLM-00010,636550,2015-01-05,Single Vehicle Collision,Rear Collision,Total Loss,Other,NC,Hillsdale,3066 Francis Ave,14,1,NO,2,1,,42300,4700,4700,32900,Saab,92x,1996,N
+CLM-00011,543610,2015-01-06,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,Northbend,1558 1st Ridge,22,1,YES,2,2,,87010,7910,15820,63280,Ford,F150,2002,N
+CLM-00012,214618,2015-02-15,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,Springfield,5971 5th Hwy,21,3,YES,1,2,YES,114920,17680,17680,79560,Audi,A3,2006,N
+CLM-00013,842643,2015-01-22,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Northbend,6655 5th Drive,9,1,YES,1,0,NO,56520,4710,9420,42390,Saab,95,2000,N
+CLM-00014,626808,2015-01-08,Parked Car,,Minor Damage,,SC,Springfield,6582 Elm Lane,5,1,NO,1,1,NO,7280,1120,1120,5040,Toyota,Highlander,2010,N
+CLM-00015,644081,2015-01-15,Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,Springfield,6851 3rd Drive,12,1,NO,0,2,YES,46200,4200,8400,33600,Dodge,Neon,2003,Y
+CLM-00016,892874,2015-01-29,Multi-vehicle Collision,Side Collision,Major Damage,Other,WV,Hillsdale,9573 Weaver Ave,12,4,YES,0,0,NO,63120,10520,10520,42080,Accura,MDX,1999,Y
+CLM-00017,558938,2015-02-22,Multi-vehicle Collision,Rear Collision,Major Damage,Other,NY,Riverwood,5074 3rd St,0,3,,1,2,YES,52110,5790,5790,40530,Nissan,Maxima,2012,N
+CLM-00018,275265,2015-01-06,Single Vehicle Collision,Side Collision,Total Loss,Police,WV,Northbend,4546 Tree St,9,1,NO,0,2,YES,77880,14160,7080,56640,Suburu,Legacy,2015,N
+CLM-00019,921202,2015-01-19,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,Northbrook,3842 Solo Ridge,19,1,YES,1,0,NO,72930,6630,13260,53040,Accura,TL,2015,N
+CLM-00020,143972,2015-02-22,Multi-vehicle Collision,Side Collision,Major Damage,Police,VA,Columbus,8101 3rd Ridge,8,3,,2,0,NO,60400,6040,6040,48320,Nissan,Pathfinder,2014,N
+CLM-00021,183430,2015-01-01,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Columbus,5380 Pine St,20,3,NO,1,0,,47160,0,5240,41920,Suburu,Impreza,2011,N
+CLM-00022,431876,2015-02-10,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,Arlington,8957 Weaver Drive,15,3,,1,2,,37840,0,4730,33110,Accura,RSX,1996,N
+CLM-00023,285496,2015-01-11,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Hillsdale,2526 Embaracadero Ave,20,3,NO,0,0,YES,71520,17880,5960,47680,Suburu,Forrestor,2000,Y
+CLM-00024,115399,2015-01-19,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Northbend,5667 4th Drive,15,1,,2,2,,98160,8180,16360,73620,Dodge,RAM,2011,Y
+CLM-00025,736882,2015-02-24,Single Vehicle Collision,Rear Collision,Minor Damage,Other,VA,Riverwood,2502 Apache Hwy,6,1,NO,1,3,NO,77880,7080,14160,56640,Ford,Escape,2005,N
+CLM-00026,699044,2015-01-09,Multi-vehicle Collision,Rear Collision,Major Damage,Other,OH,Arlington,3418 Texas Lane,16,3,NO,1,3,YES,71500,16500,11000,44000,Ford,Escape,2006,Y
+CLM-00027,863236,2015-01-28,Parked Car,,Minor Damage,Police,PA,Arlington,2533 Elm St,4,1,YES,1,3,YES,9020,1640,820,6560,Toyota,Camry,2005,N
+CLM-00028,608513,2015-01-07,Vehicle Theft,,Minor Damage,,VA,Northbrook,3790 Andromedia Hwy,5,1,YES,2,1,,5720,1040,520,4160,Suburu,Forrestor,2003,Y
+CLM-00029,914088,2015-01-08,Single Vehicle Collision,Side Collision,Minor Damage,Other,SC,Northbend,3220 Rock Drive,21,1,NO,1,0,YES,69840,7760,15520,46560,Dodge,Neon,2009,N
+CLM-00030,596785,2015-02-15,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Northbrook,2100 Francis Drive,5,1,NO,2,2,NO,91650,14100,14100,63450,Accura,TL,2011,N
+CLM-00031,908616,2015-01-18,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,SC,Columbus,4687 5th Drive,22,4,NO,0,0,,75600,12600,12600,50400,Toyota,Corolla,2005,N
+CLM-00032,666333,2015-02-28,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,Riverwood,9038 2nd Lane,10,3,NO,2,2,,67140,7460,7460,52220,Ford,F150,2006,Y
+CLM-00033,336614,2015-02-24,Multi-vehicle Collision,Front Collision,Total Loss,Police,NY,Arlington,6092 5th Ave,16,3,YES,2,3,NO,29790,3310,3310,23170,BMW,3 Series,2008,N
+CLM-00034,584859,2015-01-09,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Hillsdale,8353 Britain Ridge,1,3,NO,1,2,,77110,14020,14020,49070,Suburu,Impreza,2015,N
+CLM-00035,990493,2015-02-12,Single Vehicle Collision,Side Collision,Total Loss,Fire,WV,Hillsdale,3540 Maple St,17,1,YES,0,1,YES,64800,10800,5400,48600,Audi,A3,1999,N
+CLM-00036,129872,2015-01-24,Single Vehicle Collision,Front Collision,Major Damage,Other,WV,Springfield,3104 Sky Drive,15,1,YES,2,0,YES,53100,10620,5310,37170,Mercedes,C300,1995,Y
+CLM-00037,200152,2015-01-09,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,Northbrook,4981 Weaver St,3,1,,1,1,YES,60200,6020,6020,48160,Suburu,Forrestor,2004,Y
+CLM-00038,933293,2015-01-18,Parked Car,,Minor Damage,,WV,Arlington,6676 Tree Lane,16,1,NO,1,1,YES,5330,1230,820,3280,Suburu,Legacy,2001,N
+CLM-00039,485664,2015-01-21,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NY,Hillsdale,3930 Embaracadero St,4,3,,2,0,,62300,12460,6230,43610,Jeep,Wrangler,2007,N
+CLM-00040,982871,2015-01-08,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NC,Columbus,3422 Flute St,4,1,,0,3,NO,60170,10940,10940,38290,Nissan,Pathfinder,2011,Y
+CLM-00041,206213,2015-01-03,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Columbus,4862 Lincoln Hwy,19,1,NO,2,2,,40000,8000,4000,28000,BMW,M5,2010,N
+CLM-00042,616337,2015-01-01,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,Northbrook,5719 2nd Lane,1,1,,1,1,,97080,16180,16180,64720,BMW,X5,2001,Y
+CLM-00043,448961,2015-01-16,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,Springfield,3221 Solo Ridge,17,3,YES,1,0,NO,51660,5740,5740,40180,Dodge,RAM,2010,N
+CLM-00044,790442,2015-02-10,Single Vehicle Collision,Rear Collision,Total Loss,Other,NC,Arlington,6660 MLK Drive,23,1,NO,2,2,NO,51120,5680,5680,39760,Mercedes,E400,2005,N
+CLM-00045,108844,2015-02-14,Single Vehicle Collision,Front Collision,Minor Damage,Other,SC,Springfield,1699 Oak Drive,14,1,YES,0,2,,56400,11280,11280,33840,Toyota,Highlander,2014,N
+CLM-00046,430029,2015-02-21,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,Arlington,4234 Cherokee Lane,17,3,NO,2,3,,55120,6890,0,48230,Accura,MDX,2002,N
+CLM-00047,529112,2015-02-18,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,NC,Northbend,7476 4th St,11,3,YES,1,1,,77110,0,14020,63090,Honda,Civic,2014,N
+CLM-00048,939631,2015-01-10,Multi-vehicle Collision,Front Collision,Major Damage,Fire,WV,Arlington,8907 Tree Ave,19,3,NO,2,1,NO,62800,6280,6280,50240,Audi,A3,2003,Y
+CLM-00049,866931,2015-02-26,Vehicle Theft,,Trivial Damage,Police,NY,Arlington,6619 Flute Ave,5,1,,2,0,YES,7290,810,810,5670,Volkswagen,Passat,1995,N
+CLM-00050,582011,2015-01-01,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,Springfield,6011 Britain St,19,1,NO,0,0,,76600,15320,7660,53620,Mercedes,C300,2000,N
+CLM-00051,691189,2015-01-03,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,Riverwood,5104 Francis Drive,19,3,,0,3,YES,81800,16360,8180,57260,Nissan,Pathfinder,1998,N
+CLM-00052,537546,2015-01-17,Vehicle Theft,,Trivial Damage,,NY,Arlington,2280 4th Ave,4,1,,1,2,,7260,1320,660,5280,BMW,M5,2008,N
+CLM-00053,394975,2015-02-22,Vehicle Theft,,Minor Damage,,WV,Northbend,2644 Elm Drive,8,1,,2,1,YES,4300,430,430,3440,Toyota,Corolla,2000,N
+CLM-00054,729634,2015-01-27,Multi-vehicle Collision,Side Collision,Major Damage,Police,NC,Columbus,7466 MLK Ridge,7,3,YES,1,0,,70510,12820,12820,44870,Suburu,Forrestor,1999,N
+CLM-00055,282195,2015-02-27,Parked Car,,Minor Damage,Police,VA,Northbend,5821 2nd St,5,1,NO,0,1,YES,2640,480,480,1680,Ford,F150,2009,N
+CLM-00056,420810,2015-01-06,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Arlington,6723 Best Drive,3,1,YES,1,2,NO,78900,15780,7890,55230,Chevrolet,Silverado,1995,N
+CLM-00057,524836,2015-02-28,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,Columbus,4866 4th Hwy,12,3,,2,3,,56430,0,6270,50160,Honda,CRV,2014,N
+CLM-00058,307195,2015-02-22,Parked Car,,Minor Damage,,VA,Riverwood,5418 Britain Ave,19,1,NO,1,3,NO,2400,300,300,1800,Chevrolet,Silverado,2014,N
+CLM-00059,623648,2015-01-07,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Riverwood,4296 Pine Hwy,22,1,YES,0,1,NO,65790,7310,7310,51170,Saab,93,2007,N
+CLM-00060,485372,2015-01-06,Multi-vehicle Collision,Side Collision,Minor Damage,Police,VA,Hillsdale,2299 1st St,12,3,NO,1,1,NO,62920,11440,5720,45760,Ford,Escape,2000,N
+CLM-00061,598554,2015-01-10,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NY,Springfield,6618 Cherokee Drive,15,3,YES,2,1,,69480,15440,0,54040,Nissan,Maxima,2014,Y
+CLM-00062,303987,2015-02-11,Multi-vehicle Collision,Side Collision,Total Loss,Other,OH,Springfield,7459 Flute St,23,3,NO,0,3,NO,44280,7380,3690,33210,Honda,Accord,1997,N
+CLM-00063,343161,2015-01-12,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,Hillsdale,3567 4th Drive,12,1,NO,0,3,YES,56300,5630,11260,39410,BMW,M5,2011,N
+CLM-00064,519312,2015-02-06,Multi-vehicle Collision,Front Collision,Major Damage,Fire,WV,Northbend,2457 Washington Ave,20,3,YES,2,2,YES,68520,11420,5710,51390,Suburu,Legacy,2003,Y
+CLM-00065,132902,2015-01-20,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,VA,Riverwood,1269 Flute Drive,16,3,NO,0,0,NO,59130,6570,6570,45990,Ford,Escape,2006,Y
+CLM-00066,332867,2015-02-22,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Arlington,1218 Sky Hwy,6,3,YES,2,2,NO,82320,13720,6860,61740,Dodge,Neon,1995,Y
+CLM-00067,356590,2015-01-30,Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,Springfield,9169 Pine Ridge,12,1,YES,0,1,NO,89700,13800,13800,62100,Audi,A5,2009,Y
+CLM-00068,346002,2015-02-02,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,WV,Hillsdale,8538 Texas Lane,17,3,NO,1,1,NO,33930,0,3770,30160,BMW,X6,1998,N
+CLM-00069,500533,2015-01-10,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,WV,Northbrook,5783 Oak Ave,8,1,NO,0,3,NO,68530,12460,6230,49840,Audi,A5,1997,N
+CLM-00070,348209,2015-02-27,Parked Car,,Minor Damage,,NC,Riverwood,7721 Washington Ridge,13,1,NO,0,1,,4300,860,860,2580,Ford,F150,2004,N
+CLM-00071,486676,2015-02-20,Multi-vehicle Collision,Side Collision,Major Damage,Other,SC,Hillsdale,8006 Maple Hwy,12,2,,2,3,,68310,12420,6210,49680,Audi,A3,2003,Y
+CLM-00072,260845,2015-02-08,Single Vehicle Collision,Front Collision,Total Loss,Other,WV,Northbrook,6751 Pine Ridge,7,1,NO,0,2,NO,61290,6810,6810,47670,Honda,Civic,1995,Y
+CLM-00073,657045,2015-02-11,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,Arlington,2324 Texas Ridge,10,1,NO,1,2,NO,30100,3010,0,27090,Chevrolet,Malibu,1999,N
+CLM-00074,761189,2015-02-23,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Riverwood,7923 Elm Ave,7,3,NO,2,0,YES,57120,9520,4760,42840,Mercedes,C300,2002,N
+CLM-00075,175177,2015-03-01,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,VA,Springfield,4755 Best Lane,18,3,YES,1,0,YES,42930,9540,4770,28620,BMW,X6,2005,N
+CLM-00076,116700,2015-01-15,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,SC,Riverwood,5053 Tree Drive,22,3,NO,2,0,NO,51210,11380,5690,34140,Ford,Fusion,2010,N
+CLM-00077,166264,2015-01-14,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,Springfield,2078 3rd Ave,18,3,NO,1,1,YES,89400,14900,7450,67050,Suburu,Legacy,1998,N
+CLM-00078,527945,2015-02-17,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,Northbrook,2804 Best St,22,3,NO,0,2,,59730,10860,10860,38010,Audi,A3,2005,N
+CLM-00079,627540,2015-01-24,Vehicle Theft,,Minor Damage,,SC,Springfield,7877 Sky Lane,15,1,YES,2,2,YES,8060,1240,1240,5580,Saab,95,2004,N
+CLM-00080,279422,2015-01-21,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,Northbrook,6530 Weaver Ave,16,1,,1,2,,72200,14440,7220,50540,BMW,M5,2013,Y
+CLM-00081,484200,2015-02-19,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,Arlington,3087 Oak Hwy,6,3,NO,1,2,NO,50800,10160,10160,30480,Accura,MDX,2005,N
+CLM-00082,645258,2015-01-03,Vehicle Theft,,Trivial Damage,,NC,Northbrook,7098 Lincoln Hwy,10,1,,2,1,,6600,660,1320,4620,Accura,TL,2005,N
+CLM-00083,694662,2015-01-29,Vehicle Theft,,Minor Damage,Police,NY,Northbrook,5124 Maple St,3,1,YES,2,2,NO,7500,750,1500,5250,Nissan,Maxima,2002,N
+CLM-00084,960680,2015-01-19,Vehicle Theft,,Trivial Damage,,VA,Hillsdale,2333 Maple Lane,13,1,NO,0,3,YES,6490,1180,1180,4130,Volkswagen,Jetta,2002,N
+CLM-00085,498140,2015-01-19,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,Hillsdale,1012 5th Lane,16,2,,2,3,NO,60940,5540,11080,44320,Audi,A3,2013,Y
+CLM-00086,498875,2015-02-02,Multi-vehicle Collision,Front Collision,Major Damage,Fire,NY,Northbrook,7477 MLK Drive,13,3,YES,0,1,,58300,5830,11660,40810,Suburu,Legacy,2007,N
+CLM-00087,798177,2015-01-30,Multi-vehicle Collision,Front Collision,Minor Damage,Other,SC,Columbus,9489 3rd St,9,3,NO,2,1,,68400,11400,11400,45600,Ford,F150,2007,N
+CLM-00088,614763,2015-01-08,Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,Springfield,2087 Apache Ave,2,1,,2,1,YES,64240,11680,11680,40880,BMW,3 Series,2015,N
+CLM-00089,679370,2015-01-30,Parked Car,,Trivial Damage,,WV,Arlington,5540 Sky St,9,1,NO,0,1,YES,4700,940,470,3290,Dodge,Neon,2002,N
+CLM-00090,958857,2015-01-07,Multi-vehicle Collision,Side Collision,Major Damage,Other,SC,Columbus,7238 2nd St,12,3,YES,2,0,,45120,0,5640,39480,Accura,MDX,2011,Y
+CLM-00091,686816,2015-02-24,Multi-vehicle Collision,Front Collision,Total Loss,Fire,SC,Arlington,8442 Britain Hwy,12,2,YES,1,1,,66950,10300,10300,46350,Saab,93,1995,N
+CLM-00092,127754,2015-02-02,Single Vehicle Collision,Side Collision,Major Damage,Police,NY,Columbus,1331 Britain Hwy,14,1,NO,0,3,,98340,8940,17880,71520,Honda,Accord,2004,Y
+CLM-00093,918629,2015-02-28,Parked Car,,Trivial Damage,,WV,Springfield,5260 Francis Drive,9,1,NO,0,1,NO,5900,590,590,4720,BMW,X5,2007,N
+CLM-00094,731450,2015-02-09,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NC,Riverwood,1135 Solo Lane,3,3,NO,1,1,,70680,5890,11780,53010,Ford,Fusion,2009,N
+CLM-00095,307447,2015-01-19,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Northbend,9737 Solo Hwy,21,3,NO,1,0,NO,93720,17040,8520,68160,Mercedes,ML350,2005,N
+CLM-00096,992145,2015-02-21,Vehicle Theft,,Minor Damage,,OH,Northbrook,3289 Britain Drive,5,1,NO,2,0,YES,6930,1260,630,5040,Toyota,Highlander,2001,N
+CLM-00097,900628,2015-01-14,Single Vehicle Collision,Side Collision,Major Damage,Fire,VA,Springfield,6550 Andromedia St,11,1,YES,0,3,NO,72930,6630,6630,59670,Dodge,RAM,2006,Y
+CLM-00098,235220,2015-01-22,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,SC,Hillsdale,1679 2nd Hwy,4,4,YES,1,2,YES,64890,7210,7210,50470,Nissan,Pathfinder,2013,Y
+CLM-00099,740019,2015-02-22,Parked Car,,Trivial Damage,,WV,Columbus,3998 Flute St,6,1,,1,2,YES,5400,900,900,3600,Saab,95,1999,N
+CLM-00100,246882,2015-01-26,Vehicle Theft,,Trivial Damage,,NC,Northbrook,2430 MLK Ave,10,1,NO,0,0,,5600,700,700,4200,Audi,A3,2007,N
+CLM-00101,797613,2015-01-24,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Northbend,7717 Britain Hwy,23,1,YES,0,0,,79300,15860,15860,47580,Saab,92x,2007,N
+CLM-00102,193442,2015-02-19,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,Northbend,7773 Tree Hwy,13,1,YES,1,0,YES,52800,10560,5280,36960,Saab,95,2004,N
+CLM-00103,389238,2015-01-29,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NC,Northbrook,2199 Texas Drive,16,3,,2,3,NO,28800,0,3600,25200,Ford,Fusion,2013,N
+CLM-00104,760179,2015-02-15,Parked Car,,Minor Damage,Police,WV,Northbend,1028 Sky Lane,3,1,NO,1,1,NO,2970,330,330,2310,Toyota,Highlander,2008,N
+CLM-00105,939905,2015-02-12,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,Northbend,4154 Lincoln Hwy,15,3,NO,0,0,,93480,15580,7790,70110,Chevrolet,Malibu,2014,N
+CLM-00106,872814,2015-01-01,Vehicle Theft,,Minor Damage,,WV,Columbus,8085 Andromedia St,4,1,YES,1,3,YES,4320,480,480,3360,Mercedes,E400,2002,N
+CLM-00107,632627,2015-01-13,Multi-vehicle Collision,Rear Collision,Major Damage,Police,VA,Northbend,4793 4th Ridge,6,3,,0,2,YES,79800,6650,19950,53200,Saab,95,2000,Y
+CLM-00108,283414,2015-03-01,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,WV,Columbus,7428 Sky Hwy,22,2,NO,1,0,,74200,7420,14840,51940,Volkswagen,Passat,1997,N
+CLM-00109,163161,2015-02-02,Single Vehicle Collision,Front Collision,Major Damage,Fire,NY,Northbrook,2306 5th Lane,1,1,,0,0,,70590,10860,10860,48870,Saab,93,2000,Y
+CLM-00110,853360,2015-01-27,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NY,Springfield,3052 Weaver Ridge,16,3,NO,0,3,YES,60940,5540,11080,44320,Nissan,Ultima,2006,Y
+CLM-00111,776860,2015-01-12,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Riverwood,5211 Weaver Drive,18,1,,1,2,YES,74700,7470,14940,52290,Dodge,RAM,2010,N
+CLM-00112,149367,2015-01-06,Single Vehicle Collision,Front Collision,Major Damage,Fire,NC,Springfield,7253 MLK St,0,1,YES,0,0,,70000,14000,7000,49000,Ford,F150,2015,Y
+CLM-00113,395269,2015-01-30,Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,Columbus,1454 5th Ridge,12,3,,2,0,NO,81070,14740,14740,51590,BMW,X5,2001,N
+CLM-00114,981123,2015-03-01,Multi-vehicle Collision,Side Collision,Major Damage,Other,VA,Hillsdale,5622 Best Ridge,13,2,,1,1,,57720,14430,9620,33670,Saab,93,2007,N
+CLM-00115,143626,2015-02-24,Vehicle Theft,,Minor Damage,,VA,Northbrook,4574 Britain Hwy,9,1,YES,1,1,YES,7080,1180,1180,4720,Ford,F150,2001,N
+CLM-00116,648397,2015-01-24,Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,Riverwood,4539 Texas St,14,3,NO,0,1,,47700,4770,9540,33390,Accura,MDX,1997,Y
+CLM-00117,154982,2015-02-26,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Hillsdale,8118 Elm Ridge,16,1,NO,0,3,NO,51260,9320,9320,32620,Suburu,Legacy,2002,N
+CLM-00118,330591,2015-01-19,Multi-vehicle Collision,Side Collision,Major Damage,Police,NY,Northbend,3814 Britain Drive,20,3,,2,2,NO,70400,6400,12800,51200,Toyota,Highlander,2011,Y
+CLM-00119,319232,2015-01-17,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Hillsdale,4614 MLK Ave,4,1,NO,1,3,YES,90000,18000,9000,63000,Ford,Fusion,2015,N
+CLM-00120,531640,2015-02-20,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Arlington,1628 Best Drive,7,3,,0,1,,72820,13240,6620,52960,BMW,3 Series,2010,N
+CLM-00121,368050,2015-02-22,Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,Hillsdale,8381 Solo Hwy,22,1,NO,2,0,,69300,13860,13860,41580,Volkswagen,Passat,2000,N
+CLM-00122,253791,2015-01-23,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Northbrook,2100 MLK St,11,1,NO,2,1,NO,76560,12760,12760,51040,Ford,Fusion,2008,Y
+CLM-00123,155724,2015-01-31,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,VA,Columbus,5071 Flute Ridge,7,1,,0,1,YES,55440,0,6160,49280,Nissan,Maxima,1999,Y
+CLM-00124,824540,2015-01-05,Multi-vehicle Collision,Front Collision,Total Loss,Other,NC,Arlington,7551 Britain Lane,0,4,YES,1,0,NO,77130,8570,17140,51420,Accura,MDX,1995,N
+CLM-00125,717392,2015-02-03,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Northbend,2275 Best Lane,1,1,YES,1,1,,42000,7000,7000,28000,BMW,X5,2011,N
+CLM-00126,965768,2015-02-17,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,Hillsdale,1598 3rd Drive,12,3,NO,2,3,YES,36300,3300,9900,23100,Ford,Escape,2013,N
+CLM-00127,414779,2015-01-09,Single Vehicle Collision,Side Collision,Total Loss,Other,WV,Columbus,7740 MLK St,8,1,NO,0,0,,40320,5760,5760,28800,Suburu,Impreza,2001,N
+CLM-00128,428230,2015-02-08,Parked Car,,Minor Damage,Police,PA,Northbrook,1240 Tree Lane,9,1,,2,0,,3960,330,660,2970,BMW,M5,1998,N
+CLM-00129,517240,2015-02-06,Single Vehicle Collision,Front Collision,Major Damage,Fire,NY,Northbend,8983 Francis Ridge,22,1,YES,0,3,YES,63840,10640,10640,42560,BMW,X5,2006,Y
+CLM-00130,469874,2015-01-14,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,Northbend,7756 Solo Drive,0,3,,1,2,,44730,4970,4970,34790,Saab,92x,2000,Y
+CLM-00131,718428,2015-01-22,Multi-vehicle Collision,Front Collision,Minor Damage,Other,NY,Arlington,9034 Weaver Ridge,0,3,YES,1,2,NO,84720,14120,14120,56480,Ford,Escape,1999,N
+CLM-00132,620215,2015-02-23,Multi-vehicle Collision,Front Collision,Major Damage,Other,WV,Columbus,1126 Texas Hwy,3,3,,2,2,NO,61500,6150,12300,43050,Dodge,RAM,2012,N
+CLM-00133,618659,2015-02-22,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NC,Arlington,2808 Elm St,21,3,,0,1,,51000,8500,8500,34000,Nissan,Pathfinder,2013,N
+CLM-00134,649082,2015-01-24,Single Vehicle Collision,Side Collision,Total Loss,Police,WV,Northbend,5061 Francis Ave,0,1,,2,1,NO,46800,4680,9360,32760,Jeep,Wrangler,2002,N
+CLM-00135,437573,2015-02-09,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,Northbend,4965 MLK Drive,16,1,,1,1,,78120,17360,8680,52080,BMW,3 Series,2006,N
+CLM-00136,964657,2015-01-19,Single Vehicle Collision,Rear Collision,Major Damage,Police,NY,Springfield,8668 Flute St,14,1,NO,1,2,,69200,13840,6920,48440,Volkswagen,Passat,1996,Y
+CLM-00137,932502,2015-01-01,Vehicle Theft,,Minor Damage,Police,VA,Riverwood,2577 Washington Drive,9,1,,0,0,NO,3690,410,410,2870,Ford,Escape,2015,N
+CLM-00138,434507,2015-01-07,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Springfield,7709 Rock Lane,9,3,NO,0,3,,65500,6550,6550,52400,BMW,X5,2010,N
+CLM-00139,935277,2015-02-01,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NC,Springfield,9358 Texas Ridge,21,3,,1,2,YES,76120,13840,6920,55360,Toyota,Camry,1999,N
+CLM-00140,756054,2015-02-21,Multi-vehicle Collision,Front Collision,Total Loss,Other,VA,Springfield,8080 Oak Lane,19,3,NO,0,2,YES,73560,12260,12260,49040,BMW,X5,1995,N
+CLM-00141,682387,2015-01-21,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,Northbend,6408 Weaver Ridge,2,1,YES,0,1,,52030,9460,4730,37840,Mercedes,E400,2008,N
+CLM-00142,456604,2015-01-19,Vehicle Theft,,Trivial Damage,,SC,Northbrook,5532 Weaver Ridge,9,1,,2,3,,5170,470,940,3760,Suburu,Forrestor,2001,N
+CLM-00143,139872,2015-02-27,Parked Car,,Minor Damage,,SC,Northbend,9101 2nd Hwy,5,1,,2,1,YES,8190,1890,1260,5040,Chevrolet,Silverado,2013,N
+CLM-00144,354105,2015-02-14,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Springfield,8576 Andromedia St,14,1,,2,3,,70800,7080,14160,49560,Accura,MDX,2012,Y
+CLM-00145,165485,2015-02-01,Multi-vehicle Collision,Rear Collision,Total Loss,Police,WV,Springfield,6315 2nd Lane,20,3,,0,3,YES,45630,5070,5070,35490,Accura,MDX,2011,N
+CLM-00146,515050,2015-02-02,Single Vehicle Collision,Front Collision,Major Damage,Police,NC,Northbrook,1536 Flute Drive,18,1,YES,2,1,,99320,7640,15280,76400,Accura,TL,2002,Y
+CLM-00147,795686,2015-02-01,Multi-vehicle Collision,Side Collision,Major Damage,Fire,NC,Northbend,4672 MLK St,13,3,,2,0,NO,64000,12800,6400,44800,BMW,X6,1996,Y
+CLM-00148,395983,2015-01-19,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,Northbrook,2204 Washington Lane,21,1,,1,1,,47300,4730,4730,37840,Nissan,Pathfinder,2014,N
+CLM-00149,119513,2015-02-18,Single Vehicle Collision,Rear Collision,Major Damage,Other,SC,Springfield,9484 Pine Drive,14,1,NO,2,3,,71680,8960,8960,53760,Volkswagen,Jetta,2007,Y
+CLM-00150,217938,2015-02-08,Single Vehicle Collision,Side Collision,Major Damage,Other,SC,Springfield,5431 3rd Ridge,1,1,,1,0,YES,112320,17280,17280,77760,Suburu,Impreza,2011,Y
+CLM-00151,203914,2015-01-09,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,Columbus,7121 Britain Drive,17,1,,1,0,,82720,7520,15040,60160,Audi,A3,2014,N
+CLM-00152,565157,2015-02-27,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NC,Hillsdale,8586 1st Ridge,4,3,,2,1,,48060,10680,5340,32040,Mercedes,C300,2009,N
+CLM-00153,904191,2015-01-08,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NY,Riverwood,7582 Pine Drive,23,3,YES,1,3,YES,63570,9780,9780,44010,Volkswagen,Jetta,2006,Y
+CLM-00154,419510,2015-01-08,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,WV,Columbus,1388 Embaracadero Hwy,13,3,NO,2,3,,63240,10540,10540,42160,Suburu,Forrestor,1997,N
+CLM-00155,575000,2015-02-24,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,Northbrook,5621 4th Ave,20,3,NO,1,3,,54240,9040,9040,36160,Saab,93,2013,Y
+CLM-00156,120485,2015-02-12,Single Vehicle Collision,Front Collision,Major Damage,Police,NY,Riverwood,8150 Washington Ridge,16,1,YES,2,3,NO,37280,0,0,37280,Audi,A5,1996,Y
+CLM-00157,781181,2015-02-18,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Columbus,4268 2nd Ave,10,3,,2,1,YES,72100,7210,14420,50470,Jeep,Wrangler,2006,N
+CLM-00158,299796,2015-02-06,Parked Car,,Minor Damage,,WV,Northbend,6375 2nd Lane,8,1,,2,3,NO,6500,1300,650,4550,Saab,92x,2013,N
+CLM-00159,589749,2015-02-14,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Springfield,3770 Flute Drive,17,3,,2,0,,78240,13040,13040,52160,Suburu,Legacy,2013,N
+CLM-00160,854021,2015-02-05,Vehicle Theft,,Minor Damage,Police,NY,Columbus,1562 Britain St,9,1,,2,0,,6200,1240,620,4340,Honda,Accord,1999,N
+CLM-00161,454086,2015-01-25,Parked Car,,Minor Damage,Police,VA,Springfield,1681 Cherokee Hwy,0,1,YES,2,3,,6160,560,1680,3920,Mercedes,E400,2014,N
+CLM-00162,139484,2015-01-16,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,Northbrook,7523 Oak Lane,12,1,,2,0,,76050,11700,11700,52650,Chevrolet,Silverado,1997,N
+CLM-00163,678849,2015-01-28,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NY,Hillsdale,1815 Cherokee Drive,20,2,NO,2,1,YES,86060,13240,13240,59580,Volkswagen,Passat,2002,N
+CLM-00164,346940,2015-01-21,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,Arlington,9316 Pine Ave,3,1,YES,2,0,NO,107900,10790,21580,75530,Dodge,Neon,1997,Y
+CLM-00165,985436,2015-01-07,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,PA,Columbus,2733 Texas Drive,18,3,NO,2,0,YES,99990,18180,18180,63630,Mercedes,E400,2011,N
+CLM-00166,237418,2015-02-23,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,Columbus,7684 Francis Ridge,4,3,NO,2,2,YES,61380,11160,5580,44640,Suburu,Legacy,2012,N
+CLM-00167,335780,2015-02-14,Single Vehicle Collision,Rear Collision,Major Damage,Fire,WV,Riverwood,8991 Embaracadero Ave,18,1,,2,1,YES,71280,12960,12960,45360,Audi,A5,2012,Y
+CLM-00168,491392,2015-02-27,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Northbend,4905 Francis Ave,18,3,NO,0,0,NO,64000,12800,6400,44800,Saab,95,1999,N
+CLM-00169,140880,2015-02-21,Parked Car,,Trivial Damage,Police,SC,Hillsdale,7783 Lincoln Hwy,7,1,,0,1,NO,5940,660,660,4620,Toyota,Highlander,2015,N
+CLM-00170,962591,2015-01-05,Parked Car,,Minor Damage,,NY,Hillsdale,8749 Tree St,18,1,NO,1,0,NO,6700,670,670,5360,Jeep,Wrangler,2011,N
+CLM-00171,922565,2015-01-30,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Arlington,4985 Sky Lane,23,3,YES,0,0,,51740,11940,7960,31840,Jeep,Wrangler,2006,N
+CLM-00172,288580,2015-02-26,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,PA,Riverwood,7534 MLK Hwy,1,1,,0,1,YES,53600,6700,6700,40200,Volkswagen,Jetta,2007,Y
+CLM-00173,154280,2015-01-10,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,Arlington,8689 Maple Hwy,15,3,YES,1,0,,44910,4990,4990,34930,Dodge,Neon,2001,N
+CLM-00174,425973,2015-02-23,Multi-vehicle Collision,Front Collision,Major Damage,Fire,PA,Hillsdale,9153 3rd Hwy,2,3,,0,2,YES,48100,11100,7400,29600,Volkswagen,Jetta,2014,N
+CLM-00175,477177,2015-02-05,Vehicle Theft,,Trivial Damage,,WV,Riverwood,5904 1st Drive,3,1,NO,0,1,NO,6100,610,1220,4270,Ford,Fusion,2002,N
+CLM-00176,648509,2015-01-21,Single Vehicle Collision,Rear Collision,Minor Damage,Other,PA,Hillsdale,4519 Embaracadero St,13,1,,1,0,YES,79600,15920,15920,47760,Jeep,Wrangler,2011,N
+CLM-00177,914815,2015-01-07,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,OH,Hillsdale,9706 MLK Lane,1,1,NO,1,1,YES,77040,8560,8560,59920,Honda,Civic,1998,N
+CLM-00178,249048,2015-01-11,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Columbus,6012 Texas Hwy,16,1,YES,0,1,,62590,11380,11380,39830,Volkswagen,Jetta,2003,N
+CLM-00179,144323,2015-02-06,Single Vehicle Collision,Front Collision,Total Loss,Other,WV,Northbend,4098 Weaver Ridge,0,1,YES,0,1,NO,85150,13100,13100,58950,Chevrolet,Malibu,1998,N
+CLM-00180,651861,2015-01-24,Vehicle Theft,,Trivial Damage,,NY,Hillsdale,6193 1st Hwy,1,1,,2,1,NO,4950,450,900,3600,Chevrolet,Silverado,2010,N
+CLM-00181,125324,2015-02-18,Multi-vehicle Collision,Side Collision,Major Damage,Fire,VA,Riverwood,4053 Sky Lane,17,3,,2,0,YES,51100,10220,5110,35770,Audi,A3,2006,N
+CLM-00182,398102,2015-01-12,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,Springfield,8964 Francis St,13,1,YES,2,3,,100800,16800,16800,67200,Dodge,Neon,1997,N
+CLM-00183,514065,2015-01-17,Single Vehicle Collision,Side Collision,Total Loss,Police,VA,Springfield,9748 Sky Drive,12,1,YES,2,3,NO,90970,16540,16540,57890,Accura,RSX,2009,N
+CLM-00184,391652,2015-01-12,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Northbend,2293 Washington Ave,11,1,,1,1,YES,81840,14880,7440,59520,Chevrolet,Malibu,2011,Y
+CLM-00185,922167,2015-01-06,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Northbend,3656 Solo Ave,18,1,,0,2,NO,54900,5490,5490,43920,Mercedes,C300,2013,N
+CLM-00186,442795,2015-02-25,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Northbend,8579 Apache Drive,17,1,YES,2,3,NO,88660,8060,16120,64480,Mercedes,C300,2007,Y
+CLM-00187,226330,2015-02-16,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NC,Riverwood,2003 Maple Hwy,22,3,,1,1,NO,18000,2250,2250,13500,Audi,A3,2009,N
+CLM-00188,134430,2015-02-25,Vehicle Theft,,Minor Damage,Police,NY,Northbrook,5445 Tree Hwy,9,1,YES,1,3,YES,5500,1100,550,3850,Chevrolet,Tahoe,2010,N
+CLM-00189,524230,2015-02-21,Multi-vehicle Collision,Rear Collision,Major Damage,Other,WV,Hillsdale,9730 2nd Hwy,11,3,,1,0,,73920,13440,6720,53760,Honda,Civic,2003,Y
+CLM-00190,438817,2015-02-16,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,VA,Columbus,7819 Oak St,11,1,NO,0,2,YES,101860,18520,18520,64820,Honda,CRV,2007,N
+CLM-00191,293794,2015-02-09,Parked Car,,Minor Damage,,SC,Riverwood,1845 Best St,8,1,YES,0,1,YES,5390,980,980,3430,Volkswagen,Passat,2008,N
+CLM-00192,868283,2015-02-13,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,Springfield,2500 Tree St,18,1,,1,2,,50490,5610,5610,39270,Nissan,Maxima,2001,N
+CLM-00193,828890,2015-01-11,Single Vehicle Collision,Front Collision,Total Loss,Police,SC,Arlington,6955 Pine Drive,13,1,NO,0,3,NO,55500,5550,11100,38850,Mercedes,C300,2012,N
+CLM-00194,882920,2015-01-02,Vehicle Theft,,Minor Damage,Police,VA,Hillsdale,6165 Rock Ridge,8,1,YES,1,1,YES,7040,1280,640,5120,Nissan,Maxima,2015,N
+CLM-00195,918777,2015-02-12,Multi-vehicle Collision,Rear Collision,Total Loss,Other,VA,Northbrook,3653 Elm Drive,9,3,,0,1,YES,40160,5020,0,35140,Chevrolet,Tahoe,2003,N
+CLM-00196,212580,2015-02-05,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NC,Columbus,5812 3rd Hwy,17,2,YES,2,3,NO,55680,6960,6960,41760,Saab,95,2006,N
+CLM-00197,602410,2015-01-24,Vehicle Theft,,Trivial Damage,Police,WV,Springfield,4939 Best St,3,1,,1,1,NO,5300,530,530,4240,Jeep,Grand Cherokee,2001,Y
+CLM-00198,976971,2015-01-12,Parked Car,,Trivial Damage,,WV,Arlington,4964 Elm Lane,6,1,YES,0,3,,5200,650,650,3900,Accura,MDX,2006,N
+CLM-00199,630226,2015-01-16,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Riverwood,9588 Solo St,17,1,YES,2,1,NO,59400,5940,11880,41580,Honda,Civic,2014,N
+CLM-00200,171254,2015-01-13,Vehicle Theft,,Minor Damage,Police,SC,Arlington,8718 Apache Lane,7,1,,1,1,,2520,280,280,1960,BMW,3 Series,1997,N
+CLM-00201,247116,2015-02-02,Vehicle Theft,,Trivial Damage,Police,NY,Hillsdale,3590 Best Hwy,9,1,NO,2,1,YES,5760,960,960,3840,Suburu,Impreza,2011,N
+CLM-00202,505969,2015-02-28,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,WV,Hillsdale,6149 Best Ridge,3,1,,2,0,YES,76700,7670,7670,61360,Suburu,Legacy,2006,N
+CLM-00203,653864,2015-01-18,Parked Car,,Trivial Damage,Police,NY,Springfield,4116 Embaracadero Lane,6,1,NO,0,2,NO,5920,740,740,4440,Chevrolet,Malibu,2015,N
+CLM-00204,586367,2015-02-15,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Riverwood,3486 Flute Ave,7,3,YES,0,3,,64350,7150,7150,50050,Chevrolet,Tahoe,2009,N
+CLM-00205,896890,2015-01-31,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Northbend,5994 5th Ave,21,3,NO,1,2,,19080,4240,2120,12720,Saab,93,1995,N
+CLM-00206,650026,2015-02-10,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Springfield,9138 3rd St,14,1,NO,2,1,NO,54400,5440,5440,43520,BMW,M5,2011,N
+CLM-00207,547744,2015-02-26,Single Vehicle Collision,Rear Collision,Total Loss,Fire,SC,Columbus,3743 Andromedia Ridge,0,1,,1,0,NO,59800,5980,5980,47840,Ford,F150,1999,Y
+CLM-00208,598124,2015-02-25,Multi-vehicle Collision,Side Collision,Major Damage,Police,VA,Springfield,7644 Tree Ridge,14,3,,0,3,YES,72000,7200,7200,57600,Audi,A3,2005,N
+CLM-00209,436126,2015-01-08,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,Riverwood,3167 2nd St,13,4,NO,2,3,NO,65070,7230,14460,43380,Mercedes,C300,2003,N
+CLM-00210,739447,2015-01-14,Parked Car,,Trivial Damage,Police,WV,Columbus,3327 Lincoln Drive,8,1,NO,0,1,NO,8800,1760,880,6160,Suburu,Legacy,2002,N
+CLM-00211,427484,2015-02-03,Vehicle Theft,,Minor Damage,Police,NC,Hillsdale,8621 Best Ridge,7,1,NO,2,0,NO,6120,1020,1020,4080,Toyota,Corolla,2015,N
+CLM-00212,218684,2015-01-05,Vehicle Theft,,Trivial Damage,,OH,Columbus,3878 Tree Lane,9,1,,1,2,,7080,1180,590,5310,Dodge,RAM,1999,N
+CLM-00213,565564,2015-01-24,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Riverwood,9760 Solo Lane,12,3,YES,2,3,YES,34320,8580,4290,21450,Volkswagen,Passat,2009,N
+CLM-00214,743163,2015-01-26,Multi-vehicle Collision,Side Collision,Major Damage,Other,SC,Springfield,9138 1st St,6,3,,1,0,,53460,9720,9720,34020,Dodge,Neon,2004,Y
+CLM-00215,604614,2015-01-21,Single Vehicle Collision,Side Collision,Total Loss,Other,NC,Columbus,3414 Elm Ave,11,1,YES,1,3,,81360,6780,13560,61020,Suburu,Legacy,2009,Y
+CLM-00216,509928,2015-02-06,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,Springfield,3172 Tree Ridge,5,3,,1,2,YES,81070,7370,14740,58960,Audi,A3,2006,Y
+CLM-00217,593390,2015-01-07,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,Columbus,6104 Oak Ave,14,1,NO,2,2,NO,63120,5260,10520,47340,Audi,A5,2008,N
+CLM-00218,970607,2015-02-10,Vehicle Theft,,Trivial Damage,,NC,Springfield,9742 5th Ridge,17,1,,2,1,NO,7200,1440,720,5040,BMW,X5,2004,N
+CLM-00219,174701,2015-02-23,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,Hillsdale,8782 3rd St,0,1,,2,3,,70290,12780,6390,51120,Saab,92x,1998,Y
+CLM-00220,529398,2015-01-09,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,Northbrook,9798 Sky Ridge,21,3,NO,1,0,NO,60190,9260,9260,41670,BMW,X6,1999,N
+CLM-00221,940942,2015-02-22,Single Vehicle Collision,Front Collision,Major Damage,Other,NY,Hillsdale,5483 Francis Drive,18,1,YES,1,2,YES,61380,11160,5580,44640,Honda,Civic,2009,Y
+CLM-00222,442677,2015-02-21,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Springfield,2005 Texas Hwy,17,1,NO,2,2,NO,28100,2810,5620,19670,Jeep,Grand Cherokee,2012,N
+CLM-00223,365364,2015-02-04,Single Vehicle Collision,Side Collision,Total Loss,Fire,NY,Hillsdale,6634 Texas Ridge,19,1,YES,0,0,NO,49060,8920,8920,31220,Chevrolet,Silverado,1995,N
+CLM-00224,114839,2015-01-07,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,Columbus,8655 Cherokee Lane,17,3,,1,1,NO,57060,6340,6340,44380,Mercedes,E400,1995,N
+CLM-00225,872734,2015-01-17,Multi-vehicle Collision,Side Collision,Major Damage,Fire,VA,Arlington,4955 Lincoln Ridge,23,3,,0,3,YES,77880,12980,12980,51920,Accura,MDX,2008,N
+CLM-00226,267885,2015-01-28,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,NY,Springfield,7705 Best Ridge,4,1,YES,0,1,YES,73500,7350,14700,51450,Jeep,Wrangler,1999,N
+CLM-00227,740505,2015-02-22,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Riverwood,5838 Pine Lane,2,2,YES,2,0,,88920,6840,13680,68400,Accura,RSX,2010,N
+CLM-00228,629663,2015-02-16,Single Vehicle Collision,Front Collision,Major Damage,Other,NY,Arlington,7331 Sky Hwy,2,1,,0,2,NO,47630,12990,4330,30310,Toyota,Corolla,2005,Y
+CLM-00229,839884,2015-02-17,Multi-vehicle Collision,Front Collision,Total Loss,Fire,WV,Hillsdale,5640 Embaracadero Lane,10,3,YES,1,3,NO,59040,6560,6560,45920,Saab,93,2015,N
+CLM-00230,241562,2015-01-09,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,Columbus,9610 Cherokee St,2,1,,0,3,NO,79530,14460,7230,57840,Accura,MDX,2000,N
+CLM-00231,405533,2015-02-09,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,Columbus,3550 Washington Ave,18,1,NO,0,2,YES,53680,4880,4880,43920,Honda,CRV,2005,N
+CLM-00232,667021,2015-02-16,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,Arlington,5277 Texas Lane,18,1,NO,2,3,YES,33550,3050,6100,24400,Volkswagen,Passat,2005,N
+CLM-00233,511621,2015-02-18,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,Springfield,3654 Cherokee Ave,7,4,,2,1,YES,69100,6910,6910,55280,Toyota,Highlander,2006,N
+CLM-00234,476923,2015-01-11,Multi-vehicle Collision,Rear Collision,Major Damage,Police,OH,Hillsdale,7380 5th Hwy,19,3,,2,0,NO,79750,14500,14500,50750,Nissan,Pathfinder,1999,N
+CLM-00235,735822,2015-02-04,Multi-vehicle Collision,Front Collision,Major Damage,Other,PA,Riverwood,2539 Embaracadero Ridge,10,3,,0,2,YES,53600,5360,10720,37520,Audi,A5,2015,Y
+CLM-00236,492745,2015-01-22,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,Riverwood,4693 Lincoln Hwy,16,3,NO,1,0,,76560,12760,6380,57420,Nissan,Ultima,2009,N
+CLM-00237,130930,2015-01-10,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Arlington,2376 Sky Ridge,17,1,YES,1,1,NO,41130,4570,4570,31990,Dodge,RAM,1999,N
+CLM-00238,261119,2015-01-10,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Columbus,1273 Rock Lane,2,3,NO,2,3,NO,78650,14300,7150,57200,Audi,A3,1996,Y
+CLM-00239,280709,2015-02-16,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,Springfield,8281 Lincoln Lane,19,1,,1,1,,71060,6460,12920,51680,Saab,92x,2010,N
+CLM-00240,898573,2015-02-08,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,Northbrook,6429 4th Hwy,0,1,YES,1,1,,38830,3530,3530,31770,Suburu,Legacy,1999,N
+CLM-00241,547802,2015-01-26,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,Riverwood,2201 4th Lane,16,1,,0,0,YES,53500,5350,5350,42800,Saab,92x,2015,N
+CLM-00242,600845,2015-02-01,Single Vehicle Collision,Front Collision,Major Damage,Other,VA,Columbus,5506 Best St,20,1,YES,2,0,NO,73700,7370,7370,58960,Chevrolet,Silverado,2001,Y
+CLM-00243,390381,2015-02-02,Parked Car,,Trivial Damage,,SC,Hillsdale,8404 Embaracadero St,10,1,,2,1,YES,6300,630,630,5040,Nissan,Ultima,2001,N
+CLM-00244,629918,2015-02-06,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,Riverwood,2117 Lincoln Hwy,21,3,,2,2,NO,65400,10900,10900,43600,Dodge,RAM,2012,N
+CLM-00245,208298,2015-01-01,Vehicle Theft,,Trivial Damage,,PA,Springfield,6359 MLK Ridge,3,1,YES,1,2,NO,3200,640,320,2240,Mercedes,E400,2014,N
+CLM-00246,513099,2015-01-19,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NY,Arlington,9751 Sky Ridge,7,1,YES,0,3,YES,75400,7540,15080,52780,Dodge,RAM,2012,Y
+CLM-00247,184938,2015-01-17,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,Northbend,9020 Elm Ave,19,1,YES,0,2,YES,58140,6460,6460,45220,Saab,92x,2008,N
+CLM-00248,187775,2015-02-01,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Columbus,1830 Sky St,15,3,,0,1,,98670,15180,15180,68310,Chevrolet,Tahoe,2010,Y
+CLM-00249,326322,2015-01-02,Parked Car,,Minor Damage,,SC,Hillsdale,6067 Weaver Ridge,7,1,,0,3,NO,5900,1180,590,4130,Mercedes,E400,2009,N
+CLM-00250,146138,2015-02-20,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,Arlington,1840 Embaracadero Ave,19,1,,1,3,YES,64100,6410,6410,51280,Chevrolet,Malibu,2001,N
+CLM-00251,336047,2015-02-05,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Springfield,4058 Tree Drive,13,2,YES,0,1,,55440,5040,10080,40320,Suburu,Forrestor,2009,Y
+CLM-00252,532330,2015-02-27,Multi-vehicle Collision,Side Collision,Major Damage,Police,SC,Northbend,4983 MLK Ridge,2,3,NO,1,2,NO,80850,7350,14700,58800,Ford,F150,2011,Y
+CLM-00253,118137,2015-01-27,Vehicle Theft,,Trivial Damage,Police,WV,Springfield,9744 Texas Drive,5,1,YES,1,1,NO,7480,680,680,6120,Saab,95,1998,N
+CLM-00254,212674,2015-01-26,Single Vehicle Collision,Side Collision,Major Damage,Fire,OH,Riverwood,8821 Elm St,21,1,,2,3,NO,53640,5960,5960,41720,Nissan,Maxima,2004,Y
+CLM-00255,935596,2015-01-13,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Northbrook,2886 Tree Ridge,21,3,NO,2,2,NO,63250,5750,11500,46000,Chevrolet,Tahoe,2002,Y
+CLM-00256,737593,2015-01-14,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,Hillsdale,5236 Weaver Drive,7,3,NO,0,1,,59040,9840,9840,39360,Dodge,RAM,1995,N
+CLM-00257,812025,2015-02-22,Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,Arlington,5862 Apache Ridge,16,3,YES,1,0,YES,50500,10100,5050,35350,Accura,TL,2004,N
+CLM-00258,168151,2015-01-17,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,Columbus,7859 4th Ridge,13,1,YES,0,1,NO,57690,6410,12820,38460,Mercedes,C300,2010,Y
+CLM-00259,594739,2015-02-02,Vehicle Theft,,Trivial Damage,Police,NY,Springfield,6259 Weaver St,2,1,YES,1,3,YES,5940,660,660,4620,Toyota,Camry,2014,N
+CLM-00260,843227,2015-01-07,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Northbend,9980 Lincoln Ave,19,3,,0,2,YES,47790,5310,5310,37170,Suburu,Impreza,1995,Y
+CLM-00261,283925,2015-02-02,Parked Car,,Trivial Damage,,SC,Riverwood,7828 Cherokee Ave,17,1,,0,1,NO,3850,350,350,3150,Dodge,Neon,2014,N
+CLM-00262,475588,2015-02-07,Single Vehicle Collision,Front Collision,Major Damage,Police,NC,Arlington,5812 Oak St,3,1,,2,0,,59000,5900,5900,47200,Ford,Fusion,2013,Y
+CLM-00263,751905,2015-01-18,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NY,Arlington,2318 Washington Hwy,17,3,NO,0,1,,70600,7060,14120,49420,Volkswagen,Passat,2013,Y
+CLM-00264,226725,2015-01-10,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,Hillsdale,8809 Flute St,5,3,,1,1,,61490,5590,11180,44720,Dodge,RAM,2001,N
+CLM-00265,942504,2015-01-30,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,Northbend,3184 Oak Ave,9,1,NO,1,0,YES,57640,5240,10480,41920,Volkswagen,Passat,2010,N
+CLM-00266,395572,2015-01-25,Vehicle Theft,,Trivial Damage,Police,NC,Hillsdale,6493 Lincoln Lane,9,1,NO,1,0,NO,6890,1060,1060,4770,Audi,A5,1999,N
+CLM-00267,889883,2015-01-29,Multi-vehicle Collision,Side Collision,Major Damage,Fire,PA,Columbus,7162 Maple Ave,9,3,,2,2,,53280,11840,5920,35520,Toyota,Camry,2006,Y
+CLM-00268,818167,2015-02-24,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Springfield,5455 Tree Ridge,22,3,NO,0,0,,78300,15660,7830,54810,BMW,X5,2009,N
+CLM-00269,277767,2015-01-04,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,PA,Springfield,5778 Pine Ridge,15,3,YES,0,3,NO,41490,4610,4610,32270,Nissan,Pathfinder,2001,N
+CLM-00270,842618,2015-02-25,Multi-vehicle Collision,Front Collision,Total Loss,Fire,SC,Hillsdale,3797 Solo Lane,14,3,YES,2,3,YES,68970,12540,6270,50160,Chevrolet,Tahoe,2007,N
+CLM-00271,577810,2015-01-27,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,VA,Arlington,9373 Pine Hwy,6,3,,2,0,YES,85300,17060,8530,59710,Toyota,Highlander,2003,N
+CLM-00272,873114,2015-02-19,Parked Car,,Minor Damage,,NY,Hillsdale,1365 Francis Ave,6,1,NO,0,0,NO,3080,560,280,2240,Audi,A3,2012,N
+CLM-00273,994538,2015-01-31,Multi-vehicle Collision,Front Collision,Major Damage,Police,WV,Arlington,9239 Washington Ridge,22,4,YES,2,0,,71760,11040,11040,49680,Jeep,Grand Cherokee,2010,Y
+CLM-00274,727792,2015-01-18,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Arlington,3416 Washington Drive,14,3,,1,0,NO,59700,11940,11940,35820,Nissan,Ultima,2002,N
+CLM-00275,522506,2015-01-10,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,Columbus,1923 2nd Hwy,16,3,NO,0,2,,64920,10820,10820,43280,Ford,Fusion,1997,N
+CLM-00276,367595,2015-01-28,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,SC,Riverwood,6451 1st Hwy,10,3,,0,1,NO,37530,4170,4170,29190,Jeep,Wrangler,2008,N
+CLM-00277,586104,2015-02-16,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,Columbus,1267 Francis Hwy,9,3,YES,1,2,NO,64080,7120,7120,49840,Saab,93,2012,N
+CLM-00278,424862,2015-02-08,Single Vehicle Collision,Rear Collision,Minor Damage,Other,PA,Northbrook,4158 Washington Lane,4,1,NO,1,0,,60390,10980,5490,43920,BMW,M5,2004,Y
+CLM-00279,512813,2015-01-20,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,Northbend,3796 Cherokee Drive,6,3,,0,1,YES,64350,5850,11700,46800,Nissan,Pathfinder,2011,Y
+CLM-00280,356768,2015-02-06,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,Northbend,7434 Oak Hwy,15,3,YES,2,1,YES,70900,14180,7090,49630,BMW,X6,1997,N
+CLM-00281,330506,2015-01-24,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,PA,Columbus,5178 Weaver Hwy,12,3,NO,1,3,,46560,7760,7760,31040,Nissan,Ultima,2012,N
+CLM-00282,779075,2015-01-14,Vehicle Theft,,Trivial Damage,Police,NY,Arlington,8477 Francis Hwy,3,1,NO,2,1,,4730,860,860,3010,Chevrolet,Malibu,2013,Y
+CLM-00283,799501,2015-02-18,Vehicle Theft,,Minor Damage,Police,SC,Northbrook,7693 Britain Lane,14,1,YES,0,0,YES,6820,1240,1240,4340,Jeep,Grand Cherokee,2003,N
+CLM-00284,987905,2015-01-10,Single Vehicle Collision,Rear Collision,Major Damage,Police,WV,Riverwood,3658 Rock Drive,10,1,,0,2,,59900,11980,5990,41930,BMW,X5,1997,Y
+CLM-00285,967756,2015-02-13,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,Riverwood,2617 Andromedia Drive,17,3,,1,3,YES,79560,13260,13260,53040,Ford,Escape,2009,N
+CLM-00286,830414,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Other,VA,Northbrook,9279 Oak Hwy,8,1,YES,0,1,,70290,12780,6390,51120,Accura,MDX,2008,N
+CLM-00287,127313,2015-01-07,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Hillsdale,3439 Andromedia Hwy,14,3,YES,2,0,NO,63910,5810,11620,46480,Suburu,Forrestor,1999,N
+CLM-00288,786957,2015-01-29,Vehicle Theft,,Trivial Damage,,SC,Riverwood,5901 Elm Drive,6,1,,1,0,NO,6400,640,640,5120,Toyota,Camry,1997,N
+CLM-00289,332892,2015-02-13,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Northbrook,3982 Washington Hwy,6,1,YES,1,2,YES,66780,7420,7420,51940,Ford,Escape,2013,Y
+CLM-00290,448642,2015-02-01,Parked Car,,Minor Damage,Police,VA,Northbrook,3376 5th Drive,8,1,NO,0,2,,8760,1460,1460,5840,BMW,3 Series,2013,N
+CLM-00291,526039,2015-01-29,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,NC,Arlington,3936 Tree Drive,13,1,YES,0,1,,94160,8560,17120,68480,Chevrolet,Malibu,1996,N
+CLM-00292,444422,2015-02-06,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,OH,Springfield,6605 Tree Ave,0,3,,0,2,NO,51570,5730,11460,34380,BMW,X5,2010,N
+CLM-00293,689500,2015-01-28,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NC,Northbend,3102 Apache St,14,3,,1,0,NO,52700,10540,10540,31620,BMW,X6,2014,Y
+CLM-00294,806081,2015-01-21,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,Columbus,7756 Pine Hwy,13,1,YES,2,2,,101010,15540,15540,69930,Mercedes,ML350,1998,N
+CLM-00295,384618,2015-01-16,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NC,Columbus,7142 5th Lane,16,4,,1,2,YES,53400,5340,5340,42720,Honda,Civic,2010,Y
+CLM-00296,756459,2015-02-17,Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,Northbrook,2914 Oak Drive,13,1,,1,2,NO,72120,12020,12020,48080,Mercedes,ML350,2009,N
+CLM-00297,655787,2015-02-01,Multi-vehicle Collision,Front Collision,Minor Damage,Police,PA,Hillsdale,6522 Apache Drive,15,3,YES,2,2,YES,77100,7710,15420,53970,Audi,A3,2010,N
+CLM-00298,419954,2015-02-25,Parked Car,,Trivial Damage,Police,SC,Northbend,5279 Pine Ridge,3,1,,2,3,,3300,600,0,2700,Dodge,RAM,2003,N
+CLM-00299,275092,2015-02-26,Parked Car,,Minor Damage,,WV,Northbend,8078 Britain Hwy,7,1,YES,1,0,,5940,1080,540,4320,Nissan,Pathfinder,2003,N
+CLM-00300,515698,2015-02-06,Multi-vehicle Collision,Rear Collision,Major Damage,Other,PA,Northbend,1133 Apache St,16,2,NO,1,0,,63720,7080,21240,35400,Accura,TL,2006,N
+CLM-00301,132871,2015-02-03,Vehicle Theft,,Trivial Damage,Police,SC,Riverwood,2873 Flute Ave,15,1,NO,1,3,NO,7680,1280,640,5760,Audi,A5,2008,N
+CLM-00302,714929,2015-01-27,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,Riverwood,8509 Apache St,21,3,YES,1,2,,93730,14420,21630,57680,Honda,CRV,2001,N
+CLM-00303,297816,2015-01-21,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NC,Arlington,8245 4th Hwy,23,3,YES,0,2,,87300,17460,17460,52380,Jeep,Wrangler,2013,N
+CLM-00304,426708,2015-01-24,Parked Car,,Trivial Damage,Police,NY,Columbus,3094 Best Lane,5,1,,0,2,NO,5670,1260,630,3780,Ford,F150,1997,N
+CLM-00305,615047,2015-01-17,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Springfield,8188 Tree Ave,15,3,YES,0,0,NO,65800,13160,6580,46060,Accura,TL,2001,N
+CLM-00306,771236,2015-02-23,Single Vehicle Collision,Front Collision,Major Damage,Other,NY,Arlington,5224 5th Lane,14,1,,2,1,YES,36720,4080,4080,28560,Honda,Accord,2009,Y
+CLM-00307,235869,2015-01-09,Single Vehicle Collision,Side Collision,Major Damage,Fire,SC,Riverwood,2230 1st St,1,1,,1,1,YES,52800,4800,9600,38400,Mercedes,ML350,1996,Y
+CLM-00308,931625,2015-02-15,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Arlington,6719 Flute St,14,3,NO,1,2,YES,59100,5910,5910,47280,Nissan,Maxima,1998,Y
+CLM-00309,371635,2015-01-16,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,Northbrook,8064 4th Ave,17,3,,1,1,YES,77440,14080,7040,56320,Suburu,Legacy,1999,N
+CLM-00310,427199,2015-01-14,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,Northbend,2469 Francis Lane,20,3,NO,2,2,NO,45700,4570,4570,36560,BMW,3 Series,2008,N
+CLM-00311,261315,2015-01-01,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,Springfield,4671 5th Ridge,10,3,NO,2,2,YES,80740,7340,14680,58720,Toyota,Camry,2014,Y
+CLM-00312,582973,2015-02-16,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,SC,Northbrook,6985 Maple Lane,3,3,,0,3,,31350,2850,5700,22800,Honda,Accord,2001,Y
+CLM-00313,278091,2015-01-04,Single Vehicle Collision,Side Collision,Total Loss,Other,SC,Hillsdale,7791 Britain Ridge,0,1,,0,0,,35000,3500,7000,24500,Suburu,Legacy,2012,N
+CLM-00314,153154,2015-01-12,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,Hillsdale,6355 4th Hwy,10,3,,2,2,NO,68000,13600,6800,47600,Toyota,Corolla,2014,N
+CLM-00315,515217,2015-01-08,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,Northbend,3495 Britain Drive,13,3,YES,2,0,,84500,13000,13000,58500,BMW,X6,2009,N
+CLM-00316,860497,2015-01-22,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,Northbend,2980 Sky Ridge,14,1,NO,2,1,,75500,7550,15100,52850,Nissan,Ultima,1998,N
+CLM-00317,351741,2015-01-13,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,Riverwood,5914 Oak Ave,22,3,NO,1,3,,90600,15100,15100,60400,BMW,X5,2009,N
+CLM-00318,403737,2015-01-18,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,VA,Northbend,3835 5th Ave,8,3,YES,1,1,,64320,5360,10720,48240,Accura,MDX,1998,N
+CLM-00319,162004,2015-01-19,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Northbend,5925 Tree Hwy,1,3,,1,0,,31700,6340,3170,22190,Toyota,Highlander,2006,N
+CLM-00320,740384,2015-01-31,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,Springfield,6250 1st Ridge,19,1,YES,0,1,YES,74280,12380,12380,49520,Suburu,Forrestor,2006,Y
+CLM-00321,876714,2015-02-06,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Columbus,1346 5th Lane,17,1,YES,0,2,YES,80520,13420,6710,60390,Toyota,Corolla,2005,N
+CLM-00322,951543,2015-02-04,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,Hillsdale,1128 Maple Lane,13,3,YES,0,3,YES,63600,6360,12720,44520,Dodge,RAM,2010,N
+CLM-00323,576723,2015-01-02,Single Vehicle Collision,Front Collision,Total Loss,Police,WV,Riverwood,6309 Cherokee Ave,4,1,,1,2,YES,32800,3280,3280,26240,BMW,3 Series,2012,N
+CLM-00324,391003,2015-02-26,Multi-vehicle Collision,Rear Collision,Total Loss,Police,PA,Northbend,4618 Flute Ave,14,3,NO,0,2,NO,44190,9820,4910,29460,Audi,A3,2015,N
+CLM-00325,225865,2015-02-08,Multi-vehicle Collision,Rear Collision,Major Damage,Other,VA,Springfield,6191 Oak Lane,4,2,YES,2,2,NO,50400,10080,5040,35280,Honda,CRV,2000,Y
+CLM-00326,984948,2015-02-07,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,Northbend,1316 Britain Ridge,23,3,YES,1,1,YES,88400,17680,8840,61880,Nissan,Pathfinder,2010,N
+CLM-00327,890328,2015-02-17,Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,Hillsdale,5924 Maple Drive,21,3,YES,0,2,,66550,12100,6050,48400,Volkswagen,Jetta,2003,N
+CLM-00328,803294,2015-01-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Arlington,8917 Tree Ridge,23,3,YES,0,0,,65780,5980,11960,47840,Chevrolet,Tahoe,2014,N
+CLM-00329,414913,2015-02-01,Multi-vehicle Collision,Side Collision,Major Damage,Other,NY,Columbus,3966 Francis Ridge,6,3,,0,2,YES,51810,9420,4710,37680,Audi,A3,2002,Y
+CLM-00330,414519,2015-02-03,Single Vehicle Collision,Front Collision,Major Damage,Other,WV,Springfield,1507 Solo Ave,21,1,NO,1,0,NO,55660,5060,10120,40480,Honda,CRV,2009,Y
+CLM-00331,818413,2015-02-21,Single Vehicle Collision,Side Collision,Major Damage,Fire,NY,Springfield,4272 Oak Ridge,23,1,,2,3,,44640,9920,4960,29760,Toyota,Camry,2005,N
+CLM-00332,487356,2015-01-09,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Riverwood,4434 Lincoln Ave,3,3,,1,3,NO,77660,7060,14120,56480,Nissan,Maxima,2004,Y
+CLM-00333,159768,2015-02-16,Parked Car,,Trivial Damage,,SC,Northbend,7529 Solo Ridge,8,1,NO,2,2,,5640,940,940,3760,Nissan,Ultima,2005,N
+CLM-00334,865839,2015-02-04,Parked Car,,Trivial Damage,,VA,Arlington,8096 Apache Hwy,4,1,,2,2,,3190,580,580,2030,Suburu,Legacy,1995,N
+CLM-00335,406567,2015-02-24,Single Vehicle Collision,Side Collision,Total Loss,Fire,NC,Arlington,9417 Tree Hwy,22,1,,0,0,YES,53440,0,6680,46760,Ford,Escape,2004,N
+CLM-00336,623032,2015-02-01,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,Hillsdale,3809 Texas Lane,16,1,NO,0,1,YES,65250,7250,7250,50750,BMW,3 Series,2002,N
+CLM-00337,935442,2015-02-05,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,Columbus,1540 Apache Lane,14,3,NO,2,1,NO,44280,4920,4920,34440,Chevrolet,Silverado,2008,N
+CLM-00338,106873,2015-01-07,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,Springfield,2337 Lincoln Hwy,13,1,YES,2,0,NO,70290,7810,7810,54670,Dodge,RAM,1999,N
+CLM-00339,563878,2015-02-06,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,Hillsdale,6770 1st St,20,1,,1,1,YES,87100,8710,8710,69680,Saab,92x,2000,N
+CLM-00340,620855,2015-01-21,Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,Columbus,4119 Texas St,0,3,,1,3,,50380,4580,4580,41220,Suburu,Forrestor,1996,N
+CLM-00341,583169,2015-03-01,Multi-vehicle Collision,Side Collision,Total Loss,Police,VA,Arlington,4347 2nd Ridge,23,3,YES,2,2,NO,64800,12960,6480,45360,Audi,A3,2014,Y
+CLM-00342,337677,2015-02-24,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,Columbus,1091 1st Drive,13,1,YES,1,3,NO,70400,12800,12800,44800,BMW,3 Series,2000,N
+CLM-00343,445973,2015-02-02,Single Vehicle Collision,Rear Collision,Major Damage,Police,NY,Northbend,8203 Lincoln Ave,8,1,,2,2,YES,57860,0,10520,47340,Suburu,Impreza,2008,Y
+CLM-00344,156694,2015-01-31,Vehicle Theft,,Minor Damage,,WV,Northbend,9154 MLK Hwy,3,1,,0,3,NO,6240,960,960,4320,Ford,Fusion,2011,N
+CLM-00345,421940,2015-01-09,Single Vehicle Collision,Rear Collision,Total Loss,Police,VA,Columbus,5780 4th Ave,16,1,,2,3,NO,66600,16650,11100,38850,Jeep,Grand Cherokee,2012,Y
+CLM-00346,613226,2015-02-23,Single Vehicle Collision,Side Collision,Minor Damage,Police,VA,Hillsdale,6945 Texas Hwy,19,1,YES,0,2,YES,70920,11820,11820,47280,Jeep,Wrangler,2002,N
+CLM-00347,804410,2015-01-28,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Springfield,5639 1st Ridge,0,1,YES,2,0,YES,39480,6580,6580,26320,Suburu,Forrestor,2002,N
+CLM-00348,553565,2015-01-14,Single Vehicle Collision,Front Collision,Total Loss,Other,VA,Arlington,3834 Pine St,12,1,,2,2,YES,63240,10540,5270,47430,Mercedes,E400,2005,N
+CLM-00349,399524,2015-02-03,Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,Arlington,1358 Maple St,21,3,YES,1,0,,67650,12300,6150,49200,Audi,A5,2009,N
+CLM-00350,331595,2015-02-17,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,Riverwood,7460 Apache Lane,0,1,,1,3,NO,74200,14840,14840,44520,Accura,TL,2002,Y
+CLM-00351,380067,2015-01-30,Single Vehicle Collision,Side Collision,Minor Damage,Other,VA,Columbus,5771 Sky Ave,22,1,YES,1,3,NO,64900,12980,12980,38940,Volkswagen,Jetta,2011,N
+CLM-00352,701521,2015-02-03,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NC,Northbend,2865 Maple Lane,20,3,,1,0,NO,35900,7180,3590,25130,Audi,A3,2007,Y
+CLM-00353,360770,2015-02-03,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,VA,Riverwood,8940 Elm Ave,0,1,NO,1,3,,52200,5220,10440,36540,Honda,CRV,2011,N
+CLM-00354,958785,2015-01-31,Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,Hillsdale,1215 Pine Hwy,20,1,,0,2,NO,78000,6500,13000,58500,Suburu,Forrestor,2000,N
+CLM-00355,797934,2015-02-06,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Springfield,6874 Maple Ridge,1,3,YES,0,0,,67200,6720,6720,53760,Volkswagen,Passat,1995,N
+CLM-00356,883980,2015-02-06,Single Vehicle Collision,Rear Collision,Total Loss,Fire,WV,Hillsdale,8834 Elm Drive,11,1,NO,0,0,,63250,11500,5750,46000,Nissan,Ultima,1997,N
+CLM-00357,340614,2015-01-29,Multi-vehicle Collision,Side Collision,Major Damage,Other,WV,Columbus,8542 Lincoln Ridge,14,3,YES,1,1,YES,68760,11460,5730,51570,Ford,Fusion,1995,N
+CLM-00358,435784,2015-01-07,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,Springfield,9397 Francis St,20,3,YES,0,2,,65040,10840,10840,43360,Suburu,Impreza,2010,N
+CLM-00359,563837,2015-01-20,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,SC,Springfield,4907 Andromedia Drive,22,1,,1,3,,82800,20700,13800,48300,Jeep,Grand Cherokee,2004,Y
+CLM-00360,200827,2015-02-28,Single Vehicle Collision,Side Collision,Total Loss,Other,SC,Columbus,4429 Washington St,12,1,NO,1,0,YES,61700,6170,6170,49360,Saab,93,2005,N
+CLM-00361,533941,2015-02-04,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,OH,Columbus,2651 MLK Lane,3,3,YES,2,1,YES,78100,15620,7810,54670,Chevrolet,Tahoe,1997,Y
+CLM-00362,265026,2015-01-12,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Northbend,2942 1st Lane,15,3,YES,2,1,,65520,9360,9360,46800,Toyota,Highlander,2011,Y
+CLM-00363,354481,2015-02-28,Parked Car,,Trivial Damage,,VA,Arlington,6317 Best St,8,1,YES,0,2,NO,4500,450,450,3600,Saab,93,1999,N
+CLM-00364,566720,2015-01-08,Multi-vehicle Collision,Side Collision,Major Damage,Other,WV,Northbend,1555 Washington Lane,13,3,NO,0,2,,42700,0,6100,36600,Mercedes,ML350,2011,Y
+CLM-00365,832746,2015-01-25,Parked Car,,Minor Damage,Police,SC,Hillsdale,1919 4th Lane,8,1,NO,2,2,YES,5580,620,620,4340,Volkswagen,Passat,2005,Y
+CLM-00366,386690,2015-02-26,Parked Car,,Minor Damage,,NC,Arlington,5480 3rd Ridge,7,1,,0,0,NO,3600,360,720,2520,BMW,X5,2013,Y
+CLM-00367,979285,2015-02-03,Vehicle Theft,,Trivial Damage,,SC,Northbrook,8864 Tree Ridge,9,1,,2,0,,2800,280,280,2240,Volkswagen,Passat,2015,N
+CLM-00368,594722,2015-01-31,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,Northbend,2777 Solo Drive,15,1,NO,1,0,YES,54000,6000,6000,42000,Toyota,Highlander,1996,N
+CLM-00369,216738,2015-02-01,Single Vehicle Collision,Side Collision,Minor Damage,Police,NC,Northbend,9929 Rock Drive,5,1,,0,2,,48950,4450,8900,35600,Accura,TL,2011,Y
+CLM-00370,369048,2015-02-21,Multi-vehicle Collision,Rear Collision,Major Damage,Other,WV,Northbend,4143 Maple Ridge,15,4,YES,0,1,,77800,15560,15560,46680,Dodge,RAM,2002,N
+CLM-00371,514424,2015-01-30,Multi-vehicle Collision,Front Collision,Major Damage,Other,NC,Columbus,7121 Rock St,22,3,YES,2,1,NO,52560,11680,5840,35040,Saab,93,1995,N
+CLM-00372,954191,2015-01-31,Multi-vehicle Collision,Side Collision,Total Loss,Police,VA,Riverwood,9067 Texas Ave,16,2,,1,2,YES,44110,4010,8020,32080,Honda,Accord,2015,N
+CLM-00373,150181,2015-01-13,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,Hillsdale,9245 Weaver Ridge,7,1,NO,1,3,,74360,13520,6760,54080,Suburu,Forrestor,2009,N
+CLM-00374,388671,2015-02-16,Parked Car,,Minor Damage,,WV,Arlington,4585 Francis Ave,2,1,YES,1,2,,6120,680,680,4760,Honda,Civic,2002,Y
+CLM-00375,457244,2015-02-04,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,Northbend,6738 Francis Hwy,17,4,,0,0,YES,62280,5190,10380,46710,Suburu,Forrestor,2012,N
+CLM-00376,206667,2015-02-07,Multi-vehicle Collision,Front Collision,Total Loss,Other,NY,Springfield,7576 Pine Ridge,12,3,,1,0,YES,26730,4860,4860,17010,Volkswagen,Jetta,2006,N
+CLM-00377,745200,2015-01-16,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,Arlington,9105 Tree Lane,9,1,,1,0,NO,66200,6620,6620,52960,Dodge,Neon,2013,N
+CLM-00378,412703,2015-02-28,Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,Northbrook,2299 Britain Drive,16,1,,1,2,,45500,9100,4550,31850,Toyota,Corolla,2009,N
+CLM-00379,736771,2015-02-08,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Springfield,1914 Francis St,19,3,,2,0,,53040,4420,4420,44200,Audi,A3,2006,N
+CLM-00380,347984,2015-01-02,Multi-vehicle Collision,Front Collision,Major Damage,Other,VA,Columbus,6658 Weaver St,14,3,,1,2,NO,50800,10160,5080,35560,Mercedes,E400,2013,Y
+CLM-00381,626074,2015-01-13,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,Northbend,1985 5th Ave,18,3,,1,3,,44200,4420,4420,35360,Audi,A5,2014,N
+CLM-00382,218109,2015-01-07,Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,Springfield,1707 Sky Ave,23,1,YES,1,3,,62920,11440,5720,45760,Chevrolet,Malibu,2012,N
+CLM-00383,999435,2015-01-05,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Springfield,6456 Andromedia Drive,15,3,,0,2,YES,49950,5550,5550,38850,Nissan,Ultima,2004,Y
+CLM-00384,858060,2015-02-28,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,Arlington,5649 Texas Ave,18,1,YES,0,1,YES,56430,6270,6270,43890,BMW,3 Series,1995,Y
+CLM-00385,500384,2015-01-04,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,Riverwood,1220 MLK Ave,16,1,NO,2,2,YES,100210,18220,18220,63770,Audi,A5,2014,N
+CLM-00386,903785,2015-02-02,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,Northbend,1589 Pine St,12,3,NO,1,0,YES,49140,5460,5460,38220,Ford,F150,2007,N
+CLM-00387,873859,2015-02-23,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,WV,Northbrook,8906 Elm Lane,16,1,NO,0,1,,66840,16710,5570,44560,Mercedes,E400,2014,N
+CLM-00388,204294,2015-02-10,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,Hillsdale,2654 Elm Drive,21,1,,1,2,,62460,6940,6940,48580,Honda,Accord,2003,N
+CLM-00389,467106,2015-02-16,Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,Columbus,6681 Texas Ridge,15,3,YES,0,1,,62810,11420,11420,39970,Nissan,Ultima,1999,N
+CLM-00390,357713,2015-01-04,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,WV,Northbrook,7782 Rock St,21,1,YES,1,2,,54160,6770,6770,40620,Suburu,Legacy,2009,N
+CLM-00391,890026,2015-01-30,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,Arlington,9286 Oak Ave,1,1,YES,0,2,NO,48400,9680,4840,33880,Saab,92x,2005,N
+CLM-00392,751612,2015-01-25,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,Arlington,8758 5th St,17,3,,0,0,NO,51480,5720,5720,40040,Toyota,Highlander,2013,N
+CLM-00393,876680,2015-01-22,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,NY,Columbus,7281 Maple Hwy,5,3,NO,2,1,NO,51700,5170,10340,36190,Saab,95,2003,N
+CLM-00394,756981,2015-01-01,Multi-vehicle Collision,Front Collision,Total Loss,Other,WV,Northbend,7571 Elm Ridge,15,3,,1,2,,65520,10920,5460,49140,Volkswagen,Jetta,2009,N
+CLM-00395,121439,2015-02-14,Multi-vehicle Collision,Rear Collision,Major Damage,Other,OH,Arlington,6738 Washington Hwy,2,4,NO,2,2,NO,47700,4770,9540,33390,Accura,TL,2011,Y
+CLM-00396,411289,2015-01-15,Vehicle Theft,,Minor Damage,,SC,Northbend,4188 Britain Ave,3,1,YES,2,0,NO,5220,580,580,4060,Accura,MDX,2015,N
+CLM-00397,538466,2015-01-06,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,Riverwood,6934 Lincoln Ave,19,1,NO,1,0,,73320,6110,12220,54990,Ford,Fusion,2012,N
+CLM-00398,932097,2015-02-08,Single Vehicle Collision,Front Collision,Minor Damage,Fire,VA,Hillsdale,6390 Apache St,17,1,YES,0,2,YES,74900,14980,7490,52430,Jeep,Grand Cherokee,2003,N
+CLM-00399,463727,2015-02-17,Vehicle Theft,,Trivial Damage,Police,WV,Columbus,7615 Weaver Drive,7,1,,0,1,YES,3190,580,290,2320,Saab,95,2015,N
+CLM-00400,552618,2015-01-21,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Columbus,6409 Cherokee Drive,21,1,NO,1,0,YES,76920,12820,6410,57690,Chevrolet,Malibu,2002,N
+CLM-00401,936638,2015-02-09,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,Springfield,1123 5th Lane,10,2,YES,1,3,NO,77990,7090,14180,56720,Jeep,Wrangler,2012,N
+CLM-00402,348814,2015-02-12,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Columbus,5168 5th Ave,11,1,YES,1,0,,59670,9180,9180,41310,Ford,Escape,2008,N
+CLM-00403,944102,2015-02-24,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NY,Columbus,3697 Apache Drive,23,3,YES,2,0,NO,44880,8160,4080,32640,Mercedes,C300,2004,Y
+CLM-00404,689901,2015-02-02,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,Northbend,1910 Sky Ave,14,1,,0,2,NO,82830,7530,15060,60240,Audi,A5,2004,N
+CLM-00405,901083,2015-02-14,Single Vehicle Collision,Front Collision,Minor Damage,Other,SC,Riverwood,8954 Apache Lane,10,1,NO,1,3,NO,84480,7680,15360,61440,Chevrolet,Silverado,2012,Y
+CLM-00406,396224,2015-02-15,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,Hillsdale,3110 Lincoln Lane,6,3,,2,3,NO,79800,15960,7980,55860,Honda,Civic,1999,N
+CLM-00407,682178,2015-02-28,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,WV,Arlington,6035 Rock Ave,10,3,,0,3,YES,53020,9640,9640,33740,Toyota,Corolla,1999,N
+CLM-00408,596298,2015-01-18,Multi-vehicle Collision,Side Collision,Total Loss,Police,VA,Hillsdale,2220 1st Lane,5,3,,0,0,NO,24200,2200,4400,17600,Suburu,Forrestor,2008,N
+CLM-00409,253005,2015-01-06,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,OH,Riverwood,4972 Francis Lane,17,1,,1,3,YES,43230,7860,7860,27510,Chevrolet,Silverado,2001,N
+CLM-00410,985924,2015-01-19,Vehicle Theft,,Trivial Damage,,NC,Springfield,6957 Weaver Drive,3,1,NO,2,3,NO,3190,290,580,2320,Ford,Escape,1995,N
+CLM-00411,631565,2015-01-17,Parked Car,,Minor Damage,,WV,Northbrook,1512 Rock Lane,9,1,,0,3,NO,5850,1300,650,3900,BMW,M5,2006,N
+CLM-00412,630998,2015-02-12,Parked Car,,Trivial Damage,Police,SC,Arlington,3693 Pine Ave,6,1,YES,2,0,YES,6820,620,1240,4960,BMW,3 Series,2005,N
+CLM-00413,926665,2015-02-11,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,Riverwood,9879 Apache Drive,22,3,NO,2,2,NO,69480,11580,11580,46320,Chevrolet,Tahoe,2008,N
+CLM-00414,302669,2015-02-21,Multi-vehicle Collision,Front Collision,Major Damage,Fire,PA,Northbend,2494 Andromedia Drive,10,3,,1,2,YES,94560,7880,15760,70920,Jeep,Grand Cherokee,1995,N
+CLM-00415,620020,2015-01-02,Vehicle Theft,,Minor Damage,,NC,Riverwood,4615 Embaracadero Ave,4,1,YES,1,2,,7800,780,780,6240,Dodge,RAM,1997,N
+CLM-00416,439828,2015-01-11,Single Vehicle Collision,Front Collision,Total Loss,Other,WV,Northbrook,1929 Britain Drive,23,1,NO,1,3,NO,61270,5570,11140,44560,Suburu,Legacy,1999,N
+CLM-00417,971295,2015-02-23,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,Riverwood,5051 Elm St,19,1,,0,2,YES,71440,8930,8930,53580,Mercedes,ML350,2005,N
+CLM-00418,165565,2015-01-28,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,Hillsdale,9910 Maple Ave,22,1,YES,1,2,YES,55600,11120,5560,38920,Jeep,Grand Cherokee,2009,N
+CLM-00419,936543,2015-02-01,Vehicle Theft,,Trivial Damage,Police,NC,Riverwood,5602 Britain St,6,1,NO,1,3,NO,5000,1000,500,3500,Jeep,Wrangler,2005,N
+CLM-00420,296960,2015-02-24,Single Vehicle Collision,Side Collision,Minor Damage,Other,NY,Springfield,6889 Cherokee St,6,1,NO,2,0,,95810,14740,14740,66330,BMW,X5,2007,N
+CLM-00421,501692,2015-01-20,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Northbend,3926 Rock Lane,18,1,NO,2,2,,69300,6930,13860,48510,Volkswagen,Jetta,1996,N
+CLM-00422,525224,2015-01-14,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,Northbend,6717 Best Drive,22,1,,1,0,NO,81120,13520,20280,47320,Toyota,Camry,1995,N
+CLM-00423,355085,2015-02-05,Single Vehicle Collision,Front Collision,Major Damage,Other,WV,Columbus,6117 4th Ave,21,1,,0,0,,91260,14040,14040,63180,Toyota,Corolla,2012,N
+CLM-00424,830729,2015-01-11,Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,Northbend,2668 Cherokee St,12,1,,0,0,,60600,6060,12120,42420,Ford,Fusion,2004,N
+CLM-00425,651948,2015-01-02,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Arlington,6838 Flute Lane,6,3,,0,3,YES,64800,6480,12960,45360,Suburu,Forrestor,2000,Y
+CLM-00426,424358,2015-02-12,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,Northbrook,6583 MLK Ridge,0,4,,0,0,,66880,6080,12160,48640,Chevrolet,Silverado,1996,Y
+CLM-00427,131478,2015-01-03,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Arlington,6492 4th Lane,11,1,NO,0,2,,58200,5820,5820,46560,BMW,X5,2013,N
+CLM-00428,268833,2015-02-25,Single Vehicle Collision,Side Collision,Minor Damage,Police,NC,Hillsdale,7299 Apache St,19,1,,1,0,NO,60570,6730,6730,47110,Nissan,Maxima,2011,N
+CLM-00429,287489,2015-01-19,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NC,Springfield,2756 Britain Hwy,22,3,,0,0,NO,69680,8710,8710,52260,Mercedes,ML350,2008,Y
+CLM-00430,808153,2015-01-03,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Columbus,9360 3rd Drive,2,1,YES,2,3,NO,55700,5570,11140,38990,Nissan,Maxima,2014,N
+CLM-00431,687639,2015-02-12,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,OH,Arlington,1655 Francis Hwy,16,4,YES,1,2,YES,62370,5670,5670,51030,Dodge,Neon,2001,N
+CLM-00432,497347,2015-02-24,Multi-vehicle Collision,Side Collision,Total Loss,Other,VA,Columbus,9720 Lincoln Hwy,23,3,,0,0,YES,54340,9880,0,44460,Saab,92x,2005,N
+CLM-00433,439660,2015-02-25,Single Vehicle Collision,Front Collision,Major Damage,Police,NC,Northbend,7066 Texas Ave,21,1,YES,1,0,NO,55170,6130,6130,42910,Audi,A5,2005,Y
+CLM-00434,847123,2015-02-17,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,Columbus,9728 Britain Hwy,10,1,,2,3,YES,58500,11700,5850,40950,Dodge,RAM,1999,N
+CLM-00435,172307,2015-02-09,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,Riverwood,4486 Cherokee Ridge,12,1,,0,3,,59940,6660,6660,46620,Honda,CRV,1995,N
+CLM-00436,810189,2015-02-15,Single Vehicle Collision,Side Collision,Total Loss,Police,PA,Northbend,8021 Flute Ave,6,1,NO,1,0,NO,73400,7340,7340,58720,Dodge,Neon,1996,N
+CLM-00437,432068,2015-02-25,Single Vehicle Collision,Side Collision,Major Damage,Fire,PA,Riverwood,2774 Apache Drive,6,1,,1,2,,41850,4650,4650,32550,Suburu,Legacy,1997,N
+CLM-00438,903203,2015-02-05,Parked Car,,Trivial Damage,Police,NC,Hillsdale,2787 MLK St,7,1,,2,2,NO,6400,640,1280,4480,Mercedes,ML350,2005,Y
+CLM-00439,253085,2015-01-12,Vehicle Theft,,Trivial Damage,Police,WV,Northbrook,9847 Elm St,3,1,NO,1,1,NO,3190,580,290,2320,Audi,A5,2004,N
+CLM-00440,180720,2015-01-01,Parked Car,,Trivial Damage,,VA,Hillsdale,4629 Elm Ridge,10,1,YES,2,1,YES,5900,590,590,4720,Nissan,Pathfinder,2010,N
+CLM-00441,492224,2015-02-19,Single Vehicle Collision,Rear Collision,Total Loss,Fire,NY,Columbus,5585 Washington Drive,14,1,NO,0,2,NO,57330,6370,6370,44590,Dodge,Neon,2006,N
+CLM-00442,411477,2015-01-14,Multi-vehicle Collision,Front Collision,Total Loss,Other,WV,Hillsdale,3925 Sky St,17,3,NO,0,3,NO,81960,13660,13660,54640,Dodge,Neon,2008,N
+CLM-00443,107181,2015-01-30,Single Vehicle Collision,Side Collision,Major Damage,Fire,SC,Hillsdale,3903 Oak Ave,16,1,YES,0,0,,70400,6400,19200,44800,Suburu,Legacy,2001,Y
+CLM-00444,312940,2015-01-20,Parked Car,,Minor Damage,,VA,Columbus,3805 Lincoln Hwy,3,1,NO,2,1,,3770,580,580,2610,Jeep,Grand Cherokee,2002,N
+CLM-00445,855186,2015-02-18,Parked Car,,Minor Damage,,NC,Arlington,4055 2nd Drive,7,1,NO,0,0,,7400,740,1480,5180,Dodge,Neon,2014,N
+CLM-00446,373935,2015-01-07,Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,Northbend,3707 Oak Ridge,13,1,YES,1,1,,54810,6090,6090,42630,Chevrolet,Silverado,1999,Y
+CLM-00447,812989,2015-01-16,Single Vehicle Collision,Rear Collision,Total Loss,Fire,NY,Springfield,7327 Lincoln Drive,20,1,YES,2,3,YES,49400,4940,9880,34580,Jeep,Wrangler,2005,N
+CLM-00448,993840,2015-01-15,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NC,Riverwood,9369 Flute Hwy,23,1,YES,2,2,NO,68750,12500,6250,50000,Chevrolet,Malibu,2009,N
+CLM-00449,327856,2015-02-01,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,Arlington,4239 Weaver Ave,11,1,NO,1,0,,61500,12300,6150,43050,Dodge,Neon,2013,N
+CLM-00450,506333,2015-01-06,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,Northbend,6044 Weaver Drive,0,4,,0,3,NO,76890,6990,13980,55920,BMW,X6,2007,N
+CLM-00451,263159,2015-02-02,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Northbrook,8879 1st Drive,2,1,YES,0,1,,56070,6230,12460,37380,Toyota,Camry,2012,N
+CLM-00452,372912,2015-02-25,Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,Northbrook,9488 Best Drive,3,1,NO,2,0,YES,56000,14000,0,42000,Chevrolet,Malibu,2003,N
+CLM-00453,552788,2015-02-10,Parked Car,,Trivial Damage,,NY,Hillsdale,7500 Texas Ridge,3,1,YES,1,0,NO,4290,780,390,3120,Audi,A3,1997,N
+CLM-00454,722747,2015-02-22,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,Arlington,2048 3rd Ridge,15,3,,2,1,NO,60750,6750,6750,47250,Suburu,Forrestor,2003,N
+CLM-00455,248467,2015-01-31,Single Vehicle Collision,Side Collision,Minor Damage,Other,NY,Northbend,3419 Apache St,23,1,,2,3,NO,48730,4430,4430,39870,Chevrolet,Malibu,2011,N
+CLM-00456,955953,2015-02-12,Multi-vehicle Collision,Front Collision,Minor Damage,Police,WV,Springfield,9875 MLK Ave,9,3,YES,2,0,NO,95150,17300,17300,60550,Ford,Escape,2007,N
+CLM-00457,910622,2015-01-06,Vehicle Theft,,Minor Damage,Police,NY,Columbus,3553 Texas Ave,20,1,,0,1,YES,7480,680,680,6120,Dodge,Neon,2003,N
+CLM-00458,137675,2015-01-01,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,NC,Riverwood,4335 1st St,5,1,,2,1,YES,79800,13300,6650,59850,Volkswagen,Passat,2011,Y
+CLM-00459,343421,2015-01-07,Single Vehicle Collision,Side Collision,Total Loss,Other,NC,Hillsdale,9070 Tree Ave,15,1,YES,0,2,,103560,8630,17260,77670,Jeep,Wrangler,1997,N
+CLM-00460,413192,2015-02-21,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Hillsdale,3900 Texas St,13,1,YES,2,3,,79500,15900,7950,55650,Accura,MDX,1995,N
+CLM-00461,247801,2015-02-14,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,Riverwood,9657 5th Ave,16,1,NO,2,2,NO,76230,6930,13860,55440,Volkswagen,Passat,1997,Y
+CLM-00462,171147,2015-02-16,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,Northbend,5765 Washington St,0,1,YES,0,2,NO,59520,9920,9920,39680,Honda,Accord,2001,N
+CLM-00463,431283,2015-02-04,Multi-vehicle Collision,Front Collision,Major Damage,Police,SC,Arlington,5997 Embaracadero Drive,10,3,NO,2,1,,47760,5970,5970,35820,Suburu,Impreza,2013,Y
+CLM-00464,461962,2015-01-22,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,Springfield,1738 Solo Lane,14,3,NO,2,0,NO,84590,15380,7690,61520,Saab,93,2013,N
+CLM-00465,149467,2015-02-15,Multi-vehicle Collision,Front Collision,Total Loss,Other,SC,Columbus,2903 Weaver Drive,1,3,YES,2,2,,61650,6850,6850,47950,Nissan,Ultima,2006,N
+CLM-00466,758740,2015-01-07,Single Vehicle Collision,Rear Collision,Major Damage,Police,VA,Springfield,8926 Texas Ridge,16,1,,2,1,,81400,8140,8140,65120,BMW,M5,1998,N
+CLM-00467,628337,2015-02-23,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,Northbend,4231 3rd Ave,2,3,NO,0,1,YES,58410,10620,5310,42480,Chevrolet,Tahoe,2007,N
+CLM-00468,574637,2015-01-06,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,Springfield,8049 4th St,23,3,,0,0,,38610,3510,3510,31590,Volkswagen,Passat,2007,N
+CLM-00469,373600,2015-02-07,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,Northbrook,6501 5th Drive,19,3,,2,2,NO,57600,9600,9600,38400,Volkswagen,Passat,2015,N
+CLM-00470,930032,2015-02-14,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NC,Hillsdale,7909 Andromedia Hwy,23,3,NO,2,2,NO,53190,5910,11820,35460,Volkswagen,Jetta,1996,N
+CLM-00471,396590,2015-02-15,Single Vehicle Collision,Front Collision,Major Damage,Other,NY,Riverwood,5865 Sky Lane,10,1,,2,3,NO,58300,5830,11660,40810,Nissan,Maxima,2014,Y
+CLM-00472,238412,2015-02-14,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,WV,Springfield,1957 Washington Ave,12,3,YES,1,2,NO,64620,7180,0,57440,Dodge,Neon,2003,N
+CLM-00473,484321,2015-02-05,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,Riverwood,7649 Texas St,15,3,NO,2,0,YES,90480,15080,15080,60320,BMW,X6,2000,N
+CLM-00474,795847,2015-01-04,Vehicle Theft,,Trivial Damage,,SC,Columbus,1992 Britain Drive,3,1,NO,1,0,NO,7080,1180,1180,4720,Nissan,Maxima,2001,N
+CLM-00475,218456,2015-02-20,Parked Car,,Minor Damage,Police,PA,Springfield,9685 Sky Ridge,19,1,,2,2,,6490,590,1180,4720,Toyota,Camry,2011,Y
+CLM-00476,792673,2015-02-05,Multi-vehicle Collision,Side Collision,Total Loss,Police,NC,Hillsdale,3457 Texas Lane,16,3,NO,1,1,NO,55900,5590,5590,44720,Nissan,Ultima,2015,N
+CLM-00477,662256,2015-01-15,Single Vehicle Collision,Rear Collision,Major Damage,Other,SC,Columbus,7693 Cherokee Lane,16,1,NO,0,3,YES,63800,6380,6380,51040,Saab,92x,1998,Y
+CLM-00478,971338,2015-01-05,Single Vehicle Collision,Side Collision,Total Loss,Police,VA,Northbend,3167 4th Ridge,10,1,,0,1,YES,58160,7270,7270,43620,Saab,95,1996,Y
+CLM-00479,714738,2015-01-01,Vehicle Theft,,Minor Damage,Police,NC,Riverwood,1617 Rock Drive,6,1,NO,1,2,NO,6300,630,1260,4410,Mercedes,C300,2001,Y
+CLM-00480,753844,2015-01-26,Single Vehicle Collision,Front Collision,Major Damage,Fire,WV,Arlington,7877 3rd Ridge,18,1,NO,2,1,NO,104610,19020,19020,66570,Mercedes,ML350,1999,Y
+CLM-00481,976645,2015-02-13,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Springfield,9325 Lincoln Drive,20,3,NO,0,2,NO,69850,12700,6350,50800,Ford,Fusion,1999,N
+CLM-00482,918037,2015-01-14,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,PA,Northbrook,5855 Apache St,14,1,NO,0,0,,62900,12580,6290,44030,Accura,MDX,2006,N
+CLM-00483,996253,2015-01-31,Multi-vehicle Collision,Front Collision,Major Damage,Other,WV,Riverwood,1328 Texas Lane,8,3,NO,0,3,,59670,6630,6630,46410,Volkswagen,Passat,2004,Y
+CLM-00484,373731,2015-01-22,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Springfield,4567 Pine Ave,17,2,YES,2,0,,81500,16300,8150,57050,BMW,3 Series,2013,N
+CLM-00485,836272,2015-01-30,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,Springfield,7575 Pine St,9,1,NO,2,0,,50000,15000,5000,30000,Jeep,Wrangler,2009,N
+CLM-00486,167231,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,Springfield,2850 Washington St,0,1,,2,1,,48290,8780,8780,30730,Nissan,Maxima,1995,N
+CLM-00487,743330,2015-02-20,Single Vehicle Collision,Rear Collision,Total Loss,Fire,VA,Riverwood,9169 Cherokee Hwy,2,1,NO,0,0,,59070,5370,5370,48330,Chevrolet,Malibu,2003,N
+CLM-00488,807369,2015-02-04,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Springfield,6443 Washington Ridge,23,3,,0,0,NO,63300,12660,6330,44310,Dodge,RAM,2012,N
+CLM-00489,735307,2015-02-23,Single Vehicle Collision,Side Collision,Total Loss,Other,SC,Northbend,6751 5th Hwy,8,1,NO,0,3,YES,65780,11960,11960,41860,Mercedes,ML350,2013,N
+CLM-00490,789208,2015-02-08,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NY,Columbus,2289 Weaver Ridge,6,3,NO,0,2,,75400,11600,11600,52200,Dodge,Neon,2005,Y
+CLM-00491,585324,2015-02-21,Vehicle Theft,,Minor Damage,,WV,Arlington,8306 1st Drive,3,1,YES,1,1,NO,2250,250,250,1750,Toyota,Corolla,2005,N
+CLM-00492,498759,2015-01-13,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,Northbend,2603 Andromedia Hwy,14,3,YES,1,3,,54120,4510,9020,40590,Jeep,Grand Cherokee,2007,N
+CLM-00493,795004,2015-01-17,Multi-vehicle Collision,Side Collision,Major Damage,Other,NY,Northbrook,6479 Francis Ave,16,3,NO,0,2,NO,69480,11580,11580,46320,Saab,95,2007,N
+CLM-00494,203250,2015-02-18,Single Vehicle Collision,Rear Collision,Minor Damage,Police,NY,Northbend,6428 Andromedia Lane,12,1,,1,2,NO,66950,10300,10300,46350,Chevrolet,Malibu,2015,N
+CLM-00495,430794,2015-01-14,Multi-vehicle Collision,Rear Collision,Major Damage,Other,OH,Northbrook,9081 Cherokee Hwy,1,3,NO,2,3,,64100,12820,6410,44870,Dodge,RAM,2014,Y
+CLM-00496,156636,2015-01-27,Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,Springfield,1532 Washington St,19,1,,0,3,,80280,13380,13380,53520,Chevrolet,Tahoe,2013,N
+CLM-00497,284143,2015-02-12,Vehicle Theft,,Trivial Damage,Police,NY,Northbend,4625 MLK Drive,7,1,,1,2,NO,4680,520,0,4160,Accura,MDX,1999,N
+CLM-00498,740518,2015-01-17,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Springfield,1529 Elm Ridge,6,4,,1,1,NO,39720,6620,6620,26480,Accura,MDX,2002,N
+CLM-00499,445289,2015-01-13,Single Vehicle Collision,Front Collision,Major Damage,Police,NY,Arlington,2086 Francis Drive,11,1,,0,0,,63580,5780,5780,52020,Mercedes,ML350,1997,Y
+CLM-00500,599262,2015-01-21,Single Vehicle Collision,Side Collision,Minor Damage,Other,NC,Northbend,9066 Best Ridge,2,1,YES,1,1,YES,73370,13340,6670,53360,Saab,95,2013,N
+CLM-00501,357949,2015-01-01,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,Northbrook,7178 Best Drive,15,1,,2,3,YES,86790,7890,23670,55230,Honda,CRV,2003,N
+CLM-00502,493161,2015-02-18,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,Columbus,9821 Francis Ave,0,1,NO,0,2,,49800,9960,4980,34860,Mercedes,ML350,2015,N
+CLM-00503,320251,2015-02-04,Single Vehicle Collision,Side Collision,Major Damage,Other,WV,Hillsdale,7061 Cherokee Drive,12,1,YES,1,1,NO,77440,7040,14080,56320,Nissan,Ultima,2005,N
+CLM-00504,231127,2015-01-09,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,Springfield,1325 1st Lane,1,1,,1,0,,42900,8580,0,34320,Accura,TL,1999,N
+CLM-00505,766193,2015-02-14,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,VA,Hillsdale,3769 Sky St,16,2,YES,1,0,NO,53820,11960,5980,35880,Ford,F150,2015,Y
+CLM-00506,555374,2015-01-03,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,Hillsdale,8489 Pine Hwy,2,1,NO,2,1,NO,57330,12740,6370,38220,Jeep,Grand Cherokee,1998,N
+CLM-00507,491484,2015-02-04,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Riverwood,6329 Apache Ave,13,3,NO,2,1,,53370,5930,5930,41510,Nissan,Ultima,2011,N
+CLM-00508,925128,2015-01-30,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,Northbrook,9293 Pine Lane,0,1,NO,2,2,YES,62920,9680,14520,38720,Accura,MDX,2005,N
+CLM-00509,265093,2015-02-20,Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,Arlington,9224 Sky Drive,0,3,,0,1,NO,61600,6160,12320,43120,Honda,CRV,2003,N
+CLM-00510,267808,2015-01-07,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NY,Northbend,8862 Maple Ridge,16,3,YES,2,0,NO,74160,6180,12360,55620,Mercedes,E400,2002,N
+CLM-00511,116735,2015-01-31,Single Vehicle Collision,Rear Collision,Total Loss,Police,WV,Arlington,3492 Flute Lane,8,1,NO,2,0,,80100,8900,8900,62300,Audi,A3,2015,N
+CLM-00512,963680,2015-02-17,Parked Car,,Trivial Damage,Police,NY,Hillsdale,6484 Tree Drive,9,1,,2,3,NO,6560,820,820,4920,Volkswagen,Jetta,2003,N
+CLM-00513,445694,2015-01-24,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Northbend,4554 Sky Ave,11,1,,2,1,YES,58800,11760,5880,41160,Nissan,Pathfinder,1997,N
+CLM-00514,215534,2015-02-02,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,PA,Northbrook,5201 Texas Hwy,6,3,,0,2,NO,53730,11940,5970,35820,Dodge,RAM,2013,Y
+CLM-00515,232854,2015-01-09,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,Arlington,3982 Weaver Lane,18,1,NO,0,0,NO,60600,5050,10100,45450,Honda,Civic,2001,N
+CLM-00516,168260,2015-02-28,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,Northbrook,3660 Andromedia Hwy,11,1,,0,3,YES,35750,6500,3250,26000,Mercedes,E400,2001,N
+CLM-00517,538955,2015-01-17,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Arlington,7135 Flute Lane,17,1,,1,2,YES,42840,3570,7140,32130,Chevrolet,Silverado,2004,N
+CLM-00518,243226,2015-02-09,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,Springfield,4414 Solo Drive,21,3,,1,0,NO,87960,14660,14660,58640,Jeep,Wrangler,1999,Y
+CLM-00519,246435,2015-01-14,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,Hillsdale,2920 5th Ave,0,3,NO,1,0,NO,47800,4780,4780,38240,Jeep,Grand Cherokee,2009,N
+CLM-00520,582480,2015-02-02,Vehicle Theft,,Trivial Damage,Police,NY,Northbrook,2986 MLK Drive,9,1,NO,0,1,,3840,640,640,2560,Chevrolet,Tahoe,2014,N
+CLM-00521,345539,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Riverwood,1580 Maple Lane,1,1,NO,0,2,,77000,14000,7000,56000,Accura,RSX,2004,N
+CLM-00522,924318,2015-01-25,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Springfield,3706 Texas Hwy,22,1,YES,1,3,,88110,16020,16020,56070,Audi,A5,2003,N
+CLM-00523,726880,2015-02-13,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Northbend,9109 Britain Drive,20,4,NO,0,2,YES,47740,4340,4340,39060,Honda,Civic,2005,N
+CLM-00524,190588,2015-02-20,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Northbend,2290 4th Ave,9,3,YES,2,1,YES,58960,5360,10720,42880,Ford,F150,2004,N
+CLM-00525,246705,2015-01-08,Parked Car,,Minor Damage,Police,NC,Northbrook,4232 Britain Ridge,5,1,NO,1,2,,2160,480,240,1440,Toyota,Corolla,2004,N
+CLM-00526,619589,2015-02-28,Vehicle Theft,,Trivial Damage,Police,SC,Riverwood,6677 Andromedia Drive,12,1,YES,1,1,,6890,530,1060,5300,Jeep,Grand Cherokee,1997,N
+CLM-00527,164988,2015-02-12,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,Springfield,5868 Sky Hwy,6,3,NO,2,0,YES,78870,7170,14340,57360,Suburu,Legacy,2013,N
+CLM-00528,729534,2015-01-06,Vehicle Theft,,Trivial Damage,Police,SC,Columbus,3053 Lincoln Drive,8,1,NO,1,1,NO,2700,300,300,2100,Ford,F150,2013,N
+CLM-00529,505014,2015-02-15,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Riverwood,7041 Tree Ridge,14,1,,0,1,NO,75960,6330,6330,63300,Jeep,Grand Cherokee,2010,N
+CLM-00530,920826,2015-01-20,Single Vehicle Collision,Front Collision,Major Damage,Police,WV,Northbrook,7223 Embaracadero St,10,1,YES,1,3,,75570,6870,13740,54960,BMW,X5,2010,Y
+CLM-00531,534982,2015-01-03,Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,Columbus,8081 Flute Ridge,12,1,,2,3,YES,90240,15040,15040,60160,Chevrolet,Malibu,1995,N
+CLM-00532,110408,2015-01-26,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,SC,Springfield,8618 Texas Lane,12,1,,0,0,NO,80960,14720,7360,58880,Accura,MDX,2000,N
+CLM-00533,283052,2015-01-25,Multi-vehicle Collision,Front Collision,Total Loss,Other,VA,Riverwood,3508 Washington St,12,3,NO,1,3,YES,79080,6590,13180,59310,Mercedes,C300,2012,N
+CLM-00534,840806,2015-01-18,Vehicle Theft,,Minor Damage,,SC,Columbus,2193 4th Ridge,13,1,NO,0,3,NO,6820,1240,620,4960,Mercedes,ML350,2009,N
+CLM-00535,382394,2015-01-12,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,WV,Northbend,8897 Sky St,17,3,NO,1,2,YES,62590,5690,11380,45520,Nissan,Pathfinder,2006,N
+CLM-00536,876699,2015-01-15,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,Arlington,9611 Pine Ridge,14,1,NO,1,0,YES,52400,6550,6550,39300,Accura,MDX,2005,Y
+CLM-00537,871432,2015-01-10,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,WV,Arlington,7825 1st Ridge,3,3,,1,3,YES,63580,5780,11560,46240,Volkswagen,Jetta,2004,N
+CLM-00538,379882,2015-01-23,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,Riverwood,3039 Oak Hwy,18,3,YES,2,1,NO,61400,6140,6140,49120,Nissan,Ultima,1995,N
+CLM-00539,852002,2015-02-21,Parked Car,,Minor Damage,,VA,Northbend,8204 Pine Lane,5,1,YES,1,3,NO,4700,940,470,3290,Dodge,Neon,2007,Y
+CLM-00540,372891,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Fire,SC,Riverwood,9787 Andromedia Ave,19,1,NO,0,2,YES,74140,13480,13480,47180,BMW,X5,2015,N
+CLM-00541,689034,2015-01-06,Single Vehicle Collision,Front Collision,Major Damage,Other,VA,Hillsdale,9633 Rock Hwy,0,1,,2,2,NO,83160,6930,13860,62370,Volkswagen,Jetta,2011,N
+CLM-00542,743092,2015-02-18,Parked Car,,Trivial Damage,Police,NC,Arlington,6303 1st Drive,22,1,,0,2,YES,10790,1660,830,8300,Mercedes,E400,2013,N
+CLM-00543,599174,2015-02-17,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NC,Arlington,2014 Rock Ave,21,3,YES,1,3,NO,48070,8740,8740,30590,Saab,92x,2014,N
+CLM-00544,421092,2015-01-24,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,Northbrook,8983 Tree St,4,3,YES,0,0,YES,51030,5670,11340,34020,Suburu,Impreza,1996,N
+CLM-00545,349658,2015-01-21,Single Vehicle Collision,Front Collision,Minor Damage,Fire,VA,Arlington,6260 5th Lane,10,1,YES,0,1,,43280,0,5410,37870,Honda,Civic,1996,Y
+CLM-00546,811042,2015-02-03,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,Hillsdale,2725 Britain Ridge,5,1,,1,3,NO,76400,15280,7640,53480,Suburu,Forrestor,2003,N
+CLM-00547,505316,2015-01-07,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,VA,Hillsdale,3089 Oak Ridge,13,1,,0,2,,75460,13720,13720,48020,Audi,A5,2002,N
+CLM-00548,116645,2015-02-02,Multi-vehicle Collision,Side Collision,Major Damage,Other,OH,Northbrook,6206 3rd Ridge,18,3,YES,2,1,YES,69000,13800,6900,48300,Ford,F150,1995,Y
+CLM-00549,950880,2015-01-13,Vehicle Theft,,Minor Damage,Police,VA,Springfield,7240 5th Ridge,6,1,,1,2,NO,8640,1440,720,6480,Accura,TL,2008,N
+CLM-00550,788502,2015-02-28,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,Arlington,8100 3rd Ave,0,3,,2,1,,67210,12220,12220,42770,BMW,X6,1996,N
+CLM-00551,627486,2015-01-16,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NC,Arlington,3282 4th Lane,5,3,,0,3,NO,42500,4250,4250,34000,Volkswagen,Jetta,1999,N
+CLM-00552,498842,2015-02-01,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Arlington,3227 Maple Ave,8,1,YES,0,1,NO,86400,14400,7200,64800,Accura,RSX,2001,N
+CLM-00553,550294,2015-01-30,Vehicle Theft,,Minor Damage,Police,SC,Hillsdale,4264 Lincoln Ridge,5,1,YES,2,2,,4620,840,840,2940,Dodge,RAM,2009,Y
+CLM-00554,328387,2015-02-16,Parked Car,,Trivial Damage,Police,NC,Springfield,2215 Best Ave,9,1,YES,2,2,NO,6930,630,1260,5040,Honda,CRV,2013,N
+CLM-00555,540152,2015-01-07,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,Northbend,5363 Weaver Lane,10,3,YES,1,2,YES,41700,8340,8340,25020,Saab,95,2013,N
+CLM-00556,385932,2015-01-10,Single Vehicle Collision,Rear Collision,Major Damage,Other,NY,Northbrook,2397 Cherokee Ave,16,1,YES,2,1,NO,77330,14060,14060,49210,Volkswagen,Jetta,2014,Y
+CLM-00557,618682,2015-01-31,Vehicle Theft,,Trivial Damage,Police,WV,Arlington,9794 Embaracadero St,8,1,,2,3,YES,4950,900,450,3600,Ford,F150,2011,N
+CLM-00558,550930,2015-02-13,Vehicle Theft,,Minor Damage,Police,NC,Northbrook,1810 Elm Hwy,5,1,NO,0,2,YES,5160,860,860,3440,Accura,TL,2004,N
+CLM-00559,998192,2015-02-22,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,Riverwood,9603 Texas Lane,11,3,NO,2,1,,24570,2730,2730,19110,Saab,95,2006,Y
+CLM-00560,663938,2015-01-08,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Arlington,5650 Sky Drive,15,3,,1,0,,53680,4880,9760,39040,Toyota,Camry,2011,N
+CLM-00561,756870,2015-02-04,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,Columbus,9633 MLK Lane,23,3,YES,1,1,YES,42900,3900,3900,35100,Chevrolet,Malibu,2010,N
+CLM-00562,337158,2015-02-04,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,Arlington,4981 Flute Hwy,23,1,NO,0,0,NO,84100,16820,8410,58870,Ford,Escape,2009,Y
+CLM-00563,919875,2015-02-26,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Northbrook,9078 Francis Ridge,23,1,,1,3,,61560,6840,6840,47880,Ford,Fusion,2008,N
+CLM-00564,315631,2015-01-08,Single Vehicle Collision,Rear Collision,Minor Damage,Police,NY,Hillsdale,1381 Francis Ave,10,1,YES,0,0,,44240,5530,5530,33180,Dodge,RAM,1997,N
+CLM-00565,113464,2015-02-15,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,VA,Columbus,6435 Texas Ave,12,4,,2,3,YES,57700,11540,5770,40390,Jeep,Grand Cherokee,2002,N
+CLM-00566,556415,2015-01-14,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,Springfield,1248 MLK Ridge,4,1,NO,2,2,YES,108030,16620,16620,74790,Saab,92x,2002,N
+CLM-00567,250249,2015-01-12,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Riverwood,3323 1st Lane,16,1,NO,2,0,YES,54300,10860,5430,38010,Toyota,Highlander,2010,N
+CLM-00568,403776,2015-01-18,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,SC,Columbus,6971 Best Ridge,18,3,,1,2,,32280,5380,5380,21520,Ford,Fusion,2010,Y
+CLM-00569,396002,2015-01-15,Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,Riverwood,7488 Lincoln Lane,15,3,YES,1,1,NO,84600,16920,8460,59220,Chevrolet,Malibu,2007,N
+CLM-00570,976908,2015-02-24,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,Springfield,9007 Francis Hwy,8,1,NO,1,3,YES,69700,6970,6970,55760,BMW,3 Series,2008,N
+CLM-00571,509489,2015-02-07,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Springfield,1491 Francis Ridge,4,3,NO,0,1,NO,36400,3640,7280,25480,Volkswagen,Jetta,1998,N
+CLM-00572,485295,2015-02-22,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,Northbrook,3659 Oak Lane,20,3,NO,0,2,YES,37520,4690,4690,28140,Jeep,Wrangler,2010,N
+CLM-00573,361829,2015-01-19,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,Northbend,4176 Britain Hwy,1,3,NO,2,3,,79090,14380,14380,50330,Dodge,RAM,2014,N
+CLM-00574,603632,2015-02-28,Single Vehicle Collision,Rear Collision,Major Damage,Other,NY,Springfield,5189 Francis Drive,19,1,NO,0,2,YES,67770,7530,15060,45180,Mercedes,ML350,2013,Y
+CLM-00575,783494,2015-02-04,Single Vehicle Collision,Side Collision,Total Loss,Other,OH,Northbend,6515 Oak Lane,11,1,NO,1,0,NO,47400,9480,4740,33180,Chevrolet,Silverado,2004,Y
+CLM-00576,439049,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Other,SC,Northbend,7168 Andromedia Ridge,13,1,YES,0,2,,71100,7110,14220,49770,Audi,A3,2008,N
+CLM-00577,502634,2015-02-17,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,Springfield,7954 Tree Ridge,2,1,,2,2,NO,69400,13880,6940,48580,BMW,M5,2012,N
+CLM-00578,378588,2015-01-17,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,Northbrook,1956 Apache St,9,3,YES,2,1,,55000,5000,10000,40000,Saab,93,1996,Y
+CLM-00579,794731,2015-02-02,Multi-vehicle Collision,Rear Collision,Total Loss,Police,WV,Arlington,9918 Andromedia Drive,15,2,YES,1,3,YES,51090,7860,7860,35370,Toyota,Highlander,2003,N
+CLM-00580,641934,2015-02-12,Single Vehicle Collision,Side Collision,Major Damage,Fire,NY,Springfield,5499 Flute Ridge,23,1,,2,3,NO,64200,6420,19260,38520,Honda,Civic,2007,Y
+CLM-00581,113516,2015-01-04,Single Vehicle Collision,Front Collision,Total Loss,Other,NC,Riverwood,3311 2nd Drive,16,1,NO,2,0,YES,67320,12240,12240,42840,Ford,Fusion,2006,N
+CLM-00582,425631,2015-02-21,Multi-vehicle Collision,Side Collision,Major Damage,Other,NC,Arlington,7609 Rock St,21,4,YES,2,0,,76120,6920,13840,55360,Audi,A5,1999,N
+CLM-00583,542245,2015-01-23,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,SC,Hillsdale,4652 Flute Drive,21,2,YES,2,1,NO,85020,13080,13080,58860,Ford,Fusion,2010,N
+CLM-00584,512894,2015-02-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Northbrook,6853 Sky Hwy,3,3,NO,0,1,,68090,12380,12380,43330,Toyota,Corolla,2009,N
+CLM-00585,633090,2015-01-23,Parked Car,,Trivial Damage,Police,WV,Arlington,7780 Flute Lane,4,1,,1,2,NO,6030,670,670,4690,Nissan,Pathfinder,2007,N
+CLM-00586,464234,2015-02-10,Vehicle Theft,,Minor Damage,,OH,Springfield,1687 3rd Lane,17,1,,1,3,NO,5100,1020,510,3570,Chevrolet,Malibu,2000,N
+CLM-00587,290162,2015-01-10,Vehicle Theft,,Trivial Damage,Police,WV,Springfield,6378 Britain Ave,7,1,YES,1,3,YES,4590,510,510,3570,Volkswagen,Jetta,2013,N
+CLM-00588,638155,2015-02-12,Multi-vehicle Collision,Front Collision,Major Damage,Other,SC,Columbus,1306 Andromedia St,14,2,,1,2,NO,72400,7240,14480,50680,Chevrolet,Tahoe,1999,Y
+CLM-00589,911429,2015-02-21,Single Vehicle Collision,Front Collision,Major Damage,Fire,NY,Northbrook,3664 Francis Ridge,13,1,NO,2,3,NO,70900,14180,7090,49630,Mercedes,ML350,2002,N
+CLM-00590,106186,2015-01-18,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,Springfield,5985 Lincoln Lane,23,2,,2,3,YES,65100,6510,6510,52080,Saab,93,2011,N
+CLM-00591,311783,2015-02-28,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,PA,Hillsdale,3706 4th Hwy,23,3,,2,1,YES,64260,0,14280,49980,Ford,Escape,1999,N
+CLM-00592,528385,2015-01-19,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,Arlington,6603 Francis Hwy,16,1,,2,1,,79970,7270,21810,50890,Honda,CRV,1996,Y
+CLM-00593,228403,2015-01-11,Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,Northbrook,7069 4th Hwy,17,1,NO,2,0,,56610,6290,6290,44030,Chevrolet,Tahoe,1995,N
+CLM-00594,209177,2015-02-11,Single Vehicle Collision,Side Collision,Major Damage,Fire,VA,Northbrook,5093 Flute Lane,9,1,YES,1,1,,84590,7690,7690,69210,Toyota,Highlander,2000,Y
+CLM-00595,497929,2015-01-09,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,Hillsdale,5894 Flute Drive,13,3,NO,2,1,YES,66780,7420,14840,44520,Mercedes,ML350,1996,N
+CLM-00596,735844,2015-01-20,Single Vehicle Collision,Rear Collision,Major Damage,Police,NC,Springfield,8459 Apache Ave,13,1,YES,1,2,YES,58500,0,6500,52000,Ford,Escape,2001,N
+CLM-00597,710741,2015-02-26,Parked Car,,Trivial Damage,Police,WV,Columbus,7447 Lincoln Ridge,3,1,,2,0,NO,5000,500,500,4000,Dodge,RAM,2003,N
+CLM-00598,276804,2015-02-02,Parked Car,,Trivial Damage,Police,PA,Springfield,1821 Andromedia Ridge,3,1,,2,1,,5000,500,1000,3500,Mercedes,E400,2008,Y
+CLM-00599,507545,2015-01-04,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Columbus,6859 Flute Ridge,16,3,,1,3,YES,54450,6050,12100,36300,Saab,92x,2007,N
+CLM-00600,485642,2015-02-19,Multi-vehicle Collision,Front Collision,Major Damage,Police,WV,Northbrook,4175 Elm Ridge,12,3,NO,1,3,,61920,6880,6880,48160,Saab,93,2003,N
+CLM-00601,796375,2015-01-12,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,VA,Hillsdale,5007 Oak St,4,1,,1,2,NO,43700,4370,4370,34960,Nissan,Pathfinder,2007,Y
+CLM-00602,171183,2015-01-24,Single Vehicle Collision,Front Collision,Minor Damage,Other,NC,Riverwood,5790 Flute Ridge,3,1,,2,0,,64080,7120,7120,49840,Ford,Escape,1997,N
+CLM-00603,110084,2015-02-17,Single Vehicle Collision,Rear Collision,Total Loss,Other,SC,Hillsdale,8704 Britain Lane,0,1,NO,2,1,,55000,10000,10000,35000,Volkswagen,Jetta,2008,Y
+CLM-00604,714784,2015-01-13,Vehicle Theft,,Trivial Damage,Police,WV,Columbus,7816 MLK Lane,19,1,NO,2,3,,4400,0,550,3850,Toyota,Camry,2000,N
+CLM-00605,143924,2015-02-28,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,Hillsdale,3618 Maple Lane,15,2,,0,1,YES,71640,5970,11940,53730,Toyota,Highlander,2008,N
+CLM-00606,996850,2015-01-03,Single Vehicle Collision,Rear Collision,Minor Damage,Other,NY,Arlington,7705 Lincoln Drive,6,1,NO,1,0,NO,61740,6860,6860,48020,Accura,MDX,1997,N
+CLM-00607,284834,2015-02-05,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,SC,Springfield,8602 Washington Ridge,3,1,,0,3,,57500,5750,5750,46000,Audi,A3,2010,N
+CLM-00608,830878,2015-01-01,Parked Car,,Minor Damage,Police,NY,Springfield,2832 Andromedia Lane,17,1,YES,0,0,,8700,870,1740,6090,Accura,RSX,2003,N
+CLM-00609,270208,2015-01-06,Multi-vehicle Collision,Front Collision,Total Loss,Police,VA,Riverwood,9760 4th Hwy,4,4,NO,2,1,,77100,15420,7710,53970,Volkswagen,Jetta,1996,N
+CLM-00610,407958,2015-02-03,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,Springfield,2509 Rock Drive,14,1,NO,2,0,YES,59400,6600,6600,46200,Dodge,Neon,1995,N
+CLM-00611,832300,2015-02-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Northbrook,2063 Weaver St,3,3,NO,1,0,NO,54890,9980,4990,39920,Toyota,Corolla,2006,N
+CLM-00612,927205,2015-02-16,Multi-vehicle Collision,Front Collision,Minor Damage,Other,WV,Columbus,3818 Texas Ridge,4,3,,2,1,,74030,6730,13460,53840,Chevrolet,Tahoe,2005,N
+CLM-00613,655356,2015-02-25,Single Vehicle Collision,Rear Collision,Total Loss,Other,NY,Columbus,3929 Elm Ave,13,1,,1,2,YES,61490,11180,11180,39130,BMW,X5,1998,N
+CLM-00614,831053,2015-01-21,Multi-vehicle Collision,Front Collision,Minor Damage,Police,SC,Northbrook,9911 Britain Lane,23,3,NO,0,2,YES,79560,6630,13260,59670,Volkswagen,Passat,2003,N
+CLM-00615,432740,2015-01-28,Parked Car,,Minor Damage,Police,NY,Northbend,3246 Britain Ridge,3,1,,0,1,NO,4900,490,490,3920,Toyota,Camry,2010,N
+CLM-00616,893853,2015-02-27,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,Springfield,2696 Cherokee Ridge,0,3,,1,0,NO,77770,14140,14140,49490,Nissan,Pathfinder,2000,N
+CLM-00617,594988,2015-02-10,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,Columbus,5249 4th Ave,14,2,,2,2,,74700,7470,14940,52290,Nissan,Maxima,2007,Y
+CLM-00618,979544,2015-01-18,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,Arlington,4721 Cherokee Hwy,14,2,NO,2,2,,40600,4060,4060,32480,Volkswagen,Passat,2010,N
+CLM-00619,191891,2015-01-13,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Springfield,8212 Flute Ridge,22,1,,1,0,,45270,10060,10060,25150,Jeep,Wrangler,2006,N
+CLM-00620,831479,2015-01-31,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Springfield,3592 MLK Ridge,17,3,NO,0,3,,47080,4280,8560,34240,Saab,93,2006,N
+CLM-00621,714346,2015-01-15,Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,Hillsdale,6494 4th Ave,14,1,,0,0,NO,40700,4070,4070,32560,Volkswagen,Passat,2000,Y
+CLM-00622,326289,2015-02-13,Single Vehicle Collision,Side Collision,Minor Damage,Police,NY,Riverwood,6608 Apache Lane,2,1,,2,1,YES,34650,6300,3150,25200,Ford,F150,1996,N
+CLM-00623,944537,2015-02-13,Parked Car,,Trivial Damage,Police,WV,Riverwood,1553 Lincoln St,4,1,,2,0,,3200,400,400,2400,Jeep,Grand Cherokee,2012,N
+CLM-00624,779156,2015-01-03,Single Vehicle Collision,Rear Collision,Major Damage,Fire,VA,Hillsdale,7628 4th Lane,2,1,,1,1,NO,78980,7180,14360,57440,Saab,92x,1997,Y
+CLM-00625,856153,2015-01-13,Parked Car,,Minor Damage,,SC,Riverwood,3028 5th St,10,1,YES,1,0,NO,6160,560,1120,4480,Nissan,Ultima,1996,N
+CLM-00626,473338,2015-02-14,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NC,Northbrook,8949 Rock Hwy,11,1,YES,1,1,NO,85250,15500,7750,62000,Mercedes,E400,1999,N
+CLM-00627,521694,2015-01-20,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,Springfield,9751 Tree St,1,4,YES,1,2,NO,72840,12140,6070,54630,Dodge,Neon,2010,N
+CLM-00628,136520,2015-01-18,Parked Car,,Trivial Damage,Police,WV,Northbend,4702 Texas Drive,20,1,,0,2,NO,6050,1100,1100,3850,Toyota,Camry,2010,N
+CLM-00629,730819,2015-01-03,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,Riverwood,2757 4th Hwy,10,1,NO,2,3,YES,87890,15980,7990,63920,BMW,X6,2014,Y
+CLM-00630,912665,2015-03-01,Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,Northbrook,6678 Weaver Drive,20,2,,0,2,YES,60500,11000,5500,44000,Ford,F150,1999,Y
+CLM-00631,469966,2015-01-01,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,Columbus,8667 Weaver Lane,10,3,,2,1,NO,88220,16040,16040,56140,Chevrolet,Malibu,2008,N
+CLM-00632,952300,2015-01-29,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,Springfield,4931 Maple Drive,2,2,NO,1,2,NO,53680,9760,4880,39040,Accura,MDX,2004,N
+CLM-00633,322609,2015-01-10,Single Vehicle Collision,Front Collision,Minor Damage,Fire,VA,Springfield,3808 5th Ave,19,1,NO,0,2,NO,53800,5380,5380,43040,Accura,MDX,2006,N
+CLM-00634,890280,2015-01-29,Single Vehicle Collision,Rear Collision,Major Damage,Police,NY,Columbus,1725 Solo Lane,10,1,YES,1,2,NO,54360,4530,9060,40770,Mercedes,E400,1995,Y
+CLM-00635,431583,2015-02-20,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,Arlington,8097 Maple Lane,14,1,YES,0,3,YES,54340,9880,4940,39520,Toyota,Camry,2001,N
+CLM-00636,155912,2015-01-21,Parked Car,,Trivial Damage,,SC,Columbus,3320 5th Hwy,5,1,,0,2,YES,2860,520,260,2080,Chevrolet,Tahoe,1997,Y
+CLM-00637,110143,2015-01-18,Vehicle Theft,,Minor Damage,Police,WV,Hillsdale,9573 2nd Ave,8,1,YES,2,1,YES,5490,0,1220,4270,Saab,95,1999,N
+CLM-00638,808544,2015-01-09,Vehicle Theft,,Trivial Damage,Police,WV,Northbend,8336 1st Ridge,4,1,NO,0,2,,7370,670,1340,5360,Suburu,Impreza,1997,N
+CLM-00639,409074,2015-01-13,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NC,Columbus,3998 4th Hwy,4,3,,1,0,NO,50800,5080,5080,40640,Audi,A3,1997,Y
+CLM-00640,824728,2015-02-13,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,VA,Northbrook,3966 Oak Hwy,20,2,,1,1,,41520,5190,5190,31140,Nissan,Ultima,2014,N
+CLM-00641,606037,2015-01-08,Single Vehicle Collision,Side Collision,Total Loss,Police,NY,Riverwood,7601 Andromedia Lane,18,1,,2,3,YES,89650,8150,16300,65200,Dodge,RAM,2005,N
+CLM-00642,636843,2015-02-17,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NY,Hillsdale,5160 2nd Hwy,0,3,NO,0,3,NO,39690,0,0,39690,Suburu,Legacy,1998,N
+CLM-00643,111874,2015-01-15,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Springfield,3288 Tree Lane,1,1,,2,0,NO,62260,5660,5660,50940,Saab,92x,1995,N
+CLM-00644,439844,2015-01-24,Single Vehicle Collision,Side Collision,Major Damage,Police,NC,Hillsdale,5874 1st Hwy,17,1,NO,0,1,YES,51920,9440,4720,37760,Audi,A3,2001,Y
+CLM-00645,463513,2015-02-28,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,Riverwood,6467 Best Ave,23,1,,2,2,,53460,9720,4860,38880,Volkswagen,Jetta,2009,N
+CLM-00646,577858,2015-02-16,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Arlington,6309 5th Ave,4,3,YES,2,1,YES,57100,5710,5710,45680,Honda,CRV,2014,N
+CLM-00647,607351,2015-02-09,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NY,Springfield,8212 Rock Ave,0,3,NO,2,3,,77440,14080,7040,56320,Dodge,Neon,2004,N
+CLM-00648,682754,2015-01-24,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Riverwood,4107 MLK Ridge,11,1,NO,1,2,NO,68300,6830,13660,47810,Suburu,Forrestor,2003,N
+CLM-00649,757352,2015-02-11,Parked Car,,Trivial Damage,,NY,Arlington,4558 3rd Hwy,4,1,,0,2,,5060,460,920,3680,Honda,CRV,2012,N
+CLM-00650,307469,2015-01-27,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,Columbus,1762 Maple Hwy,0,3,,0,2,,59400,6600,13200,39600,Dodge,RAM,1995,Y
+CLM-00651,526296,2015-01-19,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,Springfield,5532 Francis Lane,2,3,NO,0,2,,69930,0,15540,54390,Ford,Escape,2013,Y
+CLM-00652,658816,2015-02-20,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,Springfield,6158 Sky Ridge,11,3,YES,1,1,NO,77700,7770,15540,54390,Jeep,Wrangler,2008,N
+CLM-00653,913337,2015-01-10,Multi-vehicle Collision,Front Collision,Major Damage,Other,SC,Northbend,9214 Elm Ridge,23,3,NO,2,1,,68750,12500,12500,43750,Audi,A5,2007,Y
+CLM-00654,488464,2015-02-21,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,Riverwood,1833 Solo Ave,17,3,NO,1,3,YES,91080,16560,16560,57960,Jeep,Wrangler,1995,N
+CLM-00655,480094,2015-02-01,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,Columbus,1953 Sky Lane,22,1,NO,1,3,YES,48360,4030,8060,36270,Audi,A5,2000,N
+CLM-00656,263108,2015-02-25,Single Vehicle Collision,Side Collision,Major Damage,Other,WV,Hillsdale,6834 1st Drive,18,1,YES,1,1,YES,95000,9500,9500,76000,Ford,F150,2001,N
+CLM-00657,298412,2015-02-24,Vehicle Theft,,Trivial Damage,Police,SC,Arlington,9562 4th Ridge,8,1,,1,3,NO,3900,780,390,2730,Ford,F150,2010,N
+CLM-00658,261905,2015-02-21,Multi-vehicle Collision,Front Collision,Minor Damage,Other,NC,Riverwood,4835 Britain Ridge,15,3,,0,3,NO,59400,11880,5940,41580,Jeep,Grand Cherokee,2010,Y
+CLM-00659,674485,2015-01-08,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NC,Springfield,8548 Cherokee Ridge,20,1,,2,0,,60210,6690,6690,46830,Nissan,Maxima,2013,N
+CLM-00660,223404,2015-01-10,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,SC,Columbus,2352 MLK Drive,4,1,,0,3,YES,43600,8720,4360,30520,Suburu,Legacy,2010,N
+CLM-00661,991480,2015-02-14,Multi-vehicle Collision,Front Collision,Total Loss,Police,SC,Northbrook,9734 2nd Ridge,10,3,NO,0,0,NO,62800,6280,12560,43960,Jeep,Wrangler,2012,N
+CLM-00662,804219,2015-02-26,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,VA,Springfield,3122 Apache Drive,10,1,YES,1,3,,59500,11900,5950,41650,Dodge,Neon,2006,N
+CLM-00663,483088,2015-01-30,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,Northbend,9816 Britain St,22,3,YES,1,0,,53460,5940,5940,41580,Honda,CRV,2009,N
+CLM-00664,100804,2015-01-07,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NY,Northbend,8214 Flute St,15,3,NO,0,1,NO,41690,7580,7580,26530,Saab,95,1999,N
+CLM-00665,941807,2015-02-27,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Arlington,6259 Lincoln Hwy,13,1,,0,1,YES,63100,6310,12620,44170,Accura,TL,2000,N
+CLM-00666,593466,2015-02-13,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,Arlington,4492 Andromedia Ave,23,1,NO,2,1,,62880,5240,10480,47160,Mercedes,E400,2007,Y
+CLM-00667,437442,2015-02-02,Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,Northbend,6179 3rd Ridge,18,3,,2,2,YES,75400,17400,11600,46400,BMW,X6,2006,Y
+CLM-00668,942106,2015-02-27,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Arlington,3799 Embaracadero Drive,7,1,YES,1,1,NO,46200,4200,8400,33600,Audi,A5,1997,N
+CLM-00669,794951,2015-02-02,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,Hillsdale,5071 1st Lane,21,1,NO,2,2,YES,58500,5850,5850,46800,Toyota,Camry,2010,N
+CLM-00670,182450,2015-01-17,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,Columbus,6574 4th Drive,15,3,NO,1,3,NO,66240,11040,11040,44160,Nissan,Maxima,2003,N
+CLM-00671,730973,2015-01-12,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,PA,Hillsdale,2711 Britain Ave,17,3,,1,3,,65440,8180,8180,49080,Jeep,Wrangler,2014,N
+CLM-00672,687755,2015-01-20,Single Vehicle Collision,Front Collision,Minor Damage,Fire,SC,Hillsdale,4214 MLK Ridge,2,1,NO,0,3,,64200,10700,10700,42800,Ford,F150,2002,N
+CLM-00673,757644,2015-02-05,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Northbend,7976 Britain Drive,1,3,YES,1,0,NO,32320,4040,4040,24240,Dodge,RAM,2000,N
+CLM-00674,998865,2015-01-20,Single Vehicle Collision,Rear Collision,Major Damage,Police,SC,Northbend,4995 Weaver Ridge,3,1,,0,1,,33480,3720,3720,26040,Dodge,Neon,2011,N
+CLM-00675,944953,2015-02-24,Vehicle Theft,,Trivial Damage,,VA,Northbend,1515 Embaracadero St,0,1,NO,1,1,YES,4320,480,960,2880,Toyota,Corolla,1995,N
+CLM-00676,386429,2015-02-21,Vehicle Theft,,Trivial Damage,Police,SC,Hillsdale,2968 Andromedia Ave,4,1,NO,0,2,,4200,840,420,2940,Jeep,Wrangler,2008,N
+CLM-00677,108270,2015-02-11,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Arlington,9236 2nd Hwy,11,3,YES,2,0,NO,57970,10540,5270,42160,Saab,93,2006,N
+CLM-00678,205134,2015-01-24,Parked Car,,Trivial Damage,,NY,Arlington,9639 Britain Ridge,4,1,YES,1,2,,4320,0,960,3360,Saab,93,2003,N
+CLM-00679,749325,2015-01-06,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,SC,Columbus,9422 Washington Ridge,11,3,,0,2,,69300,13860,6930,48510,Ford,Escape,2010,N
+CLM-00680,774303,2015-01-15,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NC,Riverwood,1213 4th Lane,4,3,NO,2,2,NO,32480,4060,4060,24360,Dodge,Neon,1997,N
+CLM-00681,698470,2015-02-22,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,Hillsdale,3872 5th Drive,20,1,,2,2,YES,60480,6720,6720,47040,Accura,TL,2001,N
+CLM-00682,719989,2015-01-21,Parked Car,,Trivial Damage,Police,NC,Springfield,9397 5th Hwy,22,1,YES,0,0,NO,2640,440,440,1760,Honda,CRV,2015,N
+CLM-00683,309323,2015-02-03,Parked Car,,Trivial Damage,Police,SC,Northbend,8876 1st St,4,1,NO,0,3,NO,6050,550,1100,4400,Volkswagen,Passat,2009,N
+CLM-00684,444035,2015-02-16,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NC,Hillsdale,3397 5th Ave,21,4,NO,0,0,NO,42700,4270,4270,34160,Saab,92x,1995,Y
+CLM-00685,431478,2015-02-07,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,SC,Hillsdale,3263 Pine Ridge,20,1,YES,1,3,NO,40260,3660,7320,29280,Accura,MDX,1996,Y
+CLM-00686,797634,2015-01-14,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NY,Columbus,8639 5th Hwy,7,1,NO,2,0,,50000,5000,10000,35000,Chevrolet,Silverado,2008,N
+CLM-00687,284836,2015-02-02,Parked Car,,Trivial Damage,,NY,Riverwood,5743 4th Ridge,4,1,NO,0,1,NO,3840,640,320,2880,Saab,92x,1998,N
+CLM-00688,238196,2015-02-06,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,WV,Springfield,3555 Francis Ridge,17,3,,0,2,,95900,13700,20550,61650,Saab,95,1999,N
+CLM-00689,885789,2015-01-15,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,Northbend,4939 Oak Lane,20,3,YES,1,3,YES,56160,6240,12480,37440,Audi,A5,2002,N
+CLM-00690,287436,2015-02-24,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,Riverwood,3100 Best St,10,1,NO,2,3,,63030,5730,11460,45840,Saab,92x,1996,N
+CLM-00691,496067,2015-01-07,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,Riverwood,3029 5th Ave,8,1,YES,2,2,NO,63470,5770,11540,46160,BMW,X6,1999,N
+CLM-00692,206004,2015-02-04,Single Vehicle Collision,Front Collision,Major Damage,Police,WV,Columbus,8941 Solo Ridge,6,1,,0,2,NO,44440,8080,4040,32320,BMW,X6,2007,Y
+CLM-00693,153027,2015-02-04,Parked Car,,Minor Damage,Police,WV,Northbrook,4447 Francis Hwy,4,1,YES,1,1,NO,6600,1200,1200,4200,Jeep,Grand Cherokee,2005,N
+CLM-00694,469426,2015-01-25,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,Northbrook,7701 Tree St,17,3,NO,2,0,YES,77200,9650,9650,57900,Ford,Escape,1996,N
+CLM-00695,654974,2015-02-25,Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,Springfield,4653 Pine St,15,3,,0,0,YES,57000,0,11400,45600,Audi,A3,2013,N
+CLM-00696,943425,2015-02-27,Vehicle Theft,,Trivial Damage,Police,WV,Riverwood,8742 4th St,9,1,NO,2,1,NO,2700,300,300,2100,Honda,Accord,2006,N
+CLM-00697,641845,2015-02-11,Single Vehicle Collision,Rear Collision,Total Loss,Police,WV,Hillsdale,7316 Texas Ave,17,1,,2,1,YES,47300,4300,8600,34400,Volkswagen,Jetta,2006,N
+CLM-00698,794534,2015-01-04,Single Vehicle Collision,Rear Collision,Major Damage,Other,VA,Arlington,2950 MLK Ave,13,1,,2,3,,55110,5010,10020,40080,Nissan,Maxima,2002,N
+CLM-00699,357808,2015-01-26,Vehicle Theft,,Trivial Damage,Police,SC,Springfield,8233 Tree Drive,5,1,YES,1,0,NO,4320,480,480,3360,Mercedes,E400,2002,N
+CLM-00700,536052,2015-03-01,Multi-vehicle Collision,Front Collision,Total Loss,Police,VA,Arlington,4642 Rock Ridge,23,3,YES,2,2,,68760,11460,5730,51570,Saab,95,1998,Y
+CLM-00701,873384,2015-02-06,Multi-vehicle Collision,Front Collision,Major Damage,Other,WV,Arlington,7733 Britain Lane,1,2,NO,2,1,,74400,14880,7440,52080,BMW,M5,2003,Y
+CLM-00702,790225,2015-02-09,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NY,Hillsdale,2753 Cherokee Ave,17,4,NO,2,1,NO,35300,3530,3530,28240,Mercedes,E400,1996,Y
+CLM-00703,587498,2015-02-05,Parked Car,,Minor Damage,,NY,Springfield,3995 Lincoln Hwy,3,1,YES,1,3,,2640,480,480,1680,Volkswagen,Passat,2000,N
+CLM-00704,639027,2015-01-03,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Columbus,4095 MLK St,17,3,,1,1,NO,60190,4630,9260,46300,Mercedes,ML350,2014,Y
+CLM-00705,217899,2015-02-24,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NY,Northbend,5782 Rock Drive,23,3,YES,1,3,NO,41580,3780,7560,30240,Chevrolet,Malibu,2015,Y
+CLM-00706,589094,2015-01-14,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Columbus,2900 Sky Drive,13,1,YES,0,0,NO,58500,11700,0,46800,Accura,MDX,1995,Y
+CLM-00707,458829,2015-01-08,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Riverwood,1515 Pine Lane,17,1,YES,2,3,YES,79320,13220,6610,59490,Nissan,Ultima,1997,N
+CLM-00708,626208,2015-02-14,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Arlington,4876 Washington Drive,2,1,YES,0,2,,82610,7510,7510,67590,Ford,Escape,2002,Y
+CLM-00709,315041,2015-01-23,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Hillsdale,5779 2nd Lane,23,3,NO,1,3,,78600,13100,19650,45850,Dodge,RAM,2004,Y
+CLM-00710,283267,2015-01-05,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,SC,Columbus,6706 Francis Drive,17,1,NO,1,2,,51390,5710,5710,39970,Volkswagen,Jetta,2007,Y
+CLM-00711,442494,2015-02-19,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,NC,Springfield,6384 5th Ridge,3,1,NO,1,0,NO,70200,7020,7020,56160,Ford,F150,2012,Y
+CLM-00712,159243,2015-02-07,Parked Car,,Minor Damage,,SC,Riverwood,3006 Lincoln Ridge,16,1,NO,2,1,NO,4900,490,1470,2940,Jeep,Wrangler,2015,N
+CLM-00713,669800,2015-02-07,Multi-vehicle Collision,Side Collision,Major Damage,Other,PA,Hillsdale,5352 Lincoln Drive,13,3,,1,3,NO,66480,5540,11080,49860,Saab,92x,2012,Y
+CLM-00714,520179,2015-01-20,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,Riverwood,6110 Rock Ridge,8,1,NO,2,1,NO,50380,4580,9160,36640,Chevrolet,Tahoe,2007,Y
+CLM-00715,607974,2015-02-18,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,Columbus,7797 Tree Ridge,23,1,YES,0,2,,64350,9900,9900,44550,Mercedes,E400,1998,N
+CLM-00716,465065,2015-01-11,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NC,Springfield,4910 1st Lane,15,3,YES,2,3,YES,55400,5540,11080,38780,Chevrolet,Silverado,2004,Y
+CLM-00717,369941,2015-01-22,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,Columbus,8766 Lincoln Lane,3,1,NO,2,2,YES,49900,4990,9980,34930,Dodge,Neon,1998,N
+CLM-00718,447226,2015-02-23,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,Northbrook,6399 Oak Drive,4,3,NO,0,3,YES,74880,12480,12480,49920,Accura,TL,2000,N
+CLM-00719,831668,2015-01-15,Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,Northbend,3127 Flute St,8,1,YES,0,0,YES,105820,16280,16280,73260,Audi,A3,2002,N
+CLM-00720,922937,2015-02-20,Vehicle Theft,,Trivial Damage,Police,PA,Northbend,8920 Best Ave,21,1,NO,1,0,YES,7150,1300,650,5200,Volkswagen,Jetta,2003,N
+CLM-00721,640474,2015-01-19,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,Northbrook,7314 Tree Drive,23,1,YES,0,0,NO,55800,11160,11160,33480,Dodge,RAM,2004,N
+CLM-00722,153298,2015-01-10,Parked Car,,Trivial Damage,,NY,Riverwood,8872 Oak Ridge,8,1,,1,3,YES,5830,1060,1060,3710,Dodge,RAM,2015,N
+CLM-00723,334749,2015-01-16,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,WV,Riverwood,5022 1st St,21,1,YES,2,1,NO,85900,17180,17180,51540,Suburu,Forrestor,2005,Y
+CLM-00724,221283,2015-02-12,Parked Car,,Minor Damage,Police,OH,Columbus,3423 Francis Ave,5,1,NO,2,3,NO,7110,790,1580,4740,Accura,MDX,2005,N
+CLM-00725,961496,2015-01-23,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,Columbus,9529 4th Drive,12,3,NO,0,0,YES,36960,6720,3360,26880,Chevrolet,Tahoe,2007,N
+CLM-00726,804751,2015-02-13,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,VA,Northbrook,1818 Tree St,7,3,,2,0,YES,64400,6440,6440,51520,Dodge,Neon,1997,N
+CLM-00727,369226,2015-01-27,Parked Car,,Minor Damage,,NC,Northbend,4431 Rock St,0,1,NO,1,3,YES,1920,480,0,1440,Chevrolet,Tahoe,2011,N
+CLM-00728,691115,2015-02-14,Single Vehicle Collision,Rear Collision,Major Damage,Police,SC,Northbend,4782 Sky Lane,14,1,YES,0,1,YES,86130,15660,7830,62640,Suburu,Legacy,2009,Y
+CLM-00729,713172,2015-02-01,Single Vehicle Collision,Side Collision,Major Damage,Fire,VA,Northbrook,7112 Weaver Ave,13,1,,2,3,,82170,14940,7470,59760,Chevrolet,Silverado,1995,Y
+CLM-00730,621756,2015-02-23,Single Vehicle Collision,Front Collision,Major Damage,Fire,WV,Hillsdale,4020 Best Drive,1,1,,1,0,YES,50300,10060,5030,35210,Suburu,Legacy,1999,Y
+CLM-00731,615116,2015-01-20,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,Riverwood,2037 5th Drive,23,1,NO,0,0,NO,44200,4420,8840,30940,Suburu,Forrestor,1997,N
+CLM-00732,947598,2015-01-08,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,VA,Northbrook,4699 Texas Ridge,1,1,,2,2,YES,66660,6060,6060,54540,Toyota,Highlander,2006,N
+CLM-00733,658002,2015-02-23,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,Riverwood,1832 Elm Hwy,9,1,YES,2,3,NO,78320,7120,14240,56960,Saab,92x,2007,N
+CLM-00734,374545,2015-02-04,Single Vehicle Collision,Rear Collision,Total Loss,Fire,WV,Columbus,5226 Maple St,3,1,,0,1,NO,105040,16160,16160,72720,Dodge,RAM,1999,N
+CLM-00735,805806,2015-02-09,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,Hillsdale,3771 4th St,0,1,NO,2,1,,50700,5070,5070,40560,Accura,RSX,2006,N
+CLM-00736,235097,2015-02-18,Multi-vehicle Collision,Front Collision,Total Loss,Fire,WV,Northbend,8701 5th Lane,13,3,NO,1,1,NO,51210,11380,5690,34140,Jeep,Wrangler,2015,N
+CLM-00737,290971,2015-02-10,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Hillsdale,7574 4th St,18,3,NO,2,1,,51840,8640,8640,34560,Volkswagen,Jetta,2001,N
+CLM-00738,180286,2015-01-20,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NC,Riverwood,1989 Solo Lane,17,3,,2,3,YES,52800,5280,5280,42240,Nissan,Pathfinder,2006,N
+CLM-00739,662088,2015-01-27,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,Springfield,6331 MLK Ave,11,1,,0,0,YES,55200,9200,13800,32200,Honda,Civic,1998,N
+CLM-00740,884365,2015-01-21,Vehicle Theft,,Minor Damage,,WV,Riverwood,8453 Elm St,0,1,YES,0,3,NO,9100,1400,1400,6300,Chevrolet,Malibu,2003,N
+CLM-00741,178081,2015-02-18,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,WV,Riverwood,1422 Flute Ave,14,3,,1,3,,67600,13520,6760,47320,Suburu,Legacy,2007,N
+CLM-00742,507452,2015-02-26,Single Vehicle Collision,Rear Collision,Minor Damage,Other,NC,Columbus,5058 4th Lane,4,1,NO,1,2,NO,40800,6800,6800,27200,BMW,X5,2004,N
+CLM-00743,990624,2015-01-29,Multi-vehicle Collision,Side Collision,Major Damage,Other,WV,Springfield,3098 Oak Lane,2,3,NO,2,1,YES,84500,13000,13000,58500,Volkswagen,Passat,2011,Y
+CLM-00744,892148,2015-02-08,Multi-vehicle Collision,Front Collision,Major Damage,Other,SC,Arlington,9103 MLK Lane,9,3,YES,2,2,YES,71610,13020,6510,52080,Toyota,Highlander,2012,Y
+CLM-00745,398683,2015-01-19,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,Arlington,8624 Francis Ave,21,4,,0,2,NO,60600,6060,12120,42420,Dodge,RAM,2007,Y
+CLM-00746,605100,2015-02-08,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NC,Riverwood,2905 Embaracadero Drive,0,3,NO,2,3,NO,81240,6770,20310,54160,Mercedes,C300,2008,Y
+CLM-00747,143109,2015-01-07,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,Springfield,3443 Maple Ridge,17,3,YES,0,3,NO,29300,2930,5860,20510,Audi,A3,2010,N
+CLM-00748,230223,2015-02-13,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,Northbend,1618 Maple Hwy,21,3,NO,1,1,YES,76450,6950,13900,55600,Dodge,RAM,1995,N
+CLM-00749,769602,2015-02-15,Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,Northbrook,3751 Tree Hwy,20,3,YES,0,3,,49400,9880,4940,34580,Jeep,Wrangler,2010,N
+CLM-00750,420815,2015-02-14,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,SC,Northbrook,6848 Elm Hwy,5,1,NO,0,1,,90530,16460,16460,57610,Ford,F150,2003,N
+CLM-00751,973546,2015-01-31,Vehicle Theft,,Minor Damage,Police,WV,Northbrook,4237 4th St,7,1,NO,2,1,NO,8030,1460,730,5840,Mercedes,E400,1995,N
+CLM-00752,608039,2015-01-28,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,Columbus,6581 Rock Ridge,6,1,NO,0,0,YES,63900,6390,6390,51120,Accura,TL,2001,N
+CLM-00753,250162,2015-03-01,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NC,Northbend,7236 Apache Lane,2,4,YES,0,2,NO,38640,4830,4830,28980,Chevrolet,Tahoe,1997,N
+CLM-00754,786432,2015-01-10,Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,Columbus,3846 4th Hwy,19,3,,1,1,YES,41490,9220,4610,27660,Mercedes,E400,2004,N
+CLM-00755,445195,2015-02-25,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,VA,Springfield,5028 Maple Ridge,21,3,YES,2,0,,79090,14380,7190,57520,Nissan,Maxima,2012,N
+CLM-00756,938634,2015-01-30,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,Springfield,7426 Rock Drive,3,3,,0,0,,87900,17580,8790,61530,Dodge,Neon,1995,N
+CLM-00757,482495,2015-02-06,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Columbus,5771 Best St,22,1,,2,3,YES,53400,5340,5340,42720,Jeep,Wrangler,1996,N
+CLM-00758,796005,2015-02-08,Single Vehicle Collision,Rear Collision,Total Loss,Fire,SC,Springfield,9818 Cherokee Ave,22,1,YES,2,3,NO,52030,9460,9460,33110,Accura,MDX,1995,N
+CLM-00759,910604,2015-01-13,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,Arlington,7819 2nd Ave,16,1,NO,0,2,NO,82060,14920,7460,59680,Saab,93,2005,N
+CLM-00760,327488,2015-01-18,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Northbrook,1331 Elm Ridge,0,1,,0,3,,48360,8060,8060,32240,Nissan,Maxima,1997,N
+CLM-00761,715202,2015-03-01,Multi-vehicle Collision,Side Collision,Minor Damage,Other,NY,Hillsdale,9240 Britain Ave,1,3,,2,1,,52290,5810,11620,34860,Nissan,Maxima,1997,N
+CLM-00762,648852,2015-02-02,Multi-vehicle Collision,Rear Collision,Major Damage,Police,SC,Arlington,6668 Andromedia Ridge,19,3,YES,0,3,,68200,12400,12400,43400,Jeep,Wrangler,2007,Y
+CLM-00763,516959,2015-01-20,Multi-vehicle Collision,Rear Collision,Major Damage,Other,NY,Columbus,5276 2nd Lane,0,3,,2,1,NO,60750,13500,6750,40500,Jeep,Wrangler,2015,Y
+CLM-00764,984456,2015-01-24,Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,Arlington,2889 Weaver St,2,3,,0,2,YES,65560,11920,11920,41720,Volkswagen,Passat,2015,Y
+CLM-00765,801331,2015-01-04,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Arlington,1879 4th Lane,5,3,YES,1,3,NO,70290,12780,12780,44730,Mercedes,C300,2012,N
+CLM-00766,786103,2015-01-17,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,Columbus,5499 Elm Hwy,6,1,,2,0,YES,45000,5000,5000,35000,Suburu,Forrestor,2003,N
+CLM-00767,684193,2015-02-04,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,VA,Riverwood,8822 Sky St,21,3,YES,2,1,,61800,12360,6180,43260,Suburu,Impreza,2007,N
+CLM-00768,247505,2015-02-14,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Columbus,4254 Best Ridge,11,3,YES,0,0,NO,64570,5870,11740,46960,Jeep,Wrangler,2001,N
+CLM-00769,259792,2015-01-07,Single Vehicle Collision,Rear Collision,Minor Damage,Other,VA,Springfield,5812 Weaver Ave,3,1,YES,2,0,YES,70500,7050,14100,49350,Suburu,Forrestor,2007,N
+CLM-00770,185124,2015-02-02,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,Northbrook,7155 Apache Drive,4,3,,2,1,YES,57900,17370,5790,34740,Audi,A5,2005,N
+CLM-00771,760700,2015-01-12,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,Northbrook,1376 Pine St,2,3,NO,1,0,NO,57860,5260,10520,42080,Volkswagen,Jetta,2011,N
+CLM-00772,362407,2015-01-01,Single Vehicle Collision,Side Collision,Minor Damage,Fire,VA,Northbrook,3340 3rd Hwy,22,1,,1,1,NO,37800,8400,4200,25200,Chevrolet,Silverado,1995,N
+CLM-00773,389525,2015-02-22,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,NY,Northbend,3097 4th Drive,8,1,,1,3,YES,63300,6330,6330,50640,Toyota,Highlander,2000,N
+CLM-00774,179538,2015-01-16,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,Northbrook,1916 Elm St,14,3,YES,0,1,YES,44200,8840,4420,30940,Saab,93,1995,N
+CLM-00775,265437,2015-01-28,Multi-vehicle Collision,Side Collision,Minor Damage,Police,WV,Arlington,8917 Cherokee Lane,14,4,NO,1,0,YES,31680,3520,3520,24640,Toyota,Camry,2006,N
+CLM-00776,266247,2015-01-23,Parked Car,,Trivial Damage,Police,WV,Northbrook,8492 Weaver Hwy,5,1,YES,1,2,,100,10,20,70,Audi,A3,2002,N
+CLM-00777,921851,2015-02-25,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,Columbus,3753 Francis Lane,18,1,NO,2,1,NO,56340,6260,6260,43820,Volkswagen,Passat,2003,N
+CLM-00778,488724,2015-02-11,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NC,Springfield,4545 4th Ridge,20,3,,0,0,YES,69740,6340,6340,57060,Dodge,Neon,2003,N
+CLM-00779,192524,2015-01-03,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,Springfield,2272 Embaracadero Drive,0,3,YES,2,2,YES,60480,5040,15120,40320,Volkswagen,Jetta,2003,N
+CLM-00780,338070,2015-01-30,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NC,Hillsdale,5341 5th Ave,1,3,,2,1,NO,80880,6740,13480,60660,Nissan,Ultima,2005,N
+CLM-00781,865607,2015-01-18,Single Vehicle Collision,Front Collision,Total Loss,Fire,WV,Hillsdale,7745 Washington Ridge,10,1,,1,2,YES,49390,8980,4490,35920,Suburu,Legacy,2009,N
+CLM-00782,963285,2015-01-04,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NC,Riverwood,1275 4th Ridge,12,1,NO,0,3,,69360,11560,11560,46240,Dodge,RAM,2009,N
+CLM-00783,728491,2015-01-20,Vehicle Theft,,Minor Damage,,NY,Springfield,4857 Weaver St,6,1,NO,0,1,,3740,680,680,2380,Chevrolet,Malibu,2011,N
+CLM-00784,553436,2015-02-12,Parked Car,,Trivial Damage,,NY,Hillsdale,8211 Sky Hwy,1,1,NO,0,1,NO,5060,460,920,3680,Nissan,Ultima,2003,N
+CLM-00785,440616,2015-02-19,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,Columbus,8617 Best Ave,21,3,NO,0,0,YES,35860,3260,6520,26080,BMW,X5,2005,Y
+CLM-00786,463237,2015-02-21,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,Columbus,9856 Apache St,3,3,YES,2,1,,50050,7700,3850,38500,Ford,Fusion,2008,Y
+CLM-00787,753452,2015-02-02,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Northbend,1951 Best Ave,14,4,YES,0,0,NO,59070,10740,5370,42960,Toyota,Camry,2012,N
+CLM-00788,920554,2015-02-01,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,SC,Riverwood,1824 5th Lane,19,3,NO,1,2,,28440,3160,3160,22120,Dodge,Neon,2007,N
+CLM-00789,594783,2015-01-08,Single Vehicle Collision,Front Collision,Major Damage,Fire,OH,Springfield,7393 Washington St,7,1,YES,2,1,YES,45540,8280,8280,28980,Honda,Civic,1998,Y
+CLM-00790,725330,2015-01-16,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,VA,Arlington,1386 Britain St,0,1,,0,0,YES,38700,7740,3870,27090,Volkswagen,Passat,2012,N
+CLM-00791,607259,2015-02-20,Parked Car,,Trivial Damage,,SC,Northbrook,7928 Maple Ridge,6,1,YES,2,1,YES,5830,1060,530,4240,Nissan,Pathfinder,2011,N
+CLM-00792,979336,2015-01-30,Single Vehicle Collision,Rear Collision,Total Loss,Other,NY,Northbend,1546 Cherokee Ave,0,1,YES,0,2,,57240,4770,9540,42930,BMW,X6,1995,Y
+CLM-00793,865201,2015-01-19,Multi-vehicle Collision,Rear Collision,Total Loss,Police,VA,Riverwood,2003 2nd Hwy,9,3,YES,0,3,NO,46200,4200,8400,33600,Suburu,Legacy,2015,N
+CLM-00794,140977,2015-02-25,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NY,Columbus,9418 5th Hwy,23,1,YES,0,1,NO,57700,5770,5770,46160,Toyota,Camry,2003,N
+CLM-00795,787351,2015-01-24,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,Northbrook,8770 1st Lane,13,3,NO,2,0,NO,56160,4680,9360,42120,Saab,95,1995,N
+CLM-00796,272330,2015-01-16,Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,Columbus,1087 Flute Drive,0,3,,0,3,YES,44400,5550,5550,33300,Jeep,Grand Cherokee,1999,N
+CLM-00797,728025,2015-01-12,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,NY,Hillsdale,2217 Tree Lane,7,1,,2,3,,92730,16860,8430,67440,Mercedes,E400,2004,Y
+CLM-00798,804608,2015-01-04,Single Vehicle Collision,Side Collision,Minor Damage,Fire,NC,Northbrook,6741 Oak Ridge,23,1,YES,0,1,YES,30700,3070,6140,21490,Toyota,Corolla,2015,N
+CLM-00799,718829,2015-02-02,Single Vehicle Collision,Side Collision,Major Damage,Fire,NY,Northbrook,2123 MLK Ridge,7,1,NO,2,0,,56600,11320,5660,39620,Toyota,Camry,1999,N
+CLM-00800,482404,2015-02-01,Parked Car,,Trivial Damage,,VA,Hillsdale,4390 4th Drive,20,1,YES,0,1,,3960,660,660,2640,Audi,A3,1998,N
+CLM-00801,331170,2015-02-14,Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,Arlington,1437 3rd Lane,22,1,YES,0,3,,34800,3480,6960,24360,Accura,MDX,1999,N
+CLM-00802,753056,2015-02-08,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Riverwood,1186 Rock St,10,3,,2,0,YES,79500,7950,7950,63600,Chevrolet,Tahoe,2000,N
+CLM-00803,910365,2015-01-22,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,Arlington,4394 Oak St,10,1,,2,2,NO,56000,5600,5600,44800,Chevrolet,Malibu,2009,N
+CLM-00804,379268,2015-01-14,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,Arlington,8368 Cherokee Ave,17,1,YES,1,0,YES,73260,16280,0,56980,Volkswagen,Jetta,2014,Y
+CLM-00805,362843,2015-02-03,Parked Car,,Trivial Damage,,WV,Arlington,4905 Best Lane,3,1,YES,2,3,YES,4950,900,450,3600,Toyota,Camry,1995,N
+CLM-00806,135400,2015-01-20,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Hillsdale,3618 Sky Ave,10,1,NO,0,1,NO,48000,4800,9600,33600,Saab,95,2013,N
+CLM-00807,798579,2015-01-01,Single Vehicle Collision,Side Collision,Major Damage,Fire,SC,Arlington,5459 MLK Ave,1,1,YES,0,1,YES,52200,10440,5220,36540,Nissan,Pathfinder,2005,N
+CLM-00808,250833,2015-02-02,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Springfield,1371 Texas Lane,1,3,NO,2,3,,73800,12300,12300,49200,Audi,A3,1995,N
+CLM-00809,824116,2015-01-23,Single Vehicle Collision,Side Collision,Total Loss,Fire,NC,Northbend,2654 Embaracadero St,7,1,,1,2,NO,78200,15640,7820,54740,Audi,A3,2009,N
+CLM-00810,322613,2015-01-26,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,Northbend,2123 Texas Ave,19,1,,2,3,NO,55200,13800,9200,32200,Saab,93,2015,Y
+CLM-00811,871305,2015-01-02,Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,Northbend,4538 Flute Hwy,3,3,NO,0,2,YES,57060,6340,6340,44380,Ford,Fusion,2012,N
+CLM-00812,488037,2015-02-25,Vehicle Theft,,Minor Damage,,WV,Arlington,4434 Weaver St,3,1,NO,0,3,YES,4680,520,520,3640,Chevrolet,Malibu,2013,N
+CLM-00813,485813,2015-01-15,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,Hillsdale,2798 1st Ave,23,1,NO,2,0,YES,53100,5310,5310,42480,Accura,MDX,2005,Y
+CLM-00814,886473,2015-02-09,Vehicle Theft,,Minor Damage,,WV,Springfield,2809 Francis Lane,7,1,,1,2,NO,3520,640,320,2560,Accura,MDX,2013,N
+CLM-00815,907113,2015-01-16,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,VA,Riverwood,7281 Oak St,0,3,NO,0,1,YES,72900,14580,14580,43740,Nissan,Maxima,2010,N
+CLM-00816,833321,2015-02-01,Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,Arlington,9878 Washington Ave,10,1,,0,1,NO,70700,7070,14140,49490,Volkswagen,Passat,2008,N
+CLM-00817,521592,2015-02-10,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,Columbus,2537 5th Ave,4,4,,0,0,,60170,5470,10940,43760,Nissan,Pathfinder,2006,N
+CLM-00818,254837,2015-01-03,Single Vehicle Collision,Rear Collision,Major Damage,Other,SC,Columbus,8493 Apache Drive,16,1,,1,1,,74800,13600,6800,54400,Ford,Fusion,2009,Y
+CLM-00819,634499,2015-01-01,Vehicle Theft,,Trivial Damage,Police,WV,Northbend,2878 Britain Hwy,3,1,YES,2,0,,4100,820,410,2870,Chevrolet,Malibu,2009,N
+CLM-00820,574707,2015-02-23,Single Vehicle Collision,Side Collision,Minor Damage,Other,SC,Columbus,2862 Tree Ridge,5,1,YES,0,3,,61490,5590,11180,44720,Dodge,RAM,2009,N
+CLM-00821,476839,2015-01-28,Vehicle Theft,,Trivial Damage,,VA,Hillsdale,4453 Best Ave,14,1,,0,0,,7200,720,1440,5040,Audi,A5,1999,N
+CLM-00822,149601,2015-02-22,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,Arlington,5191 4th St,7,3,,0,0,,45100,8200,4100,32800,Nissan,Pathfinder,2011,N
+CLM-00823,630683,2015-01-03,Single Vehicle Collision,Front Collision,Minor Damage,Police,WV,Northbend,1364 Best St,16,1,,2,3,YES,66660,12120,6060,48480,Honda,Civic,2006,N
+CLM-00824,500639,2015-01-10,Single Vehicle Collision,Front Collision,Major Damage,Police,NC,Northbrook,8946 2nd Drive,6,1,NO,2,2,YES,76400,15280,7640,53480,Volkswagen,Jetta,1997,Y
+CLM-00825,352120,2015-01-25,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,PA,Riverwood,3726 MLK Hwy,10,1,YES,1,1,NO,58300,10600,10600,37100,Ford,F150,2001,N
+CLM-00826,569245,2015-01-10,Single Vehicle Collision,Front Collision,Total Loss,Police,SC,Riverwood,2820 Britain St,19,1,,1,1,,57310,5210,10420,41680,Volkswagen,Passat,2002,N
+CLM-00827,907012,2015-01-28,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,Arlington,2646 MLK Drive,10,1,,0,1,,53100,5900,5900,41300,Suburu,Impreza,2006,N
+CLM-00828,700074,2015-02-18,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,Riverwood,6256 Elm St,6,3,NO,1,1,,74700,14940,7470,52290,Suburu,Forrestor,1997,N
+CLM-00829,866805,2015-01-24,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Riverwood,9724 Maple St,12,3,NO,2,2,NO,60500,12100,6050,42350,Audi,A5,1995,N
+CLM-00830,951863,2015-01-20,Multi-vehicle Collision,Side Collision,Total Loss,Other,NC,Riverwood,7397 4th Drive,10,3,YES,2,3,NO,84920,7720,15440,61760,Jeep,Wrangler,2006,Y
+CLM-00831,211578,2015-01-10,Single Vehicle Collision,Side Collision,Total Loss,Police,PA,Northbrook,3488 Flute Lane,0,1,NO,2,0,NO,61050,5550,11100,44400,Dodge,Neon,2009,N
+CLM-00832,357394,2015-01-07,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NY,Hillsdale,9082 3rd Lane,12,3,YES,2,0,,69080,12560,6280,50240,Audi,A5,2009,Y
+CLM-00833,863749,2015-01-16,Vehicle Theft,,Minor Damage,,VA,Arlington,1941 5th Ridge,10,1,YES,1,3,YES,4560,760,380,3420,Nissan,Pathfinder,2007,N
+CLM-00834,596914,2015-01-01,Multi-vehicle Collision,Rear Collision,Total Loss,Police,WV,Northbend,5333 MLK Lane,3,4,NO,0,1,,67800,11300,11300,45200,Ford,F150,2011,N
+CLM-00835,684653,2015-01-07,Vehicle Theft,,Minor Damage,Police,SC,Riverwood,4577 Sky Hwy,21,1,YES,1,1,YES,5600,1120,560,3920,Suburu,Legacy,2005,N
+CLM-00836,528259,2015-02-17,Vehicle Theft,,Minor Damage,,NC,Northbrook,4814 Lincoln Lane,6,1,,0,2,,9000,900,1800,6300,Mercedes,ML350,2015,N
+CLM-00837,797636,2015-02-26,Single Vehicle Collision,Rear Collision,Total Loss,Police,VA,Northbend,2381 1st Hwy,0,1,NO,0,1,YES,85320,21330,7110,56880,Nissan,Pathfinder,2006,N
+CLM-00838,326180,2015-01-31,Vehicle Theft,,Trivial Damage,,NC,Arlington,6939 3rd Hwy,6,1,NO,0,3,YES,5940,540,1080,4320,Audi,A5,2001,Y
+CLM-00839,620075,2015-02-27,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,Arlington,5269 Flute Hwy,20,3,YES,1,1,,51370,9340,4670,37360,BMW,M5,2000,Y
+CLM-00840,965187,2015-03-01,Single Vehicle Collision,Rear Collision,Major Damage,Police,SC,Northbrook,7197 2nd Drive,4,1,NO,2,2,YES,51600,10320,5160,36120,Dodge,Neon,2011,N
+CLM-00841,516182,2015-02-13,Parked Car,,Trivial Damage,,SC,Arlington,1741 Best Ridge,9,1,NO,0,3,,5400,600,600,4200,Chevrolet,Malibu,1998,N
+CLM-00842,728839,2015-01-08,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,Northbrook,9148 4th Hwy,20,3,,1,0,YES,48870,5430,5430,38010,Saab,95,1999,N
+CLM-00843,771509,2015-02-05,Vehicle Theft,,Minor Damage,Police,WV,Springfield,4279 Solo Drive,7,1,NO,2,1,,5590,860,860,3870,BMW,X5,2000,N
+CLM-00844,264221,2015-02-20,Multi-vehicle Collision,Front Collision,Major Damage,Other,NY,Springfield,9177 Texas Ave,18,3,,0,2,,54960,6870,0,48090,Toyota,Corolla,2002,Y
+CLM-00845,602704,2015-01-24,Multi-vehicle Collision,Side Collision,Minor Damage,Police,VA,Northbrook,5969 Francis St,0,3,NO,1,3,,39800,7960,3980,27860,Jeep,Wrangler,2014,N
+CLM-00846,672416,2015-01-31,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,SC,Columbus,9942 Tree Ave,11,3,,0,1,,56160,6240,6240,43680,Ford,Fusion,2015,Y
+CLM-00847,545506,2015-01-23,Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,Hillsdale,5474 Weaver Hwy,13,1,NO,0,3,,52700,5270,10540,36890,Toyota,Corolla,2005,N
+CLM-00848,777533,2015-01-11,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,Riverwood,1102 Apache Hwy,19,3,YES,1,3,,68580,7620,7620,53340,Jeep,Wrangler,2010,N
+CLM-00849,953334,2015-02-20,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,NY,Springfield,9214 Texas Drive,23,1,YES,1,2,YES,90860,12980,19470,58410,Volkswagen,Jetta,2004,Y
+CLM-00850,369781,2015-02-24,Parked Car,,Trivial Damage,Police,NC,Northbend,8991 Texas Hwy,23,1,NO,0,3,NO,5700,570,570,4560,Saab,93,2001,N
+CLM-00851,990998,2015-01-19,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,Hillsdale,9580 MLK Ave,19,3,YES,2,0,YES,94930,8630,8630,77670,Accura,RSX,2014,N
+CLM-00852,982678,2015-01-08,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,SC,Northbend,5868 Best Drive,19,1,NO,1,2,NO,46800,4680,9360,32760,Audi,A5,2007,Y
+CLM-00853,646069,2015-03-01,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,Northbend,5318 5th Ave,17,3,NO,2,3,NO,56320,7040,7040,42240,Mercedes,ML350,2000,N
+CLM-00854,331683,2015-01-21,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,Hillsdale,7502 Rock Lane,18,1,NO,1,3,YES,83490,7590,15180,60720,Nissan,Pathfinder,1996,N
+CLM-00855,364055,2015-02-28,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,Northbrook,4627 Elm Ridge,17,3,NO,2,2,,57900,5790,5790,46320,Saab,95,2008,N
+CLM-00856,521854,2015-01-26,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,Springfield,5584 Britain Lane,11,3,,1,3,YES,49410,5490,5490,38430,Audi,A3,2015,N
+CLM-00857,737252,2015-01-31,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,WV,Northbend,7002 Oak Hwy,22,3,,0,1,NO,66200,6620,6620,52960,Suburu,Impreza,2012,N
+CLM-00858,344480,2015-02-20,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,Columbus,4780 Best Drive,7,1,NO,0,1,NO,64080,10680,10680,42720,Toyota,Camry,2005,N
+CLM-00859,898519,2015-02-17,Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,Northbrook,8995 1st Ave,17,3,,2,3,YES,42500,8500,4250,29750,Nissan,Pathfinder,2000,N
+CLM-00860,957816,2015-02-02,Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,Columbus,5586 2nd St,16,3,NO,2,3,,48950,8900,4450,35600,Suburu,Legacy,2005,N
+CLM-00861,175960,2015-02-06,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Northbend,1589 Best Ave,13,3,NO,1,2,YES,58850,10700,10700,37450,Accura,MDX,1999,N
+CLM-00862,489618,2015-02-11,Multi-vehicle Collision,Side Collision,Minor Damage,Other,NY,Northbrook,1880 Weaver Drive,17,3,YES,0,2,YES,82400,8240,8240,65920,Nissan,Pathfinder,2006,N
+CLM-00863,717044,2015-01-25,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Springfield,7295 Tree Hwy,3,1,YES,2,0,,54240,6780,6780,40680,Suburu,Impreza,2009,N
+CLM-00864,101421,2015-02-23,Multi-vehicle Collision,Front Collision,Minor Damage,Other,SC,Arlington,8832 Pine Drive,15,3,,0,2,,74200,7420,7420,59360,Jeep,Wrangler,1996,N
+CLM-00865,793948,2015-01-29,Single Vehicle Collision,Front Collision,Total Loss,Fire,WV,Hillsdale,1620 Oak Ave,16,1,YES,2,1,,47430,5270,5270,36890,Toyota,Camry,2000,N
+CLM-00866,737483,2015-01-02,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,Hillsdale,3847 Elm Hwy,18,1,,1,3,YES,68200,13640,6820,47740,Dodge,RAM,2003,Y
+CLM-00867,695117,2015-02-06,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,Hillsdale,3177 MLK Ridge,18,1,NO,1,0,NO,63900,7100,7100,49700,Accura,TL,2014,N
+CLM-00868,167466,2015-02-14,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,Riverwood,3929 Oak Drive,22,2,NO,0,3,YES,59300,11860,5930,41510,Dodge,RAM,2008,N
+CLM-00869,664732,2015-02-04,Multi-vehicle Collision,Front Collision,Minor Damage,Other,SC,Springfield,1469 Lincoln Drive,15,3,NO,1,2,YES,66900,6690,13380,46830,Suburu,Forrestor,1999,Y
+CLM-00870,143038,2015-02-12,Multi-vehicle Collision,Rear Collision,Major Damage,Police,OH,Arlington,9719 4th Lane,16,3,YES,1,3,,40810,3710,7420,29680,Ford,F150,2000,Y
+CLM-00871,979963,2015-02-12,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Riverwood,3196 Cherokee St,18,1,,1,0,,75400,15080,7540,52780,Honda,CRV,2011,N
+CLM-00872,467841,2015-01-28,Parked Car,,Minor Damage,,WV,Northbend,8492 Andromedia Ridge,8,1,NO,2,0,YES,4200,420,840,2940,Jeep,Wrangler,2013,N
+CLM-00873,219028,2015-01-10,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,Hillsdale,1353 Washington St,23,3,YES,0,0,YES,52650,5850,5850,40950,Ford,F150,2001,Y
+CLM-00874,130156,2015-01-19,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,Hillsdale,6731 Andromedia Hwy,18,1,,0,2,YES,42240,7680,7680,26880,Chevrolet,Malibu,2007,N
+CLM-00875,762951,2015-01-19,Single Vehicle Collision,Side Collision,Minor Damage,Other,NC,Riverwood,5769 Texas Lane,10,1,YES,1,0,YES,59490,6610,6610,46270,Mercedes,ML350,1995,N
+CLM-00876,376879,2015-01-28,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,SC,Arlington,2849 Pine Drive,12,1,NO,0,2,NO,44200,4420,4420,35360,Jeep,Wrangler,2002,Y
+CLM-00877,599031,2015-02-16,Vehicle Theft,,Trivial Damage,Police,WV,Springfield,2577 Texas Ridge,5,1,YES,1,2,,7700,770,1540,5390,Saab,93,2000,N
+CLM-00878,676255,2015-01-08,Multi-vehicle Collision,Front Collision,Total Loss,Other,NY,Northbend,3841 Washington Lane,21,3,,2,3,,61440,10240,10240,40960,Saab,93,2008,N
+CLM-00879,985446,2015-01-24,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,Columbus,8125 Texas Ridge,17,3,YES,1,3,NO,54400,5440,10880,38080,Chevrolet,Silverado,2015,Y
+CLM-00880,884180,2015-02-18,Single Vehicle Collision,Front Collision,Total Loss,Other,NC,Arlington,4826 5th St,4,1,YES,2,1,,58560,9760,9760,39040,Mercedes,E400,2002,N
+CLM-00881,571462,2015-01-21,Single Vehicle Collision,Front Collision,Major Damage,Fire,VA,Northbrook,1578 5th Lane,11,1,NO,1,1,NO,67300,6730,6730,53840,Dodge,RAM,2000,Y
+CLM-00882,815883,2015-01-08,Single Vehicle Collision,Rear Collision,Major Damage,Fire,VA,Hillsdale,6440 Rock Lane,18,1,,1,3,YES,36740,3340,6680,26720,BMW,X5,1998,Y
+CLM-00883,258265,2015-02-02,Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,Northbrook,5806 Embaracadero St,12,1,,0,0,NO,85690,15580,15580,54530,BMW,3 Series,2011,N
+CLM-00884,569714,2015-03-01,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,WV,Riverwood,1472 4th Drive,18,3,YES,0,3,NO,34160,0,4270,29890,Audi,A5,2005,Y
+CLM-00885,180008,2015-02-04,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,Hillsdale,5839 Weaver Lane,16,1,NO,2,2,,61320,10220,10220,40880,BMW,M5,1998,N
+CLM-00886,633375,2015-02-27,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NC,Columbus,7630 Rock Drive,19,3,YES,0,0,,79680,13280,13280,53120,BMW,3 Series,2004,N
+CLM-00887,556538,2015-02-09,Single Vehicle Collision,Front Collision,Total Loss,Fire,SC,Riverwood,7144 Andromedia St,13,1,NO,1,0,YES,61740,6860,6860,48020,Audi,A3,2002,N
+CLM-00888,669501,2015-02-19,Parked Car,,Minor Damage,,VA,Arlington,9988 Rock Ridge,4,1,NO,0,0,NO,6400,640,640,5120,Honda,Civic,2002,N
+CLM-00889,963761,2015-01-12,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,Northbrook,7544 Washington Ave,8,1,YES,1,2,YES,60600,12120,6060,42420,Accura,TL,2011,N
+CLM-00890,753005,2015-02-07,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,Hillsdale,7201 Washington Ave,19,3,NO,2,0,NO,56320,10240,5120,40960,Volkswagen,Jetta,2007,N
+CLM-00891,454758,2015-01-13,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NC,Northbend,8805 Cherokee Drive,18,1,YES,2,0,NO,52250,9500,4750,38000,Suburu,Legacy,2012,N
+CLM-00892,698589,2015-01-18,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,Arlington,3275 Pine St,9,2,,0,3,,53900,5390,10780,37730,Saab,95,2006,N
+CLM-00893,330119,2015-01-15,Vehicle Theft,,Trivial Damage,,WV,Columbus,7785 Lincoln Lane,6,1,,2,1,NO,2640,220,440,1980,Jeep,Wrangler,2001,N
+CLM-00894,164464,2015-02-23,Vehicle Theft,,Minor Damage,,NC,Arlington,4994 Lincoln Drive,8,1,YES,0,0,,8970,1380,1380,6210,Dodge,Neon,2011,N
+CLM-00895,927354,2015-02-17,Parked Car,,Minor Damage,,NY,Springfield,1298 Maple Hwy,6,1,,1,3,,6000,1000,1000,4000,Suburu,Impreza,2000,N
+CLM-00896,231508,2015-02-17,Multi-vehicle Collision,Front Collision,Major Damage,Fire,WV,Northbend,2644 MLK Drive,23,3,,0,3,,55200,11040,5520,38640,Saab,92x,1998,Y
+CLM-00897,272910,2015-01-18,Parked Car,,Trivial Damage,,SC,Riverwood,5630 1st Drive,13,1,NO,0,3,YES,7260,660,1320,5280,Saab,92x,2008,N
+CLM-00898,305758,2015-01-17,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,Springfield,6137 MLK St,3,3,NO,2,0,,64680,11760,11760,41160,Jeep,Wrangler,2010,N
+CLM-00899,950542,2015-02-25,Single Vehicle Collision,Rear Collision,Major Damage,Police,WV,Northbrook,5383 Maple Drive,23,1,NO,0,1,NO,59200,0,11840,47360,Chevrolet,Malibu,1998,N
+CLM-00900,291544,2015-01-06,Vehicle Theft,,Minor Damage,,NC,Arlington,4460 4th Lane,8,1,YES,1,3,,4700,470,940,3290,Saab,92x,1998,N
+CLM-00901,388616,2015-02-26,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,Columbus,8524 Pine Lane,23,1,YES,0,3,NO,69400,6940,6940,55520,Mercedes,C300,2000,N
+CLM-00902,577992,2015-02-11,Single Vehicle Collision,Side Collision,Total Loss,Police,NY,Northbrook,8456 1st Ave,23,1,YES,0,0,NO,40500,4050,4050,32400,Nissan,Pathfinder,1998,N
+CLM-00903,342830,2015-02-13,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,Riverwood,3639 Flute Hwy,9,3,NO,2,1,NO,60000,5000,10000,45000,Honda,Accord,1997,N
+CLM-00904,491170,2015-01-10,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,Riverwood,7900 Sky Hwy,22,1,YES,2,3,NO,67320,11220,11220,44880,Volkswagen,Jetta,1996,N
+CLM-00905,175553,2015-01-24,Multi-vehicle Collision,Side Collision,Total Loss,Other,VA,Riverwood,7835 Cherokee Hwy,22,3,YES,2,1,YES,75690,8410,8410,58870,Saab,95,2014,N
+CLM-00906,439341,2015-02-15,Multi-vehicle Collision,Side Collision,Major Damage,Fire,VA,Northbend,1030 Pine Lane,15,3,NO,1,2,,64300,6430,6430,51440,Chevrolet,Silverado,2002,Y
+CLM-00907,221186,2015-01-09,Multi-vehicle Collision,Rear Collision,Major Damage,Police,SC,Columbus,9278 Francis Ridge,16,3,NO,2,0,YES,64400,6440,6440,51520,BMW,X5,2011,N
+CLM-00908,868031,2015-01-31,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,Northbend,6604 Apache Drive,17,3,,1,2,,97080,16180,16180,64720,Saab,92x,2005,N
+CLM-00909,844117,2015-02-04,Vehicle Theft,,Minor Damage,Police,WV,Northbrook,2311 4th St,3,1,YES,1,0,,5500,500,500,4500,Honda,Civic,2010,N
+CLM-00910,744557,2015-01-30,Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,Northbend,9523 Solo Hwy,10,3,,0,2,NO,30700,3070,6140,21490,Jeep,Wrangler,2010,N
+CLM-00911,159536,2015-02-27,Single Vehicle Collision,Side Collision,Minor Damage,Police,PA,Springfield,3171 Andromedia Lane,9,1,NO,1,2,YES,33480,3720,3720,26040,Nissan,Pathfinder,2012,N
+CLM-00912,727109,2015-02-05,Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,Northbend,2492 Lincoln Lane,13,2,,0,1,YES,65430,14540,7270,43620,Jeep,Wrangler,2001,N
+CLM-00913,155604,2015-01-30,Multi-vehicle Collision,Rear Collision,Major Damage,Police,NC,Northbend,4477 5th Ave,15,3,YES,2,1,YES,42680,3880,7760,31040,Accura,RSX,2006,Y
+CLM-00914,608443,2015-01-03,Single Vehicle Collision,Side Collision,Minor Damage,Fire,WV,Springfield,6724 Andromedia St,23,1,,1,1,NO,87780,7980,7980,71820,Honda,CRV,2011,N
+CLM-00915,117862,2015-03-01,Multi-vehicle Collision,Front Collision,Major Damage,Fire,NY,Riverwood,7495 Washington Ave,2,4,YES,0,2,YES,72800,14560,14560,43680,Honda,Accord,1998,N
+CLM-00916,991553,2015-02-13,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,Hillsdale,4291 Sky Hwy,14,1,YES,2,0,,71190,0,7910,63280,Mercedes,C300,1997,Y
+CLM-00917,727443,2015-02-25,Vehicle Theft,,Trivial Damage,,NY,Hillsdale,5650 Rock Ave,7,1,,1,1,YES,3600,400,400,2800,Honda,Civic,1999,N
+CLM-00918,378587,2015-01-23,Single Vehicle Collision,Side Collision,Major Damage,Other,NY,Columbus,6888 Elm Ridge,23,1,NO,1,3,NO,62640,10440,10440,41760,Mercedes,C300,2009,N
+CLM-00919,420948,2015-02-19,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,Northbrook,2352 Sky Drive,7,3,YES,2,1,,69630,12660,6330,50640,Toyota,Corolla,1998,N
+CLM-00920,457188,2015-02-08,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,Hillsdale,5280 Pine Ave,8,3,YES,1,0,,76010,13820,6910,55280,Dodge,RAM,1995,Y
+CLM-00921,118236,2015-02-04,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,Northbrook,6638 Tree Drive,17,1,NO,1,0,YES,44220,8040,4020,32160,Accura,MDX,2000,N
+CLM-00922,987524,2015-02-22,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,Northbrook,5678 Lincoln Drive,10,3,NO,0,3,NO,57200,5200,10400,41600,BMW,M5,2011,N
+CLM-00923,490596,2015-01-14,Vehicle Theft,,Minor Damage,Police,WV,Columbus,4496 Pine Lane,9,1,NO,0,3,NO,3080,560,560,1960,Nissan,Ultima,1998,N
+CLM-00924,524215,2015-01-06,Single Vehicle Collision,Rear Collision,Total Loss,Other,SC,Hillsdale,8845 5th Ave,2,1,YES,1,0,YES,75790,13780,6890,55120,Accura,RSX,2007,N
+CLM-00925,913464,2015-01-19,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Riverwood,9317 Apache Ave,18,3,NO,0,1,NO,32670,5940,2970,23760,Honda,Accord,2003,N
+CLM-00926,398484,2015-01-24,Vehicle Theft,,Minor Damage,Police,VA,Arlington,8638 3rd Ave,4,1,,2,3,NO,3870,430,860,2580,Jeep,Wrangler,2010,N
+CLM-00927,752504,2015-01-27,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,Columbus,3061 Francis Hwy,12,1,,0,3,YES,91520,8320,16640,66560,BMW,X6,2005,Y
+CLM-00928,449263,2015-01-13,Single Vehicle Collision,Front Collision,Major Damage,Other,NY,Northbrook,1173 Andromedia Ave,15,1,YES,1,3,YES,74690,6790,13580,54320,Dodge,RAM,2008,Y
+CLM-00929,844007,2015-01-15,Vehicle Theft,,Trivial Damage,Police,VA,Springfield,6068 2nd St,9,1,YES,1,3,,4620,420,840,3360,Audi,A5,1998,N
+CLM-00930,686522,2015-02-04,Single Vehicle Collision,Side Collision,Major Damage,Police,SC,Arlington,7937 Weaver Ridge,6,1,YES,0,0,NO,55000,10000,10000,35000,Toyota,Camry,2008,Y
+CLM-00931,670142,2015-01-04,Multi-vehicle Collision,Rear Collision,Major Damage,Police,SC,Springfield,2823 Weaver Lane,11,4,YES,0,2,NO,59400,13200,6600,39600,Saab,93,1996,Y
+CLM-00932,607687,2015-01-14,Multi-vehicle Collision,Side Collision,Total Loss,Fire,PA,Columbus,1809 Sky St,13,3,NO,1,1,,55260,6140,0,49120,Nissan,Ultima,2000,N
+CLM-00933,967713,2015-01-27,Multi-vehicle Collision,Side Collision,Minor Damage,Other,NC,Springfield,9352 Washington Ave,4,3,,2,1,YES,51400,5140,10280,35980,Honda,Civic,1996,N
+CLM-00934,291902,2015-02-12,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,Columbus,2697 Oak Drive,20,3,YES,1,3,,48780,5420,10840,32520,Dodge,Neon,2008,N
+CLM-00935,149839,2015-02-03,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,Riverwood,1110 4th Drive,0,3,NO,1,3,,52380,5820,5820,40740,Toyota,Highlander,2010,N
+CLM-00936,840225,2015-01-26,Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,Hillsdale,7535 5th Lane,18,4,,2,3,YES,74360,13520,13520,47320,Toyota,Highlander,2005,Y
+CLM-00937,643226,2015-01-09,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,Northbrook,9043 Maple Hwy,6,1,,1,0,,53400,5340,5340,42720,Honda,CRV,2003,N
+CLM-00938,535879,2015-02-17,Single Vehicle Collision,Front Collision,Total Loss,Police,VA,Hillsdale,3777 Maple Ave,23,1,,2,2,YES,71800,14360,14360,43080,Jeep,Grand Cherokee,1995,N
+CLM-00939,746630,2015-01-16,Single Vehicle Collision,Front Collision,Major Damage,Other,NY,Northbrook,5608 Solo St,4,1,,0,0,,68240,8530,0,59710,Toyota,Corolla,2013,Y
+CLM-00940,598308,2015-01-12,Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,Arlington,6981 Weaver St,21,3,,1,0,,61050,11100,11100,38850,Dodge,RAM,2011,Y
+CLM-00941,720356,2015-01-03,Parked Car,,Minor Damage,,NY,Springfield,4369 Maple Lane,7,1,,1,1,YES,5590,860,860,3870,Suburu,Impreza,2002,N
+CLM-00942,724752,2015-01-22,Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,Columbus,6931 Elm St,19,3,,0,0,,46860,8520,8520,29820,Volkswagen,Passat,1998,N
+CLM-00943,148498,2015-01-13,Parked Car,,Minor Damage,,SC,Arlington,7583 Washington Ave,5,1,NO,1,3,NO,4290,780,780,2730,Volkswagen,Passat,1998,N
+CLM-00944,110122,2015-01-31,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NC,Arlington,7552 3rd St,22,3,YES,0,0,NO,78500,15700,7850,54950,Audi,A3,2015,N
+CLM-00945,281388,2015-02-04,Single Vehicle Collision,Side Collision,Total Loss,Police,SC,Northbrook,1654 Pine St,12,1,YES,1,3,YES,70830,7870,7870,55090,Jeep,Grand Cherokee,2005,N
+CLM-00946,728600,2015-01-20,Multi-vehicle Collision,Front Collision,Total Loss,Police,SC,Springfield,6058 Andromedia Hwy,19,3,NO,0,2,NO,68040,15120,7560,45360,Suburu,Forrestor,1997,N
+CLM-00947,231548,2015-02-07,Single Vehicle Collision,Side Collision,Major Damage,Fire,WV,Hillsdale,6536 MLK Hwy,10,1,,2,0,,63600,5300,10600,47700,Audi,A5,1997,Y
+CLM-00948,531160,2015-02-05,Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,Columbus,8198 Embaracadero Lane,7,1,NO,0,3,,43560,4840,4840,33880,Suburu,Legacy,2015,N
+CLM-00949,889003,2015-01-02,Single Vehicle Collision,Front Collision,Total Loss,Police,WV,Hillsdale,3447 Solo Ave,17,1,NO,1,1,NO,60840,13520,6760,40560,Suburu,Forrestor,2011,N
+CLM-00950,193213,2015-02-08,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,Arlington,1806 Weaver Ridge,0,3,,2,3,YES,68160,11360,11360,45440,Ford,Escape,2010,N
+CLM-00951,557218,2015-01-13,Parked Car,,Minor Damage,,SC,Arlington,7930 Texas Ave,9,1,NO,1,0,NO,5170,940,470,3760,Toyota,Camry,2001,N
+CLM-00952,125591,2015-01-16,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NC,Riverwood,7082 Oak Ridge,21,1,,0,3,,57700,5770,5770,46160,Nissan,Maxima,2000,N
+CLM-00953,227244,2015-01-30,Multi-vehicle Collision,Front Collision,Total Loss,Other,VA,Northbend,6357 Texas Lane,22,3,NO,0,2,NO,89520,14920,14920,59680,Audi,A3,2014,N
+CLM-00954,791425,2015-02-26,Vehicle Theft,,Minor Damage,,WV,Hillsdale,9322 Rock Hwy,3,1,NO,1,0,YES,4620,420,840,3360,Volkswagen,Jetta,2012,N
+CLM-00955,354455,2015-01-27,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,Northbrook,6684 Solo Lane,16,1,YES,0,3,,45180,5020,5020,35140,Honda,CRV,2004,N
+CLM-00956,601042,2015-01-28,Single Vehicle Collision,Side Collision,Total Loss,Other,NY,Riverwood,4885 Oak Lane,14,1,YES,0,0,NO,45100,9020,4510,31570,Nissan,Maxima,2013,N
+CLM-00957,433663,2015-02-23,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,Springfield,7846 Andromedia Drive,21,3,YES,0,3,YES,83160,15120,15120,52920,Toyota,Camry,2003,N
+CLM-00958,471938,2015-01-18,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,Columbus,3915 Embaracadero St,19,1,NO,2,1,NO,86130,15660,15660,54810,Chevrolet,Silverado,1995,N
+CLM-00959,564654,2015-02-15,Multi-vehicle Collision,Front Collision,Major Damage,Fire,NC,Hillsdale,4242 Rock Lane,13,3,NO,1,3,NO,48000,9600,4800,33600,Dodge,RAM,1995,N
+CLM-00960,645723,2015-02-04,Vehicle Theft,,Minor Damage,Police,VA,Hillsdale,7405 Oak St,21,1,NO,0,0,YES,3300,600,600,2100,Saab,92x,2008,N
+CLM-00961,573572,2015-01-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,Northbend,9633 4th St,11,3,NO,1,2,YES,57200,11440,5720,40040,Toyota,Camry,2005,N
+CLM-00962,437960,2015-01-02,Vehicle Theft,,Trivial Damage,Police,VA,Columbus,3492 Britain St,16,1,,2,0,,7590,1380,690,5520,Accura,MDX,2012,N
+CLM-00963,649800,2015-01-27,Single Vehicle Collision,Rear Collision,Total Loss,Police,VA,Arlington,7973 4th St,9,1,NO,0,2,,80080,12320,12320,55440,Chevrolet,Silverado,2013,N
+CLM-00964,544225,2015-02-09,Vehicle Theft,,Minor Damage,Police,WV,Riverwood,3952 Andromedia Lane,8,1,NO,0,0,YES,4800,960,480,3360,BMW,3 Series,2006,N
+CLM-00965,390256,2015-02-06,Vehicle Theft,,Minor Damage,Police,WV,Springfield,6702 Andromedia St,7,1,,2,1,YES,3900,390,780,2730,Volkswagen,Jetta,2008,Y
+CLM-00966,488597,2015-01-03,Single Vehicle Collision,Front Collision,Minor Damage,Other,SC,Arlington,5455 Oak Hwy,12,1,,0,0,NO,90400,9040,9040,72320,BMW,3 Series,1995,N
+CLM-00967,133889,2015-01-12,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NC,Columbus,2253 Maple Ave,21,3,YES,0,0,,62900,6290,12580,44030,Jeep,Grand Cherokee,1998,N
+CLM-00968,931901,2015-01-22,Single Vehicle Collision,Rear Collision,Major Damage,Police,NC,Arlington,7897 Lincoln St,4,1,YES,1,2,NO,54200,5420,10840,37940,Nissan,Ultima,2014,Y
+CLM-00969,769475,2015-01-03,Multi-vehicle Collision,Side Collision,Major Damage,Police,NY,Northbend,8811 Maple Hwy,18,3,NO,2,2,YES,51800,5180,10360,36260,Accura,MDX,2003,N
+CLM-00970,844062,2015-02-23,Vehicle Theft,,Trivial Damage,Police,SC,Northbend,8167 Apache Ave,7,1,,2,3,,6600,600,1200,4800,Accura,MDX,2012,N
+CLM-00971,844129,2015-01-22,Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,Northbrook,5475 Rock Lane,13,1,YES,2,0,YES,74140,13480,6740,53920,Ford,Escape,2007,N
+CLM-00972,732169,2015-02-13,Single Vehicle Collision,Front Collision,Total Loss,Fire,VA,Northbend,8215 Flute Drive,0,1,NO,2,1,,67800,13560,6780,47460,Mercedes,C300,1995,N
+CLM-00973,221854,2015-02-08,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NY,Northbend,1320 Flute Lane,22,1,,1,1,YES,55400,5540,11080,38780,Jeep,Grand Cherokee,2002,Y
+CLM-00974,776950,2015-01-09,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,Columbus,1229 5th Ave,15,1,YES,2,3,,49100,9820,4910,34370,Suburu,Impreza,1996,Y
+CLM-00975,291006,2015-02-08,Multi-vehicle Collision,Side Collision,Major Damage,Police,SC,Riverwood,3884 Pine Lane,3,3,NO,2,1,,98280,15120,7560,75600,Chevrolet,Tahoe,2007,Y
+CLM-00976,845751,2015-01-10,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,VA,Northbend,7108 Tree St,18,2,YES,0,2,,66550,6050,12100,48400,Ford,Escape,2008,N
+CLM-00977,889764,2015-01-26,Multi-vehicle Collision,Side Collision,Major Damage,Fire,WV,Arlington,8014 Embaracadero Drive,17,3,,2,2,,70400,14080,7040,49280,Accura,RSX,2002,N
+CLM-00978,929306,2015-02-21,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,WV,Springfield,4937 Flute Drive,18,3,,1,1,NO,53280,4440,8880,39960,Suburu,Impreza,2015,Y
+CLM-00979,515457,2015-01-23,Single Vehicle Collision,Front Collision,Total Loss,Other,NY,Columbus,2889 Francis St,11,1,,2,3,YES,84590,15380,15380,53830,Dodge,Neon,1999,N
+CLM-00980,556270,2015-02-05,Single Vehicle Collision,Rear Collision,Total Loss,Other,NY,Columbus,7504 Flute Drive,17,1,NO,0,2,YES,54560,9920,9920,34720,Saab,95,2004,N
+CLM-00981,908935,2015-02-15,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,OH,Northbend,7570 Cherokee Drive,12,1,YES,0,2,YES,82170,7470,7470,67230,Suburu,Forrestor,1999,N
+CLM-00982,525862,2015-01-08,Multi-vehicle Collision,Front Collision,Total Loss,Police,NY,Northbend,4710 Lincoln Hwy,15,3,,1,2,NO,61100,6110,12220,42770,Dodge,Neon,2008,N
+CLM-00983,490514,2015-01-01,Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,Arlington,7511 1st Ave,0,3,,0,3,YES,51900,5190,10380,36330,BMW,M5,2011,Y
+CLM-00984,774895,2015-02-26,Parked Car,,Trivial Damage,Police,SC,Arlington,7042 Maple Ridge,9,1,,2,1,,3440,430,430,2580,Suburu,Legacy,2002,N
+CLM-00985,974522,2015-02-28,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,WV,Springfield,4475 Lincoln Ridge,1,1,YES,2,1,NO,51390,5710,11420,34260,Toyota,Corolla,2013,N
+CLM-00986,669809,2015-01-13,Single Vehicle Collision,Side Collision,Major Damage,Other,WV,Columbus,9439 MLK St,22,1,,0,2,,76900,7690,7690,61520,Jeep,Wrangler,1995,N
+CLM-00987,182953,2015-02-19,Single Vehicle Collision,Rear Collision,Minor Damage,Other,WV,Riverwood,8269 Sky Hwy,11,1,YES,2,3,,77000,15400,7700,53900,Toyota,Highlander,2015,Y
+CLM-00988,836349,2015-01-13,Single Vehicle Collision,Side Collision,Major Damage,Other,NC,Hillsdale,5663 Oak Lane,10,1,,0,3,,60320,9280,9280,41760,Chevrolet,Tahoe,2012,Y
+CLM-00989,591269,2015-02-17,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Columbus,4633 5th Lane,5,1,YES,1,1,NO,60700,12140,6070,42490,Honda,Civic,1997,N
+CLM-00990,550127,2015-02-15,Multi-vehicle Collision,Rear Collision,Total Loss,Police,SC,Arlington,9682 Cherokee Ridge,3,3,YES,1,2,,53280,5920,0,47360,Chevrolet,Malibu,2015,N
+CLM-00991,663190,2015-01-31,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,Northbrook,4755 1st St,18,1,,2,2,YES,34290,3810,3810,26670,Jeep,Grand Cherokee,2013,N
+CLM-00992,109392,2015-02-06,Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,Riverwood,5312 Francis Ridge,21,1,NO,0,1,NO,46980,0,5220,41760,Accura,TL,2002,N
+CLM-00993,215278,2015-01-23,Multi-vehicle Collision,Front Collision,Major Damage,Fire,OH,Springfield,1705 Weaver St,6,3,YES,1,2,YES,36700,3670,7340,25690,Nissan,Pathfinder,2010,N
+CLM-00994,674570,2015-02-17,Multi-vehicle Collision,Side Collision,Total Loss,Other,OH,Hillsdale,1643 Washington Hwy,20,3,,0,1,,60200,6020,6020,48160,Volkswagen,Passat,2012,N
+CLM-00995,681486,2015-01-22,Parked Car,,Minor Damage,,SC,Northbend,6516 Solo Drive,6,1,,1,2,YES,6480,540,1080,4860,Honda,Civic,1996,N
+CLM-00996,941851,2015-02-22,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NC,Northbrook,6045 Andromedia St,20,1,YES,0,1,,87200,17440,8720,61040,Honda,Accord,2006,N
+CLM-00997,186934,2015-01-24,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,Northbend,3092 Texas Drive,23,1,YES,2,3,,108480,18080,18080,72320,Volkswagen,Passat,2015,N
+CLM-00998,918516,2015-01-23,Multi-vehicle Collision,Side Collision,Minor Damage,Police,NC,Arlington,7629 5th St,4,3,,2,3,YES,67500,7500,7500,52500,Suburu,Impreza,1996,N
+CLM-00999,533940,2015-02-26,Single Vehicle Collision,Rear Collision,Major Damage,Other,NY,Arlington,6128 Elm Lane,2,1,,0,1,YES,46980,5220,5220,36540,Audi,A5,1998,N
+CLM-01000,556080,2015-02-26,Parked Car,,Minor Damage,Police,WV,Columbus,1416 Cherokee Ridge,6,1,,0,3,,5060,460,920,3680,Mercedes,E400,2007,N

@@ -1,0 +1,11 @@
+pandas
+sqlalchemy
+pymysql
+python-dotenv
+jupyter
+requests
+seaborn
+matplotlib
+lightgbm 
+shap 
+joblib
