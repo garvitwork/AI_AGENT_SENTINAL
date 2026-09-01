@@ -1,0 +1,22 @@
+schema: '2.0'
+stages:
+  prep_data:
+    cmd: python db/prep_data.py
+    deps:
+    - path: data/raw/insurance_claims.xlsx
+      hash: md5
+      md5: 7feb7ba515dfb22b991b661e5b21860a
+      size: 233272
+    - path: db/prep_data.py
+      hash: md5
+      md5: 972b1036381a9b629912d0ca5ee31ee7
+      size: 1348
+    outs:
+    - path: data/processed/claims.csv
+      hash: md5
+      md5: 5ba3063669bd75d66f4d5fde9945c2a2
+      size: 168115
+    - path: data/processed/policyholders.csv
+      hash: md5
+      md5: f2b1c501ec0c568b84b05aa2895b1d06
+      size: 115646

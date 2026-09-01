@@ -1,0 +1,15 @@
+paths:
+  raw_data: data/raw/insurance_claims.xlsx
+  processed_policyholders: data/processed/policyholders.csv
+  processed_claims: data/processed/claims.csv
+  risk_metrics: outputs/risk_metrics.json
+
+risk_classifier:
+  n_estimators: 300
+  max_depth: 5
+  learning_rate: 0.05
+
+dagshub:
+  repo_owner: garvitwork
+  repo_name: AI_AGENT_SENTINEL
+  mlflow_tracking: true

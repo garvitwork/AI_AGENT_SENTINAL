@@ -1,0 +1,62 @@
+stages:
+  prep_data:
+    cmd: python db/prep_data.py
+    deps:
+      - db/prep_data.py
+      - data/raw/insurance_claims.xlsx
+    outs:
+      - data/processed/policyholders.csv
+      - data/processed/claims.csv
+
+  seed_db:
+    cmd: python db/seed.py
+    deps:
+      - db/seed.py
+      - data/processed/policyholders.csv
+      - data/processed/claims.csv
+    outs:
+      - data/.load_marker:
+          cache: false
+
+  vehicle_enrich:
+    cmd: python db/vehicle_enrich.py
+    deps:
+      - db/vehicle_enrich.py
+      - data/.load_marker
+    outs:
+      - data/.enrich_marker:
+          cache: false
+
+  build_features:
+    cmd: python notebooks/preprocess.py
+    deps:
+      - notebooks/preprocess.py
+      - data/.enrich_marker
+    outs:
+      - notebooks/X_train.csv
+      - notebooks/X_test.csv
+      - notebooks/y_train.csv
+      - notebooks/y_test.csv
+      - notebooks/encoders.pkl
+      - notebooks/feature_order.pkl
+
+  train_risk_classifier:
+    cmd: python notebooks/train_model.py
+    deps:
+      - notebooks/train_model.py
+      - notebooks/X_train.csv
+      - notebooks/X_test.csv
+      - notebooks/y_train.csv
+      - notebooks/y_test.csv
+    params:
+      - risk_classifier.n_estimators
+      - risk_classifier.max_depth
+      - risk_classifier.learning_rate
+    outs:
+      - notebooks/fraud_model.pkl
+      - notebooks/shap_explainer.pkl
+    metrics:
+      - outputs/risk_metrics.json:
+          cache: false
+    plots:
+      - outputs/confusion_matrix.png
