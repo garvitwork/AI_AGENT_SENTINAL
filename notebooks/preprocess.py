@@ -7,6 +7,7 @@ Run from notebooks/ folder (same dir as eda.ipynb).
 """
 
 import os
+import joblib
 import pandas as pd
 from sqlalchemy import create_engine
 from urllib.parse import quote_plus
@@ -69,3 +70,7 @@ if __name__ == "__main__":
     X_test.to_csv("X_test.csv", index=False)
     y_train.to_csv("y_train.csv", index=False)
     y_test.to_csv("y_test.csv", index=False)
+
+    joblib.dump(encoders, "encoders.pkl")
+    joblib.dump(list(X.columns), "feature_order.pkl")
+    print("Saved encoders.pkl and feature_order.pkl")
