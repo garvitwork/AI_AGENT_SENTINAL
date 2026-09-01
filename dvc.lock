@@ -20,3 +20,120 @@ stages:
       hash: md5
       md5: f2b1c501ec0c568b84b05aa2895b1d06
       size: 115646
+  seed_db:
+    cmd: python db/seed.py
+    deps:
+    - path: data/processed/claims.csv
+      hash: md5
+      md5: 5ba3063669bd75d66f4d5fde9945c2a2
+      size: 168115
+    - path: data/processed/policyholders.csv
+      hash: md5
+      md5: f2b1c501ec0c568b84b05aa2895b1d06
+      size: 115646
+    - path: db/seed.py
+      hash: md5
+      md5: 1e6aee9d403822b49c50bac446b0cf52
+      size: 1546
+    outs:
+    - path: data/.load_marker
+      hash: md5
+      md5: 2430fe39e225818bd957ed4cb53eb770
+      size: 6
+  vehicle_enrich:
+    cmd: python db/vehicle_enrich.py
+    deps:
+    - path: data/.load_marker
+      hash: md5
+      md5: 2430fe39e225818bd957ed4cb53eb770
+      size: 6
+    - path: db/vehicle_enrich.py
+      hash: md5
+      md5: 7aefd9f57b6c1afe5ef1c753d5343f7c
+      size: 2804
+    outs:
+    - path: data/.enrich_marker
+      hash: md5
+      md5: cf33fae69c615db11fe34344cb720980
+      size: 8
+  build_features:
+    cmd: python notebooks/preprocess.py
+    deps:
+    - path: data/.enrich_marker
+      hash: md5
+      md5: cf33fae69c615db11fe34344cb720980
+      size: 8
+    - path: notebooks/preprocess.py
+      hash: md5
+      md5: b414346b66dca4db046b156e1b6eb10f
+      size: 2760
+    outs:
+    - path: notebooks/X_test.csv
+      hash: md5
+      md5: 8ff7c088a3fd8d4cc3471df3a8f8c788
+      size: 18397
+    - path: notebooks/X_train.csv
+      hash: md5
+      md5: 0016a31ffbfcbd7dd22a9159f9fd9d6e
+      size: 71874
+    - path: notebooks/encoders.pkl
+      hash: md5
+      md5: 2c8cfc69bd19fcaf9536ff7c10857227
+      size: 5637
+    - path: notebooks/feature_order.pkl
+      hash: md5
+      md5: 6d44b66ab9f06dadb3f9d7c2a6ba0d1c
+      size: 564
+    - path: notebooks/y_test.csv
+      hash: md5
+      md5: 3169c13c20eaeaa9adc6fa01fae92519
+      size: 616
+    - path: notebooks/y_train.csv
+      hash: md5
+      md5: b73d86653b801051b9b2d5ee766b1e6f
+      size: 2416
+  train_risk_classifier:
+    cmd: python notebooks/train_model.py
+    deps:
+    - path: notebooks/X_test.csv
+      hash: md5
+      md5: 8ff7c088a3fd8d4cc3471df3a8f8c788
+      size: 18397
+    - path: notebooks/X_train.csv
+      hash: md5
+      md5: 0016a31ffbfcbd7dd22a9159f9fd9d6e
+      size: 71874
+    - path: notebooks/train_model.py
+      hash: md5
+      md5: 3a90c49f95f8f5dacc0b7a8bba61d042
+      size: 3001
+    - path: notebooks/y_test.csv
+      hash: md5
+      md5: 3169c13c20eaeaa9adc6fa01fae92519
+      size: 616
+    - path: notebooks/y_train.csv
+      hash: md5
+      md5: b73d86653b801051b9b2d5ee766b1e6f
+      size: 2416
+    params:
+      params.yaml:
+        risk_classifier.learning_rate: 0.05
+        risk_classifier.max_depth: 5
+        risk_classifier.n_estimators: 300
+    outs:
+    - path: notebooks/fraud_model.pkl
+      hash: md5
+      md5: 40bd87ecd5e38c1ec0aa7d3759b69263
+      size: 532100
+    - path: notebooks/shap_explainer.pkl
+      hash: md5
+      md5: 05e40ba698fb1ef3f5509ce41c4efede
+      size: 1628311
+    - path: outputs/confusion_matrix.png
+      hash: md5
+      md5: 273bf0c811bb17db14b9af16fca86a92
+      size: 18820
+    - path: outputs/risk_metrics.json
+      hash: md5
+      md5: c8d6a1a99e9dba3decdb964e440d88e0
+      size: 135
