@@ -127,7 +127,7 @@ stages:
       size: 532100
     - path: notebooks/shap_explainer.pkl
       hash: md5
-      md5: c57c393a910a7095a9fc5a7620e9f28c
+      md5: 85d4c43efb303fd431de65d9b9b25579
       size: 1628311
     - path: outputs/confusion_matrix.png
       hash: md5
