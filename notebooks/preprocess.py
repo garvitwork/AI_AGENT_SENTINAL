@@ -18,9 +18,14 @@ from dotenv import load_dotenv
 load_dotenv()
 DB_USER = os.getenv("DB_USER")
 DB_PASS = quote_plus(os.getenv("DB_PASS"))
-DB_HOST = os.getenv("DB_HOST", "localhost")
-DB_NAME = os.getenv("DB_NAME", "claim_sentinel")
-engine = create_engine(f"mysql+pymysql://{DB_USER}:{DB_PASS}@{DB_HOST}/{DB_NAME}")
+DB_HOST = os.getenv("DB_HOST")
+DB_PORT = os.getenv("DB_PORT", "3306")
+DB_NAME = os.getenv("DB_NAME")
+DB_SSL_CA = os.getenv("DB_SSL_CA")
+engine = create_engine(
+    f"mysql+pymysql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}",
+    connect_args={"ssl": {"ca": DB_SSL_CA}} if DB_SSL_CA else {},
+)
 
 def load_data():
     claims = pd.read_sql("SELECT * FROM claims", engine)
@@ -66,11 +71,11 @@ if __name__ == "__main__":
     print(f"Train: {X_train.shape}, Test: {X_test.shape}")
     print(f"Train fraud rate: {y_train.mean():.3f}, Test fraud rate: {y_test.mean():.3f}")
 
-    X_train.to_csv("X_train.csv", index=False)
-    X_test.to_csv("X_test.csv", index=False)
-    y_train.to_csv("y_train.csv", index=False)
-    y_test.to_csv("y_test.csv", index=False)
+    X_train.to_csv("notebooks/X_train.csv", index=False)
+    X_test.to_csv("notebooks/X_test.csv", index=False)
+    y_train.to_csv("notebooks/y_train.csv", index=False)
+    y_test.to_csv("notebooks/y_test.csv", index=False)
 
-    joblib.dump(encoders, "encoders.pkl")
-    joblib.dump(list(X.columns), "feature_order.pkl")
+    joblib.dump(encoders, "notebooks/encoders.pkl")
+    joblib.dump(list(X.columns), "notebooks/feature_order.pkl")
     print("Saved encoders.pkl and feature_order.pkl")

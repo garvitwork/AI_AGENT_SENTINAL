@@ -1,23 +1,24 @@
 """
 Trains a fraud classifier (LightGBM) with SHAP explainability,
-tracked end-to-end via MLflow hosted on DagsHub.
-Run from notebooks/ folder, after preprocess.py.
-
-Setup:
-1. Create a DagsHub repo (free): https://dagshub.com
-2. pip install dagshub mlflow
-3. Add to .env: DAGSHUB_REPO_OWNER=your_username, DAGSHUB_REPO_NAME=your_repo
+tracked via MLflow on DagsHub. Reads hyperparams from params.yaml.
+DVC stage: run from project root as `python notebooks/train_model.py`.
 """
 
 import os
+import json
+import yaml
 import pandas as pd
 import lightgbm as lgb
 import shap
 import joblib
 import mlflow
 import dagshub
+import matplotlib.pyplot as plt
 from dotenv import load_dotenv
-from sklearn.metrics import classification_report, roc_auc_score, precision_score, recall_score, f1_score
+from sklearn.metrics import (
+    classification_report, roc_auc_score, precision_score,
+    recall_score, f1_score, confusion_matrix, ConfusionMatrixDisplay,
+)
 
 load_dotenv()
 
@@ -30,18 +31,24 @@ dagshub.init(
     mlflow=True,
 )
 
-X_train = pd.read_csv("X_train.csv")
-X_test = pd.read_csv("X_test.csv")
-y_train = pd.read_csv("y_train.csv").iloc[:, 0]
-y_test = pd.read_csv("y_test.csv").iloc[:, 0]
+with open("params.yaml") as f:
+    all_params = yaml.safe_load(f)
+rc_params = all_params["risk_classifier"]
+
+X_train = pd.read_csv("notebooks/X_train.csv")
+X_test = pd.read_csv("notebooks/X_test.csv")
+y_train = pd.read_csv("notebooks/y_train.csv").iloc[:, 0]
+y_test = pd.read_csv("notebooks/y_test.csv").iloc[:, 0]
 
 params = {
-    "n_estimators": 75,
-    "max_depth": 3,
-    "learning_rate": 0.05,
+    "n_estimators": rc_params["n_estimators"],
+    "max_depth": rc_params["max_depth"],
+    "learning_rate": rc_params["learning_rate"],
     "class_weight": "balanced",
     "random_state": 42,
 }
+
+os.makedirs("outputs", exist_ok=True)
 
 with mlflow.start_run(run_name="lightgbm_fraud_classifier"):
     mlflow.log_params(params)
@@ -63,15 +70,26 @@ with mlflow.start_run(run_name="lightgbm_fraud_classifier"):
     print(classification_report(y_test, y_pred, target_names=["Not Fraud", "Fraud"]))
     print(metrics)
 
+    with open("outputs/risk_metrics.json", "w") as f:
+        json.dump(metrics, f, indent=2)
+
+    cm = confusion_matrix(y_test, y_pred)
+    disp = ConfusionMatrixDisplay(cm, display_labels=["Not Fraud", "Fraud"])
+    disp.plot(cmap="Blues")
+    plt.title("Fraud Classifier Confusion Matrix")
+    plt.savefig("outputs/confusion_matrix.png", bbox_inches="tight")
+    plt.close()
+
     mlflow.lightgbm.log_model(model, artifact_path="fraud_model", registered_model_name="claim_sentinel_fraud_model")
 
     # SHAP explainability
     explainer = shap.TreeExplainer(model)
     shap_values = explainer.shap_values(X_test)
 
-    joblib.dump(model, "fraud_model.pkl")
-    joblib.dump(explainer, "shap_explainer.pkl")
-    mlflow.log_artifact("fraud_model.pkl")
-    mlflow.log_artifact("shap_explainer.pkl")
+    joblib.dump(model, "notebooks/fraud_model.pkl")
+    joblib.dump(explainer, "notebooks/shap_explainer.pkl")
+    mlflow.log_artifact("notebooks/fraud_model.pkl")
+    mlflow.log_artifact("notebooks/shap_explainer.pkl")
+    mlflow.log_artifact("outputs/confusion_matrix.png")
 
-    print("Saved fraud_model.pkl, shap_explainer.pkl, and logged run to DagsHub MLflow")
+    print("Saved fraud_model.pkl, shap_explainer.pkl, risk_metrics.json, confusion_matrix.png")

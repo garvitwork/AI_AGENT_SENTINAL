@@ -33,8 +33,8 @@ stages:
       size: 115646
     - path: db/seed.py
       hash: md5
-      md5: 1e6aee9d403822b49c50bac446b0cf52
-      size: 1546
+      md5: ffd8199b3c32ac255443715fbbfd82af
+      size: 1667
     outs:
     - path: data/.load_marker
       hash: md5
@@ -49,8 +49,8 @@ stages:
       size: 6
     - path: db/vehicle_enrich.py
       hash: md5
-      md5: 7aefd9f57b6c1afe5ef1c753d5343f7c
-      size: 2804
+      md5: ea6b8b6d31499dcf7cc45b1961a19ebb
+      size: 2528
     outs:
     - path: data/.enrich_marker
       hash: md5
@@ -65,8 +65,8 @@ stages:
       size: 8
     - path: notebooks/preprocess.py
       hash: md5
-      md5: b414346b66dca4db046b156e1b6eb10f
-      size: 2760
+      md5: 988fdc122bd21a3d81231e3c6e138cae
+      size: 2886
     outs:
     - path: notebooks/X_test.csv
       hash: md5

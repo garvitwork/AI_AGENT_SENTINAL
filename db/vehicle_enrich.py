@@ -1,10 +1,6 @@
 """
 Cross-checks each claim's (auto_make, auto_model, auto_year) against NHTSA's
-official vPIC catalog. If the claimed model doesn't exist for that make/year,
-it's a red flag (fabricated or mistyped vehicle info) -> feeds fraud model later.
-Uses fuzzy matching since dataset has typos/formatting differences
-(e.g. "Suburu"->Subaru, "Accura"->Acura, "Ultima"->Altima, "F150"->F-150).
-Free, no key: https://vpic.nhtsa.dot.gov/api/
+official vPIC catalog. Free, no key: https://vpic.nhtsa.dot.gov/api/
 """
 
 import os
@@ -19,16 +15,17 @@ load_dotenv()
 
 DB_USER = os.getenv("DB_USER")
 DB_PASS = quote_plus(os.getenv("DB_PASS"))
-DB_HOST = os.getenv("DB_HOST", "localhost")
-DB_NAME = os.getenv("DB_NAME", "claim_sentinel")
+DB_HOST = os.getenv("DB_HOST")
+DB_PORT = os.getenv("DB_PORT", "3306")
+DB_NAME = os.getenv("DB_NAME")
+DB_SSL_CA = os.getenv("DB_SSL_CA")
 
-engine = create_engine(f"mysql+pymysql://{DB_USER}:{DB_PASS}@{DB_HOST}/{DB_NAME}")
+engine = create_engine(
+    f"mysql+pymysql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}",
+    connect_args={"ssl": {"ca": DB_SSL_CA}} if DB_SSL_CA else {},
+)
 
-# common make typos in this dataset -> official NHTSA make name
-MAKE_FIXES = {
-    "suburu": "subaru",
-    "accura": "acura",
-}
+MAKE_FIXES = {"suburu": "subaru", "accura": "acura"}
 
 NHTSA_URL = "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/{make}/modelyear/{year}?format=json"
 
@@ -45,9 +42,12 @@ def check_model(make: str, model: str, year: int) -> tuple[bool, float]:
     results = resp.json().get("Results", [])
     official_models = [r["Model_Name"] for r in results]
     score = best_match_score(model, official_models)
-    return score >= 0.6, round(score, 2)  # 0.6 = fuzzy-match threshold, tune as needed
+    return score >= 0.6, round(score, 2)
 
 def enrich_vehicle_checks():
+    with engine.begin() as conn:
+        conn.execute(text("TRUNCATE TABLE vehicle_check"))
+
     with engine.connect() as conn:
         rows = conn.execute(text(
             "SELECT DISTINCT auto_make, auto_model, auto_year FROM claims"
@@ -66,4 +66,6 @@ def enrich_vehicle_checks():
 
 if __name__ == "__main__":
     enrich_vehicle_checks()
-
+    os.makedirs("data", exist_ok=True)
+    with open("data/.enrich_marker", "w") as f:
+        f.write("enriched")

@@ -1,10 +1,4 @@
-SET FOREIGN_KEY_CHECKS = 0;
-DROP TABLE IF EXISTS audit_log;
-DROP TABLE IF EXISTS adjuster_decisions;
-DROP TABLE IF EXISTS vehicle_check;
-DROP TABLE IF EXISTS claims;
-DROP TABLE IF EXISTS policyholders;
-SET FOREIGN_KEY_CHECKS = 1;
+USE defaultdb;
 
 CREATE TABLE policyholders (
     policy_number           INT PRIMARY KEY,
@@ -50,9 +44,9 @@ CREATE TABLE claims (
     auto_make                      VARCHAR(50),
     auto_model                     VARCHAR(50),
     auto_year                      INT,
-    fraud_reported                 VARCHAR(5),
-    fraud_probability              FLOAT DEFAULT NULL,
-    risk_flag                      VARCHAR(20) DEFAULT NULL,
+    fraud_reported                 VARCHAR(5),         -- Y/N, ground-truth label
+    fraud_probability              FLOAT DEFAULT NULL,  -- filled after ML scoring
+    risk_flag                      VARCHAR(20) DEFAULT NULL,  -- low / high
     FOREIGN KEY (policy_number) REFERENCES policyholders(policy_number)
 );
 
@@ -60,7 +54,7 @@ CREATE TABLE vehicle_check (
     auto_make        VARCHAR(50),
     auto_model       VARCHAR(50),
     auto_year        INT,
-    model_exists      TINYINT(1),
+    model_exists      TINYINT(1),   -- NHTSA confirms this model exists for make+year
     checked_at        DATETIME DEFAULT CURRENT_TIMESTAMP,
     PRIMARY KEY (auto_make, auto_model, auto_year)
 );
@@ -68,9 +62,9 @@ CREATE TABLE vehicle_check (
 CREATE TABLE adjuster_decisions (
     decision_id     INT AUTO_INCREMENT PRIMARY KEY,
     claim_id        VARCHAR(20),
-    decision        VARCHAR(20),
-    reasoning       TEXT,
-    decided_by      VARCHAR(50),
+    decision        VARCHAR(20),        -- approved / escalated / denied
+    reasoning       TEXT,               -- SHAP-based explanation text
+    decided_by      VARCHAR(50),        -- 'agent' or adjuster name
     decided_at      DATETIME DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (claim_id) REFERENCES claims(claim_id)
 );
@@ -78,7 +72,7 @@ CREATE TABLE adjuster_decisions (
 CREATE TABLE audit_log (
     log_id          INT AUTO_INCREMENT PRIMARY KEY,
     claim_id        VARCHAR(20),
-    agent_name      VARCHAR(50),
+    agent_name      VARCHAR(50),        -- IntakeAgent / FraudRiskAgent / AdjudicationAgent
     action          VARCHAR(100),
     details         TEXT,
     logged_at       DATETIME DEFAULT CURRENT_TIMESTAMP,

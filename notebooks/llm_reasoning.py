@@ -42,9 +42,27 @@ points, no bold text. Be factual, no speculation beyond the given factors."""
             model=MODEL,
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
-            max_tokens=300,
+            max_tokens=600,
+            reasoning_effort="low",
         )
-        return response.choices[0].message.content.strip()
+        note = response.choices[0].message.content.strip()
+        finish_reason = response.choices[0].finish_reason
+
+        # retry once if response looks cut off/incomplete
+        if len(note) < 50 or finish_reason not in ("stop", None):
+            response = client.chat.completions.create(
+                model=MODEL,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.3,
+                max_tokens=600,
+                reasoning_effort="low",
+            )
+            note = response.choices[0].message.content.strip()
+
+        if len(note) < 50:
+            raise ValueError(f"LLM returned incomplete note: '{note}'")
+
+        return note
     except Exception as e:
         # fallback to plain templated reasoning if API fails
         return (
